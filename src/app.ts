@@ -11,16 +11,20 @@ type GithubRepoSummary = {
 }
 
 async function repo_summary(parsed_github: ParsedGithub, octokit: Octokit): Promise<GithubRepoSummary> {
-    const repo_info = await octokit.rest.repos.get(
-        {
-            owner: parsed_github.author,
-            repo: parsed_github.repo
-        }
-    );
-    return {
-        repo_url: `https://github.com/${parsed_github.author}/${parsed_github.repo}`,
-        stargazers: repo_info.data.stargazers_count
-    };
+    try {
+        const repo_info = await octokit.rest.repos.get(
+            {
+                owner: parsed_github.author,
+                repo: parsed_github.repo
+            }
+        );
+        return {
+            repo_url: `https://github.com/${parsed_github.author}/${parsed_github.repo}`,
+            stargazers: repo_info.data.stargazers_count
+        };
+    } catch (error) {
+        return null;
+    }
 }
 
 const app = command({
@@ -95,7 +99,7 @@ const app = command({
                 break;
             }
             if (asset_idx == 0) {
-                godot_bar = multibar.create(limit < 0 ? paginated.get_total() : limit, 0);
+                godot_bar = multibar.create(limit < 0 ? paginated.get_total() : Math.min(limit, paginated.get_total()), 0);
                 godot_bar.update(0, {name: "godot"});
             }
             parsed_github_promises.push(parse_github(asset).then(gh => {
@@ -119,13 +123,14 @@ const app = command({
         }
 
         const resolved = await Promise.all(github_repo_promises);
+        const result = resolved.filter(r => r != null);
         multibar.stop();
 
         // Finish Phase
         if (out == "") {
-            console.log(resolved);
+            console.log(result);
         } else {
-            writeFile(out, JSON.stringify(resolved), err => {
+            writeFile(out, JSON.stringify(result), err => {
                 if (err) {
                     console.error("Cannot write file", err);
                 }
