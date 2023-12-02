@@ -1,9 +1,8 @@
 import {Octokit} from "octokit";
 import {writeFile} from "fs";
-import {AxiosResponse, default as axios} from "axios";
-import {MultiBar, SingleBar, Presets} from "cli-progress";
+import {MultiBar, Presets} from "cli-progress";
 import {number, boolean, command, flag, option, run, string} from "cmd-ts";
-import {AssetResult, PaginatedGodotAssets, parse_github, ParsedGithub} from "./godot_assets";
+import {PaginatedGodotAssets, parse_github, ParsedGithub} from "./godot_assets";
 
 
 type GithubRepoSummary = {
@@ -87,7 +86,7 @@ const app = command({
         // Godot Phase
         const multibar = new MultiBar({format: "{bar} | {value}/{total} | {name}"}, Presets.shades_grey);
         const paginated = new PaginatedGodotAssets(page_size);
-        const parsed_githubs: ParsedGithub[] = [];
+        const parsed_github_promises: Promise<ParsedGithub>[] = [];
         let godot_bar;
 
         for (let asset_idx = 0; limit < 0 || asset_idx < limit; asset_idx++) {
@@ -99,13 +98,13 @@ const app = command({
                 godot_bar = multibar.create(limit < 0 ? paginated.get_total() : limit, 0);
                 godot_bar.update(0, {name: "godot"});
             }
-            godot_bar.increment();
-            const parsed_github = await parse_github(asset);
-            if (parsed_github == null) {
-                continue;
-            }
-            parsed_githubs.push(parsed_github);
+            parsed_github_promises.push(parse_github(asset).then(gh => {
+                godot_bar.increment();
+                return gh;
+            }));
         }
+        const parsed_github_results = await Promise.all(parsed_github_promises);
+        const parsed_githubs = parsed_github_results.filter(gh => gh != null);
 
         // Github Phase
         const github_repo_promises: Promise<GithubRepoSummary>[] = [];

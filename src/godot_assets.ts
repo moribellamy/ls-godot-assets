@@ -30,14 +30,14 @@ export async function parse_github(asset: AssetResult): Promise<ParsedGithub> {
     try {
         asset_response = await axios.get(`https://godotengine.org/asset-library/api/asset/${asset.asset_id}`);
     } catch (error) {
-        console.error(`error: ${asset.asset_id} -> ${error.response.status}`);
+        // console.error(`error: ${asset.asset_id} -> ${error.response.status}`);
         return null;
     }
     const browse_url: string = asset_response.data.browse_url;
     const parts = browse_url.split("/");
     const found = parts.findIndex(x => x == "github.com");
     if (found < 0 || parts.length < found + 3) {
-        console.error(`error: ${asset.asset_id} -> ${browse_url}`);
+        // console.error(`error: ${asset.asset_id} -> ${browse_url}`);
         return null;
     }
     return {
