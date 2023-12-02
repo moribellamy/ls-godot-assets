@@ -1,7 +1,5 @@
 import {default as axios} from "axios";
-import {Octokit} from "octokit";
 import {AxiosResponse} from "axios/index";
-import {string} from "cmd-ts";
 
 export type AssetResult = {
     asset_id: string

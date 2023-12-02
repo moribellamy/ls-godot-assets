@@ -66,12 +66,12 @@ const app = command({
         })
     },
     handler: async ({
-                        out,
-                        check_rate,
-                        gh_api_key,
-                        limit,
-                        page_size
-                    }) => {
+        out,
+        check_rate,
+        gh_api_key,
+        limit,
+        page_size
+    }) => {
         const octokit = new Octokit({auth: gh_api_key});
 
         if (check_rate) {
