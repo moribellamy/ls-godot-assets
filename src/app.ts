@@ -139,5 +139,4 @@ const app = command({
     },  // main handler
 });  // app def
 
-
-run(app, process.argv.slice(2));
+run(app, process.argv.slice(2)).then();
