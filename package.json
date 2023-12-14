@@ -2,10 +2,10 @@
   "name": "ls-godot-assets",
   "version": "1.0.0",
   "description": "",
-  "main": "app.ts",
+  "main": "src/app.ts",
   "scripts": {
-    "lint-fix": "eslint . --ext .ts --fix",
-    "lint": "eslint . --ext .ts",
+    "lint-fix": "eslint src --ext .ts --fix",
+    "lint": "eslint src --ext .ts",
     "app": "tsc && node dist/app.js",
     "compile": "tsc"
   },
