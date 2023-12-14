@@ -127,6 +127,7 @@ const app = command({
         multibar.stop();
 
         // Finish Phase
+        result.sort((a, b) => b.stargazers - a.stargazers);
         if (out == "") {
             console.log(result);
         } else {

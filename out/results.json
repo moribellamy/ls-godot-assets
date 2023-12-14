@@ -1,0 +1,7626 @@
+[
+  {
+    "repo_url": "https://github.com/godotengine/godot-demo-projects",
+    "stargazers": 4525
+  },
+  {
+    "repo_url": "https://github.com/RodZill4/godot-procedural-textures",
+    "stargazers": 2877
+  },
+  {
+    "repo_url": "https://github.com/coppolaemilio/dialogic",
+    "stargazers": 2760
+  },
+  {
+    "repo_url": "https://github.com/Gramps/GodotSteam",
+    "stargazers": 2019
+  },
+  {
+    "repo_url": "https://github.com/CoaguCo-Industries/GodotSteam",
+    "stargazers": 2019
+  },
+  {
+    "repo_url": "https://github.com/HungryProton/scatter",
+    "stargazers": 1652
+  },
+  {
+    "repo_url": "https://github.com/Zylann/godot_heightmap_plugin",
+    "stargazers": 1468
+  },
+  {
+    "repo_url": "https://github.com/bitwes/Gut",
+    "stargazers": 1457
+  },
+  {
+    "repo_url": "https://github.com/nathanhoad/godot_dialogue_manager",
+    "stargazers": 1389
+  },
+  {
+    "repo_url": "https://github.com/bitbrain/beehave",
+    "stargazers": 1228
+  },
+  {
+    "repo_url": "https://github.com/godot-jolt/godot-jolt",
+    "stargazers": 1197
+  },
+  {
+    "repo_url": "https://github.com/remorse107/rmsmartshape2d",
+    "stargazers": 937
+  },
+  {
+    "repo_url": "https://github.com/SirRamEsq/SmartShape2D",
+    "stargazers": 937
+  },
+  {
+    "repo_url": "https://github.com/QodotPlugin/qodot-plugin",
+    "stargazers": 928
+  },
+  {
+    "repo_url": "https://github.com/godot-extended-libraries/godot-next",
+    "stargazers": 863
+  },
+  {
+    "repo_url": "https://github.com/godotengine/tps-demo",
+    "stargazers": 833
+  },
+  {
+    "repo_url": "https://github.com/GDquest/godot-3d-mannequin",
+    "stargazers": 810
+  },
+  {
+    "repo_url": "https://github.com/Arnklit/WaterGenGodot",
+    "stargazers": 809
+  },
+  {
+    "repo_url": "https://github.com/vnen/godot-tiled-importer",
+    "stargazers": 766
+  },
+  {
+    "repo_url": "https://github.com/ramokz/phantom-camera",
+    "stargazers": 742
+  },
+  {
+    "repo_url": "https://github.com/db0/godot-card-gaming",
+    "stargazers": 736
+  },
+  {
+    "repo_url": "https://github.com/godot-escoria/escoria-demo-game",
+    "stargazers": 725
+  },
+  {
+    "repo_url": "https://github.com/jotson/ridiculous_coding",
+    "stargazers": 719
+  },
+  {
+    "repo_url": "https://github.com/quentincaffeino/godot-console",
+    "stargazers": 656
+  },
+  {
+    "repo_url": "https://github.com/2shady4u/godot-sqlite",
+    "stargazers": 625
+  },
+  {
+    "repo_url": "https://github.com/kyzfrintin/Godot-Mixing-Desk",
+    "stargazers": 605
+  },
+  {
+    "repo_url": "https://github.com/Ark2000/PankuConsole",
+    "stargazers": 578
+  },
+  {
+    "repo_url": "https://github.com/KoBeWi/Metroidvania-System",
+    "stargazers": 560
+  },
+  {
+    "repo_url": "https://github.com/godotengine/godot-git-plugin",
+    "stargazers": 558
+  },
+  {
+    "repo_url": "https://github.com/dreadpon/godot_spatial_gardener",
+    "stargazers": 555
+  },
+  {
+    "repo_url": "https://github.com/ceceppa/anima",
+    "stargazers": 554
+  },
+  {
+    "repo_url": "https://github.com/viniciusgerevini/godot-aseprite-wizard",
+    "stargazers": 547
+  },
+  {
+    "repo_url": "https://github.com/arkology/ShaderV",
+    "stargazers": 547
+  },
+  {
+    "repo_url": "https://github.com/fenix-hub/godot-engine.easy-charts",
+    "stargazers": 546
+  },
+  {
+    "repo_url": "https://github.com/fire/godot-realistic-water",
+    "stargazers": 533
+  },
+  {
+    "repo_url": "https://github.com/KenneyNL/Starter-Kit-City-Builder",
+    "stargazers": 520
+  },
+  {
+    "repo_url": "https://github.com/heroiclabs/nakama-godot",
+    "stargazers": 509
+  },
+  {
+    "repo_url": "https://github.com/MarcoFazioRandom/Virtual-Joystick-Godot",
+    "stargazers": 495
+  },
+  {
+    "repo_url": "https://github.com/KenneyNL/Starter-Kit-3D-Platformer",
+    "stargazers": 495
+  },
+  {
+    "repo_url": "https://github.com/nathanhoad/godot_input_helper",
+    "stargazers": 493
+  },
+  {
+    "repo_url": "https://github.com/Whimfoome/godot-FirstPersonStarter",
+    "stargazers": 492
+  },
+  {
+    "repo_url": "https://github.com/V-Sekai/unidot_importer",
+    "stargazers": 472
+  },
+  {
+    "repo_url": "https://github.com/paulloz/godot-ink",
+    "stargazers": 444
+  },
+  {
+    "repo_url": "https://github.com/GodotNuts/GodotFirebase",
+    "stargazers": 433
+  },
+  {
+    "repo_url": "https://github.com/tomankirilov/VPainter",
+    "stargazers": 421
+  },
+  {
+    "repo_url": "https://github.com/ClarkThyLord/Voxel-Core",
+    "stargazers": 416
+  },
+  {
+    "repo_url": "https://github.com/Ahopness/GodotRetro",
+    "stargazers": 412
+  },
+  {
+    "repo_url": "https://github.com/ramaureirac/godot-tactical-rpg",
+    "stargazers": 403
+  },
+  {
+    "repo_url": "https://github.com/imjp94/gd-YAFSM",
+    "stargazers": 400
+  },
+  {
+    "repo_url": "https://github.com/lawnjelly/smoothing-addon",
+    "stargazers": 390
+  },
+  {
+    "repo_url": "https://github.com/QodotPlugin/Qodot",
+    "stargazers": 384
+  },
+  {
+    "repo_url": "https://github.com/GodotVR/godot-xr-tools",
+    "stargazers": 383
+  },
+  {
+    "repo_url": "https://github.com/KenneyNL/Starter-Kit-FPS",
+    "stargazers": 382
+  },
+  {
+    "repo_url": "https://github.com/derkork/godot-statecharts",
+    "stargazers": 381
+  },
+  {
+    "repo_url": "https://github.com/samsface/godot-steam-api",
+    "stargazers": 370
+  },
+  {
+    "repo_url": "https://github.com/Federico-Ciuffardi/GodotTouchInputManager",
+    "stargazers": 366
+  },
+  {
+    "repo_url": "https://github.com/hiulit/Godot-3-2D-Destructible-Objects",
+    "stargazers": 359
+  },
+  {
+    "repo_url": "https://github.com/NeoSpark314/godot_oculus_quest_toolkit",
+    "stargazers": 359
+  },
+  {
+    "repo_url": "https://github.com/miskatonicstudio/goat",
+    "stargazers": 328
+  },
+  {
+    "repo_url": "https://github.com/OctoD/godot-gameplay-systems",
+    "stargazers": 327
+  },
+  {
+    "repo_url": "https://github.com/imjp94/UIDesignTool",
+    "stargazers": 324
+  },
+  {
+    "repo_url": "https://github.com/henriquelalves/SimpleGodotCRTShader",
+    "stargazers": 323
+  },
+  {
+    "repo_url": "https://github.com/OBKF/Godot-Trail-System",
+    "stargazers": 321
+  },
+  {
+    "repo_url": "https://github.com/PunchablePlushie/godot-game-settings",
+    "stargazers": 316
+  },
+  {
+    "repo_url": "https://github.com/CodeDarigan/WAT",
+    "stargazers": 312
+  },
+  {
+    "repo_url": "https://github.com/AlexDarigan/WAT",
+    "stargazers": 312
+  },
+  {
+    "repo_url": "https://github.com/Bauxitedev/meteorite",
+    "stargazers": 307
+  },
+  {
+    "repo_url": "https://github.com/BraindeadBZH/godot_card_engine",
+    "stargazers": 304
+  },
+  {
+    "repo_url": "https://github.com/SIsilicon/Godot-Volumetrics-Plugin",
+    "stargazers": 300
+  },
+  {
+    "repo_url": "https://github.com/MikeSchulze/gdUnit3",
+    "stargazers": 294
+  },
+  {
+    "repo_url": "https://github.com/hiulit/Godot-3-2D-Day-Night-Cycle",
+    "stargazers": 293
+  },
+  {
+    "repo_url": "https://github.com/hiulit/Godot-3-2D-CRT-Shader",
+    "stargazers": 286
+  },
+  {
+    "repo_url": "https://github.com/MikeSchulze/gdUnit4",
+    "stargazers": 285
+  },
+  {
+    "repo_url": "https://github.com/nathanhoad/godot_sound_manager",
+    "stargazers": 283
+  },
+  {
+    "repo_url": "https://github.com/henriquelalves/GodotTIE",
+    "stargazers": 280
+  },
+  {
+    "repo_url": "https://github.com/ywmaa/Advanced-Movement-System-Godot",
+    "stargazers": 277
+  },
+  {
+    "repo_url": "https://github.com/jarneson/godot-ply",
+    "stargazers": 274
+  },
+  {
+    "repo_url": "https://github.com/GodotVR/godot_openxr",
+    "stargazers": 273
+  },
+  {
+    "repo_url": "https://github.com/perfoon/Abandoned-Spaceship-Godot-Demo",
+    "stargazers": 266
+  },
+  {
+    "repo_url": "https://github.com/Arnklit/ShellFurGodot",
+    "stargazers": 265
+  },
+  {
+    "repo_url": "https://github.com/Portponky/better-terrain",
+    "stargazers": 260
+  },
+  {
+    "repo_url": "https://github.com/rpgwhitelock/AllSkyFree_Godot",
+    "stargazers": 259
+  },
+  {
+    "repo_url": "https://github.com/ephread/inkgd",
+    "stargazers": 259
+  },
+  {
+    "repo_url": "https://github.com/peter-kish/gloot",
+    "stargazers": 258
+  },
+  {
+    "repo_url": "https://github.com/NodotProject/nodot",
+    "stargazers": 257
+  },
+  {
+    "repo_url": "https://github.com/Bauxitedev/godot-jigglebones",
+    "stargazers": 257
+  },
+  {
+    "repo_url": "https://github.com/expressobits/inventory-system",
+    "stargazers": 255
+  },
+  {
+    "repo_url": "https://github.com/alfredbaudisch/GodotPhoenixChannels",
+    "stargazers": 255
+  },
+  {
+    "repo_url": "https://github.com/WeaselGames/godot_luaAPI",
+    "stargazers": 246
+  },
+  {
+    "repo_url": "https://github.com/godot-extended-libraries/godot-debug-menu",
+    "stargazers": 245
+  },
+  {
+    "repo_url": "https://github.com/wojtekpil/Godot-Octahedral-Impostors",
+    "stargazers": 242
+  },
+  {
+    "repo_url": "https://github.com/Moonzel/Godot-PerfBullets",
+    "stargazers": 241
+  },
+  {
+    "repo_url": "https://github.com/TheDuckCow/godot-road-generator",
+    "stargazers": 233
+  },
+  {
+    "repo_url": "https://github.com/EXPWorlds/Godot-Cel-Shader",
+    "stargazers": 227
+  },
+  {
+    "repo_url": "https://github.com/DmitriySalnikov/godot_debug_draw_3d",
+    "stargazers": 224
+  },
+  {
+    "repo_url": "https://github.com/fenix-hub/godot-engine.github-integration",
+    "stargazers": 223
+  },
+  {
+    "repo_url": "https://github.com/GodotVR/godot_openvr",
+    "stargazers": 219
+  },
+  {
+    "repo_url": "https://github.com/godot-extended-libraries/godot-lod",
+    "stargazers": 218
+  },
+  {
+    "repo_url": "https://github.com/nklbdev/godot-4-importality",
+    "stargazers": 217
+  },
+  {
+    "repo_url": "https://github.com/don-tnowe/godot-resources-as-sheets-plugin",
+    "stargazers": 217
+  },
+  {
+    "repo_url": "https://github.com/expressobits/character-controller",
+    "stargazers": 216
+  },
+  {
+    "repo_url": "https://github.com/detomon/wigglebone",
+    "stargazers": 215
+  },
+  {
+    "repo_url": "https://github.com/binogure-studio/chart-gd",
+    "stargazers": 214
+  },
+  {
+    "repo_url": "https://github.com/V-Sekai/godot-vrm",
+    "stargazers": 212
+  },
+  {
+    "repo_url": "https://github.com/duongvituan/godot-awesome-splash",
+    "stargazers": 210
+  },
+  {
+    "repo_url": "https://github.com/brandonlamb/godot-behavior-tree-plugin",
+    "stargazers": 207
+  },
+  {
+    "repo_url": "https://github.com/jabsatz/Scene-Manager",
+    "stargazers": 206
+  },
+  {
+    "repo_url": "https://github.com/glass-brick/Scene-Manager",
+    "stargazers": 206
+  },
+  {
+    "repo_url": "https://github.com/AnidemDex/Godot-DialogPlugin",
+    "stargazers": 206
+  },
+  {
+    "repo_url": "https://github.com/Bauxitedev/stylized-planet-generator",
+    "stargazers": 200
+  },
+  {
+    "repo_url": "https://github.com/Kubulambula/Godot-GDShell",
+    "stargazers": 196
+  },
+  {
+    "repo_url": "https://github.com/Yogoda/ZoneLoadingSystem",
+    "stargazers": 194
+  },
+  {
+    "repo_url": "https://github.com/oniksan/godobuf",
+    "stargazers": 191
+  },
+  {
+    "repo_url": "https://github.com/Vahera/godot-orchestrator",
+    "stargazers": 189
+  },
+  {
+    "repo_url": "https://github.com/rakugoteam/Rakugo-Dialogue-System",
+    "stargazers": 187
+  },
+  {
+    "repo_url": "https://github.com/rakugoteam/Rakugo",
+    "stargazers": 187
+  },
+  {
+    "repo_url": "https://github.com/Poing-Studios/godot-admob-plugin",
+    "stargazers": 187
+  },
+  {
+    "repo_url": "https://github.com/Poing-Studios/godot-admob-editor",
+    "stargazers": 187
+  },
+  {
+    "repo_url": "https://github.com/Master-J/DecalCo",
+    "stargazers": 187
+  },
+  {
+    "repo_url": "https://github.com/Maujoe/godot-camera-control",
+    "stargazers": 185
+  },
+  {
+    "repo_url": "https://github.com/GabrieleTorini/godot-behavior-tree",
+    "stargazers": 184
+  },
+  {
+    "repo_url": "https://github.com/Bauxitedev/godot-motion-blur",
+    "stargazers": 183
+  },
+  {
+    "repo_url": "https://github.com/tavurth/godot-radial-menu",
+    "stargazers": 182
+  },
+  {
+    "repo_url": "https://github.com/casbrugman/godot-voip",
+    "stargazers": 180
+  },
+  {
+    "repo_url": "https://github.com/Zylann/godot_scatter_plugin",
+    "stargazers": 178
+  },
+  {
+    "repo_url": "https://github.com/godotengine/webrtc-native",
+    "stargazers": 175
+  },
+  {
+    "repo_url": "https://github.com/AnidemDex/Godot-EventSystem",
+    "stargazers": 175
+  },
+  {
+    "repo_url": "https://github.com/GodotModding/godot-mod-loader",
+    "stargazers": 174
+  },
+  {
+    "repo_url": "https://github.com/nagidev/DialogueNodes",
+    "stargazers": 173
+  },
+  {
+    "repo_url": "https://github.com/HungryProton/monitor_overlay",
+    "stargazers": 173
+  },
+  {
+    "repo_url": "https://github.com/appsinacup/godot-box2d",
+    "stargazers": 171
+  },
+  {
+    "repo_url": "https://github.com/Kehom/GodotAddonPack",
+    "stargazers": 164
+  },
+  {
+    "repo_url": "https://github.com/godotessentials/2d-essentials",
+    "stargazers": 160
+  },
+  {
+    "repo_url": "https://github.com/Pyxus/fray",
+    "stargazers": 157
+  },
+  {
+    "repo_url": "https://github.com/AlexeyBond/godot-constraint-solving",
+    "stargazers": 153
+  },
+  {
+    "repo_url": "https://github.com/HarmonyHoney/ROTA",
+    "stargazers": 151
+  },
+  {
+    "repo_url": "https://github.com/paddy-exe/GodotVisualShader-Extras",
+    "stargazers": 150
+  },
+  {
+    "repo_url": "https://github.com/gilzoide/godot-dockable-container",
+    "stargazers": 149
+  },
+  {
+    "repo_url": "https://github.com/tomeyro/godot-sfxr",
+    "stargazers": 148
+  },
+  {
+    "repo_url": "https://github.com/rsubtil/controller_icons",
+    "stargazers": 144
+  },
+  {
+    "repo_url": "https://github.com/binogure-studio/godot-uuid",
+    "stargazers": 143
+  },
+  {
+    "repo_url": "https://github.com/glumpyfish/godot_redux",
+    "stargazers": 142
+  },
+  {
+    "repo_url": "https://github.com/SIsilicon/Godot-God-Rays-Plugin",
+    "stargazers": 141
+  },
+  {
+    "repo_url": "https://github.com/KOBUGE-Games/godot-logger",
+    "stargazers": 141
+  },
+  {
+    "repo_url": "https://github.com/godot-extended-libraries/godot-plugin-refresher",
+    "stargazers": 140
+  },
+  {
+    "repo_url": "https://github.com/cybereality/godot-super-scaling",
+    "stargazers": 138
+  },
+  {
+    "repo_url": "https://github.com/Yukitty/godot-addon-integer_resolution_handler",
+    "stargazers": 137
+  },
+  {
+    "repo_url": "https://github.com/brombres/Godot-GameGUI",
+    "stargazers": 136
+  },
+  {
+    "repo_url": "https://github.com/Zylann/godot_editor_debugger_plugin",
+    "stargazers": 134
+  },
+  {
+    "repo_url": "https://github.com/jocamar/Godot-Post-Process-Outlines",
+    "stargazers": 133
+  },
+  {
+    "repo_url": "https://github.com/98teg/NativeDialogs",
+    "stargazers": 133
+  },
+  {
+    "repo_url": "https://github.com/sboron/terrain-tool-godot4",
+    "stargazers": 132
+  },
+  {
+    "repo_url": "https://github.com/maktoobgar/scene_manager",
+    "stargazers": 132
+  },
+  {
+    "repo_url": "https://github.com/MilosLukic/Godot-Navigation-Lite",
+    "stargazers": 132
+  },
+  {
+    "repo_url": "https://github.com/minosvasilias/godot-copilot",
+    "stargazers": 131
+  },
+  {
+    "repo_url": "https://github.com/HarmonyHoney/tiny_crate",
+    "stargazers": 131
+  },
+  {
+    "repo_url": "https://github.com/CaptainProton42/FlexibleToonShaderGD",
+    "stargazers": 131
+  },
+  {
+    "repo_url": "https://github.com/KOBUGE-Games/minilens",
+    "stargazers": 130
+  },
+  {
+    "repo_url": "https://github.com/cloudofoz/godot-deformablemesh",
+    "stargazers": 129
+  },
+  {
+    "repo_url": "https://github.com/KoBeWi/Godot-Instance-Dock",
+    "stargazers": 129
+  },
+  {
+    "repo_url": "https://github.com/nathanhoad/godot_puzzle_dependencies",
+    "stargazers": 128
+  },
+  {
+    "repo_url": "https://github.com/Zylann/godot_terrain_plugin",
+    "stargazers": 128
+  },
+  {
+    "repo_url": "https://github.com/Ericdowney/SignalVisualizer",
+    "stargazers": 126
+  },
+  {
+    "repo_url": "https://github.com/supabase-community/godot-engine.supabase",
+    "stargazers": 125
+  },
+  {
+    "repo_url": "https://github.com/fenix-hub/godot-engine.text-editor",
+    "stargazers": 125
+  },
+  {
+    "repo_url": "https://github.com/fenix-hub/godot-engine.supabase",
+    "stargazers": 125
+  },
+  {
+    "repo_url": "https://github.com/fenix-hub/godot-engine.file-editor",
+    "stargazers": 125
+  },
+  {
+    "repo_url": "https://github.com/OrigamiDev-Pete/TODO_Manager",
+    "stargazers": 122
+  },
+  {
+    "repo_url": "https://github.com/imjp94/gd-plug",
+    "stargazers": 121
+  },
+  {
+    "repo_url": "https://github.com/EXPWorlds/Godot-Dialog-System",
+    "stargazers": 121
+  },
+  {
+    "repo_url": "https://github.com/foxssake/netfox",
+    "stargazers": 120
+  },
+  {
+    "repo_url": "https://github.com/ThePat02/BehaviourToolkit",
+    "stargazers": 120
+  },
+  {
+    "repo_url": "https://github.com/Orama-Interactive/Keychain",
+    "stargazers": 119
+  },
+  {
+    "repo_url": "https://github.com/jocamar/Godot-Common-Game-Framework",
+    "stargazers": 118
+  },
+  {
+    "repo_url": "https://github.com/fian46/addons-btree",
+    "stargazers": 117
+  },
+  {
+    "repo_url": "https://github.com/arypbatista/godot-swipe-detector",
+    "stargazers": 117
+  },
+  {
+    "repo_url": "https://github.com/Dark-Peace/BulletUpHell",
+    "stargazers": 117
+  },
+  {
+    "repo_url": "https://github.com/mapedorr/popochiu",
+    "stargazers": 116
+  },
+  {
+    "repo_url": "https://github.com/imjp94/gd-blender-3d-shortcuts",
+    "stargazers": 116
+  },
+  {
+    "repo_url": "https://github.com/98teg/SpriteMesh",
+    "stargazers": 113
+  },
+  {
+    "repo_url": "https://github.com/uzkbwza/BurstParticles2D",
+    "stargazers": 112
+  },
+  {
+    "repo_url": "https://github.com/IcterusGames/SimpleGrassTextured",
+    "stargazers": 112
+  },
+  {
+    "repo_url": "https://github.com/kubecz3k/FiniteStateMachine",
+    "stargazers": 111
+  },
+  {
+    "repo_url": "https://github.com/joshnajera/godot-vim",
+    "stargazers": 111
+  },
+  {
+    "repo_url": "https://github.com/Maujoe/Godot-Visual-Shader-Node-Library",
+    "stargazers": 111
+  },
+  {
+    "repo_url": "https://github.com/issork/gift",
+    "stargazers": 110
+  },
+  {
+    "repo_url": "https://github.com/MennoMax/gift",
+    "stargazers": 110
+  },
+  {
+    "repo_url": "https://github.com/YuriSizov/godot-editor-theme-explorer",
+    "stargazers": 108
+  },
+  {
+    "repo_url": "https://github.com/godot-extended-libraries/godot-antialiased-line2d",
+    "stargazers": 105
+  },
+  {
+    "repo_url": "https://github.com/fbcosentino/godot-simplified-flightsim",
+    "stargazers": 104
+  },
+  {
+    "repo_url": "https://github.com/brunosxs/SMRT-Godot",
+    "stargazers": 104
+  },
+  {
+    "repo_url": "https://github.com/Bauxitedev/godot-hair-shader",
+    "stargazers": 104
+  },
+  {
+    "repo_url": "https://github.com/sketchfab/godot-plugin",
+    "stargazers": 103
+  },
+  {
+    "repo_url": "https://github.com/nightblade9/godot-fancy-scene-changes",
+    "stargazers": 103
+  },
+  {
+    "repo_url": "https://github.com/Lecrapouille/gdcef",
+    "stargazers": 103
+  },
+  {
+    "repo_url": "https://github.com/vaporvee/discord-sdk-godot",
+    "stargazers": 102
+  },
+  {
+    "repo_url": "https://github.com/paulloz/godot-colorblindness",
+    "stargazers": 102
+  },
+  {
+    "repo_url": "https://github.com/Structed/godot-playfab",
+    "stargazers": 102
+  },
+  {
+    "repo_url": "https://github.com/appsinacup/godot-softbody2d",
+    "stargazers": 101
+  },
+  {
+    "repo_url": "https://github.com/PerduGames/SoftNoise-GDScript-",
+    "stargazers": 101
+  },
+  {
+    "repo_url": "https://github.com/Linko-3D/First-Person-Controller-FPS",
+    "stargazers": 101
+  },
+  {
+    "repo_url": "https://github.com/KoBeWi/Godot-Universal-Mod-Manager",
+    "stargazers": 101
+  },
+  {
+    "repo_url": "https://github.com/JeanKouss/godot-third-person-camera",
+    "stargazers": 100
+  },
+  {
+    "repo_url": "https://github.com/ashtonmeuser/godot-wasm",
+    "stargazers": 99
+  },
+  {
+    "repo_url": "https://github.com/EricEzaM/godot-color-palette",
+    "stargazers": 99
+  },
+  {
+    "repo_url": "https://github.com/BastiaanOlij/godot-sky-asset",
+    "stargazers": 99
+  },
+  {
+    "repo_url": "https://github.com/3ddelano/discord.gd",
+    "stargazers": 99
+  },
+  {
+    "repo_url": "https://github.com/Bauxitedev/spectral-visualizer",
+    "stargazers": 98
+  },
+  {
+    "repo_url": "https://github.com/zaevi/godot-filesystem-view",
+    "stargazers": 97
+  },
+  {
+    "repo_url": "https://github.com/mikatomik/Godot-4-Overgrown-Subway-Demo",
+    "stargazers": 97
+  },
+  {
+    "repo_url": "https://github.com/godot-addons/godot-finite-state-machine",
+    "stargazers": 97
+  },
+  {
+    "repo_url": "https://github.com/godot-escoria/escoria-core",
+    "stargazers": 95
+  },
+  {
+    "repo_url": "https://github.com/Oen44/Godot-Inventory",
+    "stargazers": 95
+  },
+  {
+    "repo_url": "https://github.com/timothyqiu/gdfxr",
+    "stargazers": 94
+  },
+  {
+    "repo_url": "https://github.com/SpyrexDE/SmoothScroll",
+    "stargazers": 92
+  },
+  {
+    "repo_url": "https://github.com/GodotVR/godot-xr-template",
+    "stargazers": 91
+  },
+  {
+    "repo_url": "https://github.com/Zylann/godot_debug_draw",
+    "stargazers": 89
+  },
+  {
+    "repo_url": "https://github.com/Sudospective/syndibox",
+    "stargazers": 89
+  },
+  {
+    "repo_url": "https://github.com/HolonProduction/godot_kanban_tasks",
+    "stargazers": 89
+  },
+  {
+    "repo_url": "https://github.com/folt-a/godot-idea-board",
+    "stargazers": 88
+  },
+  {
+    "repo_url": "https://github.com/pemguin005/Third-Person-Controller---Godot-Souls-like",
+    "stargazers": 87
+  },
+  {
+    "repo_url": "https://github.com/hectorid/aseprite_importer",
+    "stargazers": 87
+  },
+  {
+    "repo_url": "https://github.com/SLGamesCregg/HolePuncher",
+    "stargazers": 87
+  },
+  {
+    "repo_url": "https://github.com/Chrisknyfe/boujie_water_shader",
+    "stargazers": 87
+  },
+  {
+    "repo_url": "https://github.com/yaelatletl/godot-jigglebones",
+    "stargazers": 86
+  },
+  {
+    "repo_url": "https://github.com/SIsilicon/Godot-3D-text-plugin",
+    "stargazers": 86
+  },
+  {
+    "repo_url": "https://github.com/Marzin-bot/PostgreSQLClient",
+    "stargazers": 86
+  },
+  {
+    "repo_url": "https://github.com/Bauxitedev/godot-particle-dof",
+    "stargazers": 86
+  },
+  {
+    "repo_url": "https://github.com/daleblackwood/goshapes",
+    "stargazers": 85
+  },
+  {
+    "repo_url": "https://github.com/Maujoe/godot-flow-map-shader",
+    "stargazers": 85
+  },
+  {
+    "repo_url": "https://github.com/SnoringCatGames/surfacer",
+    "stargazers": 84
+  },
+  {
+    "repo_url": "https://github.com/Maran23/script-ide",
+    "stargazers": 84
+  },
+  {
+    "repo_url": "https://github.com/paddy-exe/ShaderFunction-Extras",
+    "stargazers": 82
+  },
+  {
+    "repo_url": "https://github.com/antopilo/voxelfactory",
+    "stargazers": 82
+  },
+  {
+    "repo_url": "https://github.com/StraToN/godot-dialogtreetools",
+    "stargazers": 82
+  },
+  {
+    "repo_url": "https://github.com/MakovWait/improved_resource_picker",
+    "stargazers": 82
+  },
+  {
+    "repo_url": "https://github.com/Kiamo2/YATI",
+    "stargazers": 82
+  },
+  {
+    "repo_url": "https://github.com/DrMoriarty/nativelib",
+    "stargazers": 82
+  },
+  {
+    "repo_url": "https://github.com/file-acomplaint/GodoTeX",
+    "stargazers": 81
+  },
+  {
+    "repo_url": "https://github.com/jitspoe/godot_bsp_importer",
+    "stargazers": 78
+  },
+  {
+    "repo_url": "https://github.com/Loregret/script-panel-plus",
+    "stargazers": 78
+  },
+  {
+    "repo_url": "https://github.com/moonbench/simple-godot-train",
+    "stargazers": 77
+  },
+  {
+    "repo_url": "https://github.com/parachutino/godot-weather-2D",
+    "stargazers": 76
+  },
+  {
+    "repo_url": "https://github.com/hiulit/Delaunator-GDScript",
+    "stargazers": 76
+  },
+  {
+    "repo_url": "https://github.com/godot-extended-libraries/godot-interpolated-camera3d",
+    "stargazers": 76
+  },
+  {
+    "repo_url": "https://github.com/Wavesonics/GodotClientServer",
+    "stargazers": 76
+  },
+  {
+    "repo_url": "https://github.com/Scipioceaser/Godot-Thief-Controller",
+    "stargazers": 76
+  },
+  {
+    "repo_url": "https://github.com/JarLowrey/GodotWeapons",
+    "stargazers": 75
+  },
+  {
+    "repo_url": "https://github.com/zcaliptium/gdinv",
+    "stargazers": 74
+  },
+  {
+    "repo_url": "https://github.com/PiCode9560/Godot-4-Concave-Mesh-Slicer",
+    "stargazers": 74
+  },
+  {
+    "repo_url": "https://github.com/0xspig/3dCharacterController",
+    "stargazers": 73
+  },
+  {
+    "repo_url": "https://github.com/anatolbogun/godot-smoother-node",
+    "stargazers": 72
+  },
+  {
+    "repo_url": "https://github.com/Zylann/godot_sdf_blender",
+    "stargazers": 72
+  },
+  {
+    "repo_url": "https://github.com/AdrienQuillet/godot-yet-another-behavior-tree",
+    "stargazers": 72
+  },
+  {
+    "repo_url": "https://github.com/noidexe/top-down-action-rpg-template",
+    "stargazers": 71
+  },
+  {
+    "repo_url": "https://github.com/kiriri/gd2cs.py",
+    "stargazers": 71
+  },
+  {
+    "repo_url": "https://github.com/RodZill4/godot-goap",
+    "stargazers": 71
+  },
+  {
+    "repo_url": "https://github.com/MatejSloboda/Dijkstra_map_for_Godot",
+    "stargazers": 71
+  },
+  {
+    "repo_url": "https://github.com/newjoker6/Horizontal-Filesystem-Like-Unity",
+    "stargazers": 70
+  },
+  {
+    "repo_url": "https://github.com/VP-GAMES/LocalizationEditor",
+    "stargazers": 70
+  },
+  {
+    "repo_url": "https://github.com/JustDooooIt/GMUI",
+    "stargazers": 70
+  },
+  {
+    "repo_url": "https://github.com/edbeeching/godot_rl_agents_plugin",
+    "stargazers": 69
+  },
+  {
+    "repo_url": "https://github.com/BenjaTK/Criss-Cross",
+    "stargazers": 69
+  },
+  {
+    "repo_url": "https://github.com/finepointcgi/Godot-Open-AI-GPT-Integration",
+    "stargazers": 68
+  },
+  {
+    "repo_url": "https://github.com/Tameno-01/GodotWigglyAppendage2D",
+    "stargazers": 68
+  },
+  {
+    "repo_url": "https://github.com/Norodix/GodotMirror",
+    "stargazers": 68
+  },
+  {
+    "repo_url": "https://github.com/KoBeWi/Godot-Text-Database",
+    "stargazers": 68
+  },
+  {
+    "repo_url": "https://github.com/Ark2000/world_of_alpheratz",
+    "stargazers": 68
+  },
+  {
+    "repo_url": "https://github.com/rdmtt/Godot-3.1-Advanced-Save-System",
+    "stargazers": 67
+  },
+  {
+    "repo_url": "https://github.com/don-tnowe/godot-auto-layout",
+    "stargazers": 67
+  },
+  {
+    "repo_url": "https://github.com/Yogoda/Project-Map",
+    "stargazers": 67
+  },
+  {
+    "repo_url": "https://github.com/RodZill4/godot-procedural-maze",
+    "stargazers": 67
+  },
+  {
+    "repo_url": "https://github.com/Linko-3D/Godot-Simple-Online-Multiplayer",
+    "stargazers": 67
+  },
+  {
+    "repo_url": "https://github.com/JohnnyRouddro/Godot_Third_Person_Shooter",
+    "stargazers": 67
+  },
+  {
+    "repo_url": "https://github.com/kuma-gee/godot-css-theme",
+    "stargazers": 66
+  },
+  {
+    "repo_url": "https://github.com/jeremyz/godot-hexgrid",
+    "stargazers": 66
+  },
+  {
+    "repo_url": "https://github.com/ejnij/Godot-DialogGraphPlugin",
+    "stargazers": 66
+  },
+  {
+    "repo_url": "https://github.com/deep-entertainment/godottpd",
+    "stargazers": 66
+  },
+  {
+    "repo_url": "https://github.com/citizenll/godot-flexbox",
+    "stargazers": 66
+  },
+  {
+    "repo_url": "https://github.com/ElectronicBlueberry/Texture-Fonts",
+    "stargazers": 66
+  },
+  {
+    "repo_url": "https://github.com/drtwisted/godot-twicil",
+    "stargazers": 65
+  },
+  {
+    "repo_url": "https://github.com/dannygaray60/godot-gamelevels-blueprint",
+    "stargazers": 65
+  },
+  {
+    "repo_url": "https://github.com/cdpude/GodotBeautifier",
+    "stargazers": 65
+  },
+  {
+    "repo_url": "https://github.com/ChronoDK/GodotBigNumberClass",
+    "stargazers": 65
+  },
+  {
+    "repo_url": "https://github.com/Chillu1/ModiBuff",
+    "stargazers": 65
+  },
+  {
+    "repo_url": "https://github.com/don-tnowe/godot-dictionary-inspector",
+    "stargazers": 63
+  },
+  {
+    "repo_url": "https://github.com/Shfty/inspector-gadget",
+    "stargazers": 63
+  },
+  {
+    "repo_url": "https://github.com/vagrod/zara",
+    "stargazers": 62
+  },
+  {
+    "repo_url": "https://github.com/dbp8890/motion-trails",
+    "stargazers": 62
+  },
+  {
+    "repo_url": "https://github.com/RodZill4/godot-platform2d",
+    "stargazers": 62
+  },
+  {
+    "repo_url": "https://github.com/lupoDharkael/godot-sprite-slicing",
+    "stargazers": 61
+  },
+  {
+    "repo_url": "https://github.com/Reun-Media/godot-levelblock",
+    "stargazers": 61
+  },
+  {
+    "repo_url": "https://github.com/henriquelalves/GodotRecorder",
+    "stargazers": 60
+  },
+  {
+    "repo_url": "https://github.com/deep-entertainment/egoventure",
+    "stargazers": 60
+  },
+  {
+    "repo_url": "https://github.com/Zylann/godot_atmosphere_shader",
+    "stargazers": 60
+  },
+  {
+    "repo_url": "https://github.com/Arnklit/WaterGenGodotDemo",
+    "stargazers": 60
+  },
+  {
+    "repo_url": "https://github.com/viniciusgerevini/godot-clyde-dialogue",
+    "stargazers": 59
+  },
+  {
+    "repo_url": "https://github.com/perfoon/Multirun",
+    "stargazers": 59
+  },
+  {
+    "repo_url": "https://github.com/kyperbelt/GDYarn",
+    "stargazers": 59
+  },
+  {
+    "repo_url": "https://github.com/jason-h-35/godot-ci-template",
+    "stargazers": 59
+  },
+  {
+    "repo_url": "https://github.com/appsinacup/godot-rapier-2d",
+    "stargazers": 59
+  },
+  {
+    "repo_url": "https://github.com/SIsilicon/Godot-Lens-Flare-Plugin",
+    "stargazers": 59
+  },
+  {
+    "repo_url": "https://github.com/don-tnowe/godot-sprite-painter",
+    "stargazers": 58
+  },
+  {
+    "repo_url": "https://github.com/arcaneenergy/godot-multimesh-scatter",
+    "stargazers": 58
+  },
+  {
+    "repo_url": "https://github.com/andresgamboaa/JamCountdown",
+    "stargazers": 58
+  },
+  {
+    "repo_url": "https://github.com/2shady4u/godot-kra-psd-importer",
+    "stargazers": 58
+  },
+  {
+    "repo_url": "https://github.com/tavurth/godot-simple-state",
+    "stargazers": 57
+  },
+  {
+    "repo_url": "https://github.com/murikistudio/simple-gui-transitions",
+    "stargazers": 57
+  },
+  {
+    "repo_url": "https://github.com/KoBeWi/Godot-Input-Remap",
+    "stargazers": 57
+  },
+  {
+    "repo_url": "https://github.com/Jummit/godot-destruction-plugin",
+    "stargazers": 57
+  },
+  {
+    "repo_url": "https://github.com/rainlizard/GDScriptMacros",
+    "stargazers": 56
+  },
+  {
+    "repo_url": "https://github.com/SIsilicon/Godot-Planar-Reflection-Plugin",
+    "stargazers": 56
+  },
+  {
+    "repo_url": "https://github.com/CodeAndWeb/texturepacker-godot-plugin",
+    "stargazers": 56
+  },
+  {
+    "repo_url": "https://github.com/KoBeWi/Godot-Universal-Fade",
+    "stargazers": 55
+  },
+  {
+    "repo_url": "https://github.com/arypbatista/godot-bordered-polygon-2d",
+    "stargazers": 54
+  },
+  {
+    "repo_url": "https://github.com/radubolovan/Godot-Database-Manager",
+    "stargazers": 53
+  },
+  {
+    "repo_url": "https://github.com/puppetmaster-/tileset_plugin",
+    "stargazers": 53
+  },
+  {
+    "repo_url": "https://github.com/nonunknown/godot-native-integration",
+    "stargazers": 53
+  },
+  {
+    "repo_url": "https://github.com/jitspoe/godot-console",
+    "stargazers": 53
+  },
+  {
+    "repo_url": "https://github.com/gokudomatic/eco-state-machine",
+    "stargazers": 53
+  },
+  {
+    "repo_url": "https://github.com/fenix-hub/godot-engine.code-snapshot",
+    "stargazers": 53
+  },
+  {
+    "repo_url": "https://github.com/Maujoe/godot-simple-wind-shader",
+    "stargazers": 53
+  },
+  {
+    "repo_url": "https://github.com/KoBeWi/Godot-Action-Icon",
+    "stargazers": 53
+  },
+  {
+    "repo_url": "https://github.com/Haidra-Org/AI-Horde-Godot-Addon",
+    "stargazers": 53
+  },
+  {
+    "repo_url": "https://github.com/scayze/MagicaVoxel-Importer",
+    "stargazers": 52
+  },
+  {
+    "repo_url": "https://github.com/samdze/godot-modifiers-plugin",
+    "stargazers": 52
+  },
+  {
+    "repo_url": "https://github.com/oganm/dice_syntax_gd",
+    "stargazers": 52
+  },
+  {
+    "repo_url": "https://github.com/don-tnowe/godot-inspector-extender",
+    "stargazers": 52
+  },
+  {
+    "repo_url": "https://github.com/SavoVuksan/EasyMenus",
+    "stargazers": 52
+  },
+  {
+    "repo_url": "https://github.com/udit/poisson-disc-sampling",
+    "stargazers": 51
+  },
+  {
+    "repo_url": "https://github.com/teebarjunk/godot-4.0-tool_button",
+    "stargazers": 51
+  },
+  {
+    "repo_url": "https://github.com/nklbdev/godot-4-aseprite-importers",
+    "stargazers": 51
+  },
+  {
+    "repo_url": "https://github.com/mashumafi/nylon",
+    "stargazers": 51
+  },
+  {
+    "repo_url": "https://github.com/heygleeson/godot-ldtk-importer",
+    "stargazers": 51
+  },
+  {
+    "repo_url": "https://github.com/gsioteam/godot-colyseus",
+    "stargazers": 51
+  },
+  {
+    "repo_url": "https://github.com/don-tnowe/godot-wyvernbox-inventory",
+    "stargazers": 51
+  },
+  {
+    "repo_url": "https://github.com/Geequlim/godot-themes",
+    "stargazers": 51
+  },
+  {
+    "repo_url": "https://github.com/yanorax/Godot-VertexAnimation-Demo",
+    "stargazers": 50
+  },
+  {
+    "repo_url": "https://github.com/Wavesonics/LANServerBroadcast",
+    "stargazers": 50
+  },
+  {
+    "repo_url": "https://github.com/TheDuriel/GDTwitch",
+    "stargazers": 50
+  },
+  {
+    "repo_url": "https://github.com/RPicster/Godot-Trello-Reporting-Tool",
+    "stargazers": 50
+  },
+  {
+    "repo_url": "https://github.com/OrigamiDev-Pete/MeshBatcher",
+    "stargazers": 50
+  },
+  {
+    "repo_url": "https://github.com/MrWalkmanDev/AdaptiSound",
+    "stargazers": 50
+  },
+  {
+    "repo_url": "https://github.com/Maujoe/godot-basic-water-material",
+    "stargazers": 50
+  },
+  {
+    "repo_url": "https://github.com/Bauxitedev/volumetric-fog-demo",
+    "stargazers": 50
+  },
+  {
+    "repo_url": "https://github.com/qarlosh/godot-crt-lottes-shader",
+    "stargazers": 49
+  },
+  {
+    "repo_url": "https://github.com/adamviola/simple-free-look-camera",
+    "stargazers": 49
+  },
+  {
+    "repo_url": "https://github.com/Giwayume/godot-svg",
+    "stargazers": 49
+  },
+  {
+    "repo_url": "https://github.com/Calinou/kenney-particle-pack",
+    "stargazers": 49
+  },
+  {
+    "repo_url": "https://github.com/zmarcos/godothreadpool",
+    "stargazers": 48
+  },
+  {
+    "repo_url": "https://github.com/mohammedzero43/CSGExport-Godot",
+    "stargazers": 48
+  },
+  {
+    "repo_url": "https://github.com/ivanskodje-godotengine/godot-plugin-calendar-button",
+    "stargazers": 48
+  },
+  {
+    "repo_url": "https://github.com/PlayGotm/GDGotm",
+    "stargazers": 48
+  },
+  {
+    "repo_url": "https://github.com/KoBeWi/Godot-Palette-Swap-Shader",
+    "stargazers": 48
+  },
+  {
+    "repo_url": "https://github.com/Federico-Ciuffardi/GestureControlledCamera2D",
+    "stargazers": 48
+  },
+  {
+    "repo_url": "https://github.com/willnationsdev/godot-inheritance-dock",
+    "stargazers": 47
+  },
+  {
+    "repo_url": "https://github.com/viktor-ferenczi/godot-voxel",
+    "stargazers": 47
+  },
+  {
+    "repo_url": "https://github.com/tavurth/godot-simple-fps-camera",
+    "stargazers": 47
+  },
+  {
+    "repo_url": "https://github.com/poohcom1/godot-animation-player-refactor",
+    "stargazers": 47
+  },
+  {
+    "repo_url": "https://github.com/moraguma/GDrama",
+    "stargazers": 47
+  },
+  {
+    "repo_url": "https://github.com/Zylann/godot_hterrain_demo",
+    "stargazers": 47
+  },
+  {
+    "repo_url": "https://github.com/MightyPrinny/godot-FLMusicLib",
+    "stargazers": 47
+  },
+  {
+    "repo_url": "https://github.com/fenix-hub/godot-engine.jwt",
+    "stargazers": 46
+  },
+  {
+    "repo_url": "https://github.com/bartekd97/gdDelaunay",
+    "stargazers": 46
+  },
+  {
+    "repo_url": "https://github.com/Xrayez/godot-editor-icons-previewer",
+    "stargazers": 46
+  },
+  {
+    "repo_url": "https://github.com/JohnnyRouddro/Godot_Third_Person_Controller",
+    "stargazers": 46
+  },
+  {
+    "repo_url": "https://github.com/Ev01/PlatformerController2D",
+    "stargazers": 46
+  },
+  {
+    "repo_url": "https://github.com/AndreMicheletti/godot-agones-sdk",
+    "stargazers": 46
+  },
+  {
+    "repo_url": "https://github.com/manglemix/Trokara",
+    "stargazers": 45
+  },
+  {
+    "repo_url": "https://github.com/StudioAdriatic/PGSGP",
+    "stargazers": 45
+  },
+  {
+    "repo_url": "https://github.com/Stoeoeoe/godot_data_editor",
+    "stargazers": 45
+  },
+  {
+    "repo_url": "https://github.com/HarmonyHoney/CandyWrapper",
+    "stargazers": 45
+  },
+  {
+    "repo_url": "https://github.com/eska014/aseprite-import",
+    "stargazers": 44
+  },
+  {
+    "repo_url": "https://github.com/curly-brace/Godot-3.0-Noise-Shaders",
+    "stargazers": 44
+  },
+  {
+    "repo_url": "https://github.com/ballerburg9005/godot-metadata-inspector",
+    "stargazers": 44
+  },
+  {
+    "repo_url": "https://github.com/SLGamesCregg/GodotXbox",
+    "stargazers": 44
+  },
+  {
+    "repo_url": "https://github.com/D2klaas/Godot-4-HTTPManager",
+    "stargazers": 44
+  },
+  {
+    "repo_url": "https://github.com/BtheDestroyer/GodotVCamera",
+    "stargazers": 44
+  },
+  {
+    "repo_url": "https://github.com/thomazthz/godot-wakatime",
+    "stargazers": 43
+  },
+  {
+    "repo_url": "https://github.com/cloudofoz/godot-curvemesh",
+    "stargazers": 43
+  },
+  {
+    "repo_url": "https://github.com/RoboYorkie/Godot_RegularPolygon2D",
+    "stargazers": 43
+  },
+  {
+    "repo_url": "https://github.com/GodotVR/godot-oculus-mobile-asset",
+    "stargazers": 43
+  },
+  {
+    "repo_url": "https://github.com/thimenesup/GodotNetworkedSceneEditor",
+    "stargazers": 42
+  },
+  {
+    "repo_url": "https://github.com/patrykkalinowski/godot-xr-kit",
+    "stargazers": 42
+  },
+  {
+    "repo_url": "https://github.com/godot-extended-libraries/godot-lod-demo",
+    "stargazers": 42
+  },
+  {
+    "repo_url": "https://github.com/drkitt/godot-input-buffer",
+    "stargazers": 42
+  },
+  {
+    "repo_url": "https://github.com/Toshiwoz/GodotMapLoader",
+    "stargazers": 42
+  },
+  {
+    "repo_url": "https://github.com/SIsilicon/Tile-Breaker-Plugin",
+    "stargazers": 42
+  },
+  {
+    "repo_url": "https://github.com/Qubus0/GodotColorPreview",
+    "stargazers": 42
+  },
+  {
+    "repo_url": "https://github.com/jgillich/godot-snappy",
+    "stargazers": 41
+  },
+  {
+    "repo_url": "https://github.com/brandonlamb/godot-object-pool",
+    "stargazers": 41
+  },
+  {
+    "repo_url": "https://github.com/Neroware/GodotRx",
+    "stargazers": 41
+  },
+  {
+    "repo_url": "https://github.com/KarlTheCool/Shader-Stacker",
+    "stargazers": 41
+  },
+  {
+    "repo_url": "https://github.com/HK-SHAO/Godot-RayTracing-Demo",
+    "stargazers": 41
+  },
+  {
+    "repo_url": "https://github.com/GodotNuts/appwrite-sdk",
+    "stargazers": 41
+  },
+  {
+    "repo_url": "https://github.com/swarnimarun/visual-scripting-node-library",
+    "stargazers": 40
+  },
+  {
+    "repo_url": "https://github.com/nyxkn/godot-draw3d",
+    "stargazers": 40
+  },
+  {
+    "repo_url": "https://github.com/dandeliondino/tile_bit_tools",
+    "stargazers": 40
+  },
+  {
+    "repo_url": "https://github.com/Goutte/godot-trackball-camera",
+    "stargazers": 40
+  },
+  {
+    "repo_url": "https://github.com/Bonkahe/SunshineClouds",
+    "stargazers": 40
+  },
+  {
+    "repo_url": "https://github.com/AppLovin/AppLovin-MAX-Godot",
+    "stargazers": 40
+  },
+  {
+    "repo_url": "https://github.com/samsface/godot-discord-game-sdk",
+    "stargazers": 39
+  },
+  {
+    "repo_url": "https://github.com/hiulit/Godot-Plugin-Particles-Renderer",
+    "stargazers": 39
+  },
+  {
+    "repo_url": "https://github.com/enjin/enjin-godot-sdk",
+    "stargazers": 39
+  },
+  {
+    "repo_url": "https://github.com/carmel4a/RTS-Camera2D",
+    "stargazers": 39
+  },
+  {
+    "repo_url": "https://github.com/98teg/JSONConfigFile",
+    "stargazers": 39
+  },
+  {
+    "repo_url": "https://github.com/rakugoteam/Emojis-For-Godot",
+    "stargazers": 38
+  },
+  {
+    "repo_url": "https://github.com/funabab/godot-git-control",
+    "stargazers": 38
+  },
+  {
+    "repo_url": "https://github.com/expressobits/steam-multiplayer-peer",
+    "stargazers": 38
+  },
+  {
+    "repo_url": "https://github.com/Zylann/godot_translation_editor",
+    "stargazers": 38
+  },
+  {
+    "repo_url": "https://github.com/Whimfoome/godot-InventorySystem",
+    "stargazers": 38
+  },
+  {
+    "repo_url": "https://github.com/WeaverDev/More-Effective-Godot-Coroutines",
+    "stargazers": 38
+  },
+  {
+    "repo_url": "https://github.com/RKiemGames/godot-terminal-addons",
+    "stargazers": 38
+  },
+  {
+    "repo_url": "https://github.com/Nif-kun/godot-flex-container",
+    "stargazers": 38
+  },
+  {
+    "repo_url": "https://github.com/MightyPrinny/godot-gputilemap",
+    "stargazers": 38
+  },
+  {
+    "repo_url": "https://github.com/Daylily-Zeleen/HierarchicalFiniteStateMachine",
+    "stargazers": 38
+  },
+  {
+    "repo_url": "https://github.com/winston-yallow/gd-tokenizer",
+    "stargazers": 37
+  },
+  {
+    "repo_url": "https://github.com/matheus-s-arruda/Cognite",
+    "stargazers": 37
+  },
+  {
+    "repo_url": "https://github.com/flossmanualsfr/escoria",
+    "stargazers": 37
+  },
+  {
+    "repo_url": "https://github.com/R3X-G1L6AME5H/Godot-Active-Ragdolls",
+    "stargazers": 37
+  },
+  {
+    "repo_url": "https://github.com/GodotModding/godot-mod-tool",
+    "stargazers": 37
+  },
+  {
+    "repo_url": "https://github.com/Firepal/godot-polyliner",
+    "stargazers": 37
+  },
+  {
+    "repo_url": "https://github.com/ArshvirGoraya/Godot-Collapsible-Container",
+    "stargazers": 37
+  },
+  {
+    "repo_url": "https://github.com/godotessentials/alys",
+    "stargazers": 36
+  },
+  {
+    "repo_url": "https://github.com/TheWalruzz/godot-sx",
+    "stargazers": 36
+  },
+  {
+    "repo_url": "https://github.com/SIsilicon/Godot-Ocean-Demo",
+    "stargazers": 36
+  },
+  {
+    "repo_url": "https://github.com/JarkkoPar/Utility_AI_GDExtension",
+    "stargazers": 36
+  },
+  {
+    "repo_url": "https://github.com/CoaguCo-Industries/GodotSteam-Example-Project",
+    "stargazers": 36
+  },
+  {
+    "repo_url": "https://github.com/godotvr/godot_openxr_vendors",
+    "stargazers": 35
+  },
+  {
+    "repo_url": "https://github.com/follower/godot-midi-input-example",
+    "stargazers": 35
+  },
+  {
+    "repo_url": "https://github.com/aarroz/simplefps",
+    "stargazers": 35
+  },
+  {
+    "repo_url": "https://github.com/Zylann/godot_scene_code_converter",
+    "stargazers": 35
+  },
+  {
+    "repo_url": "https://github.com/WesleiRamos/Godot-Rich-Presence",
+    "stargazers": 35
+  },
+  {
+    "repo_url": "https://github.com/Pennycook/godot-utility-ai",
+    "stargazers": 35
+  },
+  {
+    "repo_url": "https://github.com/GuilhermeGSousa/game-base-2D",
+    "stargazers": 35
+  },
+  {
+    "repo_url": "https://github.com/GodotVR/godot_openxr_loaders",
+    "stargazers": 35
+  },
+  {
+    "repo_url": "https://github.com/timothyqiu/godot-open-blive",
+    "stargazers": 34
+  },
+  {
+    "repo_url": "https://github.com/likeich/godot-easy-networking-plugin",
+    "stargazers": 34
+  },
+  {
+    "repo_url": "https://github.com/don-tnowe/godot-worldmap-builder",
+    "stargazers": 34
+  },
+  {
+    "repo_url": "https://github.com/aleksandrbazhin/GdPerfMonitor",
+    "stargazers": 34
+  },
+  {
+    "repo_url": "https://github.com/TheRadMatt/3D-FPP-Interaction-Demo",
+    "stargazers": 34
+  },
+  {
+    "repo_url": "https://github.com/Oplexitie/Cupcakes-Framework",
+    "stargazers": 34
+  },
+  {
+    "repo_url": "https://github.com/nsrosenqvist/gdscript-interfaces",
+    "stargazers": 33
+  },
+  {
+    "repo_url": "https://github.com/nobuyukinyuu/godot-omniscale",
+    "stargazers": 33
+  },
+  {
+    "repo_url": "https://github.com/instant-games-bridge/instant-games-bridge-godot",
+    "stargazers": 33
+  },
+  {
+    "repo_url": "https://github.com/dbp8890/line-renderer",
+    "stargazers": 33
+  },
+  {
+    "repo_url": "https://github.com/Technohacker/godot_pixelorama_importer",
+    "stargazers": 33
+  },
+  {
+    "repo_url": "https://github.com/MasterPolska123/Advanced-Backgound-Loader",
+    "stargazers": 33
+  },
+  {
+    "repo_url": "https://github.com/Jordyfel/duelyst-animated-sprites-godot",
+    "stargazers": 33
+  },
+  {
+    "repo_url": "https://github.com/Calinou/kenney-prototype-textures",
+    "stargazers": 33
+  },
+  {
+    "repo_url": "https://github.com/rakugoteam/Godot-Material-Icons",
+    "stargazers": 32
+  },
+  {
+    "repo_url": "https://github.com/pycbouh/godot-time-tracker",
+    "stargazers": 32
+  },
+  {
+    "repo_url": "https://github.com/nobuyukinyuu/Godot-EasyBlend",
+    "stargazers": 32
+  },
+  {
+    "repo_url": "https://github.com/dalton5000/Godot-Fontpack",
+    "stargazers": 32
+  },
+  {
+    "repo_url": "https://github.com/d-bucur/godot-vision-cone",
+    "stargazers": 32
+  },
+  {
+    "repo_url": "https://github.com/StrayEddy/GodotPlugin-CSGToMeshInstance",
+    "stargazers": 32
+  },
+  {
+    "repo_url": "https://github.com/SYBIOTE/Godot-Mesh-slicer",
+    "stargazers": 32
+  },
+  {
+    "repo_url": "https://github.com/NoodleSushi/AudioEffectInspector_GodotAddon",
+    "stargazers": 32
+  },
+  {
+    "repo_url": "https://github.com/MattUV/godot-MaxSizeContainer",
+    "stargazers": 32
+  },
+  {
+    "repo_url": "https://github.com/KoBeWi/Godot-Auto-Export-Version",
+    "stargazers": 32
+  },
+  {
+    "repo_url": "https://github.com/Chaosus/GDWADLevelLoader",
+    "stargazers": 32
+  },
+  {
+    "repo_url": "https://github.com/Bauxitedev/balldrop",
+    "stargazers": 32
+  },
+  {
+    "repo_url": "https://github.com/timothyqiu/godot-csv-data-importer",
+    "stargazers": 31
+  },
+  {
+    "repo_url": "https://github.com/godot-extended-libraries/godot-debug-menu-demo",
+    "stargazers": 31
+  },
+  {
+    "repo_url": "https://github.com/cobrapitz/LinuxLikeConsole",
+    "stargazers": 31
+  },
+  {
+    "repo_url": "https://github.com/abhinav3967/Todot",
+    "stargazers": 31
+  },
+  {
+    "repo_url": "https://github.com/VP-GAMES/Godot4LocalizationEditor",
+    "stargazers": 31
+  },
+  {
+    "repo_url": "https://github.com/QueenOfSquiggles/godot-dynamic-subtitles",
+    "stargazers": 31
+  },
+  {
+    "repo_url": "https://github.com/EmAlexander/DialogueTreePlugin",
+    "stargazers": 31
+  },
+  {
+    "repo_url": "https://github.com/tefusion/godot-subdiv",
+    "stargazers": 30
+  },
+  {
+    "repo_url": "https://github.com/sjharb/Navigation2DServerTest",
+    "stargazers": 30
+  },
+  {
+    "repo_url": "https://github.com/johngirvin/godot-ncrypt",
+    "stargazers": 30
+  },
+  {
+    "repo_url": "https://github.com/jirikostiha/godot-sharp-some",
+    "stargazers": 30
+  },
+  {
+    "repo_url": "https://github.com/jesuisse/godot-radial-menu-control",
+    "stargazers": 30
+  },
+  {
+    "repo_url": "https://github.com/gilzoide/godot-dispatch-queue",
+    "stargazers": 30
+  },
+  {
+    "repo_url": "https://github.com/fenix-hub/unirest-gdscript",
+    "stargazers": 30
+  },
+  {
+    "repo_url": "https://github.com/cybereality/godot-space-mouse",
+    "stargazers": 30
+  },
+  {
+    "repo_url": "https://github.com/awkwardpolygons/viewport-spy",
+    "stargazers": 30
+  },
+  {
+    "repo_url": "https://github.com/aaronfranke/GodotExtraMath",
+    "stargazers": 30
+  },
+  {
+    "repo_url": "https://github.com/MrBSmith/StateGraph",
+    "stargazers": 30
+  },
+  {
+    "repo_url": "https://github.com/MASSHUU12/godot-yat",
+    "stargazers": 30
+  },
+  {
+    "repo_url": "https://github.com/HeartoLazor/godot_palette_swap",
+    "stargazers": 30
+  },
+  {
+    "repo_url": "https://github.com/DigvijaysinhGohil/Godot-Shader-Lib",
+    "stargazers": 30
+  },
+  {
+    "repo_url": "https://github.com/ClementRivaille/godot-simple-sampler",
+    "stargazers": 30
+  },
+  {
+    "repo_url": "https://github.com/AniMesuro/rhubarb-lipsync-tp-integration-godot",
+    "stargazers": 30
+  },
+  {
+    "repo_url": "https://github.com/verillious/godot-datetime",
+    "stargazers": 29
+  },
+  {
+    "repo_url": "https://github.com/todogodotcom/Garage42",
+    "stargazers": 29
+  },
+  {
+    "repo_url": "https://github.com/teebarjunk/Godot-TextEditor",
+    "stargazers": 29
+  },
+  {
+    "repo_url": "https://github.com/nx7r/Vpainter",
+    "stargazers": 29
+  },
+  {
+    "repo_url": "https://github.com/newold3/AutotileEditor",
+    "stargazers": 29
+  },
+  {
+    "repo_url": "https://github.com/frankiezafe/Fish-shader",
+    "stargazers": 29
+  },
+  {
+    "repo_url": "https://github.com/emirthab/third-person-controller",
+    "stargazers": 29
+  },
+  {
+    "repo_url": "https://github.com/SirQuartz/debugconsole",
+    "stargazers": 29
+  },
+  {
+    "repo_url": "https://github.com/Iron-Stag-Games/Godot-NI-mate-Motion-Capture",
+    "stargazers": 29
+  },
+  {
+    "repo_url": "https://github.com/3ddelano/godot-editor-discord-presence",
+    "stargazers": 29
+  },
+  {
+    "repo_url": "https://github.com/wamiqurrehman093/network-fps-ds",
+    "stargazers": 28
+  },
+  {
+    "repo_url": "https://github.com/theboyboy/PaletteSwapTexture",
+    "stargazers": 28
+  },
+  {
+    "repo_url": "https://github.com/tavurth/godot-game-of-life",
+    "stargazers": 28
+  },
+  {
+    "repo_url": "https://github.com/poohcom1/godot-animated-sprite-2-player",
+    "stargazers": 28
+  },
+  {
+    "repo_url": "https://github.com/pixelipy/Godot-Voxel-Level-Editor",
+    "stargazers": 28
+  },
+  {
+    "repo_url": "https://github.com/nisovin/godot-coi-serviceworker",
+    "stargazers": 28
+  },
+  {
+    "repo_url": "https://github.com/matjlars/godot-multiplayer-input",
+    "stargazers": 28
+  },
+  {
+    "repo_url": "https://github.com/marcelb/GodotSSRWater",
+    "stargazers": 28
+  },
+  {
+    "repo_url": "https://github.com/deadpixelsociety/gdsam-plugin",
+    "stargazers": 28
+  },
+  {
+    "repo_url": "https://github.com/Zennyth/EnhancedStat",
+    "stargazers": 28
+  },
+  {
+    "repo_url": "https://github.com/Totobird-Creations/Godot-GDScript-Plus",
+    "stargazers": 28
+  },
+  {
+    "repo_url": "https://github.com/To-Fujita/Godot_v3.2-Basic_Shaders",
+    "stargazers": 28
+  },
+  {
+    "repo_url": "https://github.com/TheDuriel/Godot-2DLights-Benchmark",
+    "stargazers": 28
+  },
+  {
+    "repo_url": "https://github.com/Miziziziz/GodotDialogAndQuestSystem",
+    "stargazers": 28
+  },
+  {
+    "repo_url": "https://github.com/Abdera7mane/godot-project-statistics",
+    "stargazers": 28
+  },
+  {
+    "repo_url": "https://github.com/wyvernbw/tracer.gd",
+    "stargazers": 27
+  },
+  {
+    "repo_url": "https://github.com/sesopenko/gatt",
+    "stargazers": 27
+  },
+  {
+    "repo_url": "https://github.com/khairul169/3d-simplewater",
+    "stargazers": 27
+  },
+  {
+    "repo_url": "https://github.com/hgouveia/godot-blank-starter-template-3d",
+    "stargazers": 27
+  },
+  {
+    "repo_url": "https://github.com/henriquelalves/GodotEasyLAN",
+    "stargazers": 27
+  },
+  {
+    "repo_url": "https://github.com/fractilegames/godot-gles2-debanding-material",
+    "stargazers": 27
+  },
+  {
+    "repo_url": "https://github.com/fledware/GodotXUnit",
+    "stargazers": 27
+  },
+  {
+    "repo_url": "https://github.com/ZachAR3/Destructibles-CSharp",
+    "stargazers": 27
+  },
+  {
+    "repo_url": "https://github.com/Tearfalas/turgys-behavior-tree-plugin",
+    "stargazers": 27
+  },
+  {
+    "repo_url": "https://github.com/MASSHUU12/godot-interaction-system",
+    "stargazers": 27
+  },
+  {
+    "repo_url": "https://github.com/KoBeWi/Godot-Gradient-Shift-Shader",
+    "stargazers": 27
+  },
+  {
+    "repo_url": "https://github.com/ImmersiveRPG/GodotAsyncLoader",
+    "stargazers": 27
+  },
+  {
+    "repo_url": "https://github.com/GDUcrash/BetterTabContainer",
+    "stargazers": 27
+  },
+  {
+    "repo_url": "https://github.com/BraindeadBZH/datalogue",
+    "stargazers": 27
+  },
+  {
+    "repo_url": "https://github.com/Abdera7mane/discord-rpc-gdscript",
+    "stargazers": 27
+  },
+  {
+    "repo_url": "https://github.com/vrojak/godot-wheeled-vehicle-template",
+    "stargazers": 26
+  },
+  {
+    "repo_url": "https://github.com/nonunknown/abstract-state-machine",
+    "stargazers": 26
+  },
+  {
+    "repo_url": "https://github.com/miskatonicstudio/godot-array-modifier",
+    "stargazers": 26
+  },
+  {
+    "repo_url": "https://github.com/dploeger/godot-scrollingbackground",
+    "stargazers": 26
+  },
+  {
+    "repo_url": "https://github.com/deep-entertainment/godot-epic-anchors",
+    "stargazers": 26
+  },
+  {
+    "repo_url": "https://github.com/cybereality/godot-stereo-3d",
+    "stargazers": 26
+  },
+  {
+    "repo_url": "https://github.com/backwardspy/transit",
+    "stargazers": 26
+  },
+  {
+    "repo_url": "https://github.com/SnoringCatGames/scaffolder",
+    "stargazers": 26
+  },
+  {
+    "repo_url": "https://github.com/KoBeWi/Godot-Directory-Watcher",
+    "stargazers": 26
+  },
+  {
+    "repo_url": "https://github.com/HumanSheeple/GodotTerrainEditorPainter",
+    "stargazers": 26
+  },
+  {
+    "repo_url": "https://github.com/HexagonNico/Godot-FiniteStateMachine",
+    "stargazers": 26
+  },
+  {
+    "repo_url": "https://github.com/HexagonNico/CinematicCamera2D",
+    "stargazers": 26
+  },
+  {
+    "repo_url": "https://github.com/HexagonNico-Godot-Plugins/CinematicCamera2D",
+    "stargazers": 26
+  },
+  {
+    "repo_url": "https://github.com/GodotVR/TiltFiveGodot4",
+    "stargazers": 26
+  },
+  {
+    "repo_url": "https://github.com/FoolLin/ReorderableContainer",
+    "stargazers": 26
+  },
+  {
+    "repo_url": "https://github.com/AniMesuro/Animation-Frame-Picker-for-Godot",
+    "stargazers": 26
+  },
+  {
+    "repo_url": "https://github.com/AdamKormos/SaveMadeEasy",
+    "stargazers": 26
+  },
+  {
+    "repo_url": "https://github.com/wardensdev/ComputeWorker",
+    "stargazers": 25
+  },
+  {
+    "repo_url": "https://github.com/pkowal1982/godoticonplugin",
+    "stargazers": 25
+  },
+  {
+    "repo_url": "https://github.com/pietru2004/Godot-WFC",
+    "stargazers": 25
+  },
+  {
+    "repo_url": "https://github.com/mphe/GDNative-Ropesim",
+    "stargazers": 25
+  },
+  {
+    "repo_url": "https://github.com/creikey/foamy-ocean",
+    "stargazers": 25
+  },
+  {
+    "repo_url": "https://github.com/SpyrexDE/PlexusBackground",
+    "stargazers": 25
+  },
+  {
+    "repo_url": "https://github.com/NimbleBeasts/NbGodotProjectManagement",
+    "stargazers": 25
+  },
+  {
+    "repo_url": "https://github.com/MarcPhi/godot-free-look-camera",
+    "stargazers": 25
+  },
+  {
+    "repo_url": "https://github.com/HLCaptain/proto-shape",
+    "stargazers": 25
+  },
+  {
+    "repo_url": "https://github.com/AGChow/3D-Godot-Robot-Platformer-Character",
+    "stargazers": 25
+  },
+  {
+    "repo_url": "https://github.com/unovafr/Godot-Orbit-Camera",
+    "stargazers": 24
+  },
+  {
+    "repo_url": "https://github.com/remijean/godot-3d-planet-generator",
+    "stargazers": 24
+  },
+  {
+    "repo_url": "https://github.com/nsrosenqvist/godot-trajectory-lib",
+    "stargazers": 24
+  },
+  {
+    "repo_url": "https://github.com/martinfuchs/Godot-Onscreen-Keyboard",
+    "stargazers": 24
+  },
+  {
+    "repo_url": "https://github.com/kenyoni-software/godot-addons",
+    "stargazers": 24
+  },
+  {
+    "repo_url": "https://github.com/gokudomatic/eco-fps-walker",
+    "stargazers": 24
+  },
+  {
+    "repo_url": "https://github.com/deep-entertainment/speedy_gonzales",
+    "stargazers": 24
+  },
+  {
+    "repo_url": "https://github.com/VP-GAMES/DialogueEditor",
+    "stargazers": 24
+  },
+  {
+    "repo_url": "https://github.com/LeProfesseurStagiaire/rtsSelectionMoveDemo",
+    "stargazers": 24
+  },
+  {
+    "repo_url": "https://github.com/LaoDie1/godot-float-script-editor",
+    "stargazers": 24
+  },
+  {
+    "repo_url": "https://github.com/KoBeWi/Godot-Spritesheet-Generator",
+    "stargazers": 24
+  },
+  {
+    "repo_url": "https://github.com/wojtossfm/godot_scml_importer",
+    "stargazers": 23
+  },
+  {
+    "repo_url": "https://github.com/vlabo/Godot_rope_addon",
+    "stargazers": 23
+  },
+  {
+    "repo_url": "https://github.com/pigdevstudio/godot-sandbox",
+    "stargazers": 23
+  },
+  {
+    "repo_url": "https://github.com/nonunknown/godot-sheet-manager",
+    "stargazers": 23
+  },
+  {
+    "repo_url": "https://github.com/meloonics/Kinematic2DRope_Demo",
+    "stargazers": 23
+  },
+  {
+    "repo_url": "https://github.com/gsioteam/action_behavior_tree",
+    "stargazers": 23
+  },
+  {
+    "repo_url": "https://github.com/fcazalet/loggot",
+    "stargazers": 23
+  },
+  {
+    "repo_url": "https://github.com/andersmmg/godot-physics-toggle",
+    "stargazers": 23
+  },
+  {
+    "repo_url": "https://github.com/Zylann/godot_blackhole_plugin",
+    "stargazers": 23
+  },
+  {
+    "repo_url": "https://github.com/VP-GAMES/QuestEditor",
+    "stargazers": 23
+  },
+  {
+    "repo_url": "https://github.com/VP-GAMES/Godot4QuestEditor",
+    "stargazers": 23
+  },
+  {
+    "repo_url": "https://github.com/MakovWait/godot-script-tabs",
+    "stargazers": 23
+  },
+  {
+    "repo_url": "https://github.com/LauraWebdev/SofiaConsole",
+    "stargazers": 23
+  },
+  {
+    "repo_url": "https://github.com/KoreTeknology/AlphaOS",
+    "stargazers": 23
+  },
+  {
+    "repo_url": "https://github.com/JoshLee0915/GodotLDtkImporter",
+    "stargazers": 23
+  },
+  {
+    "repo_url": "https://github.com/Go3DGoGodot/Godot3D_Waving_tree_and_falling_leaves",
+    "stargazers": 23
+  },
+  {
+    "repo_url": "https://github.com/DarkKilauea/godot-scene-map",
+    "stargazers": 23
+  },
+  {
+    "repo_url": "https://github.com/BeytoA/3D-Car-With-Settingspanel",
+    "stargazers": 23
+  },
+  {
+    "repo_url": "https://github.com/teebarjunk/godot-tool_button",
+    "stargazers": 22
+  },
+  {
+    "repo_url": "https://github.com/ryash072007/Godot-4-Neural-Network",
+    "stargazers": 22
+  },
+  {
+    "repo_url": "https://github.com/robertcorponoi/godot-rust-cli",
+    "stargazers": 22
+  },
+  {
+    "repo_url": "https://github.com/mashumafi/godot-EZStorage",
+    "stargazers": 22
+  },
+  {
+    "repo_url": "https://github.com/kdik/godot-text-to-speech",
+    "stargazers": 22
+  },
+  {
+    "repo_url": "https://github.com/imjp94/gd-yafsm-demo",
+    "stargazers": 22
+  },
+  {
+    "repo_url": "https://github.com/gokudomatic/eco-fps-controller",
+    "stargazers": 22
+  },
+  {
+    "repo_url": "https://github.com/dannygaray60/localization-editor-g3",
+    "stargazers": 22
+  },
+  {
+    "repo_url": "https://github.com/Zylann/godot_channel_packer_plugin",
+    "stargazers": 22
+  },
+  {
+    "repo_url": "https://github.com/StrayEddy/GodotPlugin-MeshBuilder",
+    "stargazers": 22
+  },
+  {
+    "repo_url": "https://github.com/SakuyaCN/Godot-MMKV",
+    "stargazers": 22
+  },
+  {
+    "repo_url": "https://github.com/SIsilicon/SPHater-Godot-Demo",
+    "stargazers": 22
+  },
+  {
+    "repo_url": "https://github.com/MatiasVME/Persistence",
+    "stargazers": 22
+  },
+  {
+    "repo_url": "https://github.com/KoBeWi/Godot-Prefab",
+    "stargazers": 22
+  },
+  {
+    "repo_url": "https://github.com/Jummit/Godot-Gravity-Objects",
+    "stargazers": 22
+  },
+  {
+    "repo_url": "https://github.com/Janglee123/godot-color-splatter-effect",
+    "stargazers": 22
+  },
+  {
+    "repo_url": "https://github.com/Germenzi/gdECS",
+    "stargazers": 22
+  },
+  {
+    "repo_url": "https://github.com/DmitriySalnikov/godot_qoi",
+    "stargazers": 22
+  },
+  {
+    "repo_url": "https://github.com/DmitriySalnikov/godot_debug_draw_cs",
+    "stargazers": 22
+  },
+  {
+    "repo_url": "https://github.com/CaptainProton42/GodotHoloPlay",
+    "stargazers": 22
+  },
+  {
+    "repo_url": "https://github.com/BraindeadBZH/VoxelOctreePlugin",
+    "stargazers": 22
+  },
+  {
+    "repo_url": "https://github.com/Big-Burden/godot-debug-draw",
+    "stargazers": 22
+  },
+  {
+    "repo_url": "https://github.com/5FB5/gd-achievements",
+    "stargazers": 22
+  },
+  {
+    "repo_url": "https://github.com/tpnk-dev/gameboy-dot-matrix-filter-godot",
+    "stargazers": 21
+  },
+  {
+    "repo_url": "https://github.com/tavurth/godot-fft",
+    "stargazers": 21
+  },
+  {
+    "repo_url": "https://github.com/need12648430/godot3-todo",
+    "stargazers": 21
+  },
+  {
+    "repo_url": "https://github.com/kdik/godot-speech-to-text",
+    "stargazers": 21
+  },
+  {
+    "repo_url": "https://github.com/johnweven/godot-windows-95-theme",
+    "stargazers": 21
+  },
+  {
+    "repo_url": "https://github.com/jacopofar/blocking-dialog-box",
+    "stargazers": 21
+  },
+  {
+    "repo_url": "https://github.com/henriquelalves/GodotCSGExporter",
+    "stargazers": 21
+  },
+  {
+    "repo_url": "https://github.com/edwin-cox/godot-infinite-worldmap",
+    "stargazers": 21
+  },
+  {
+    "repo_url": "https://github.com/db0/godot-hexgrid_tileset_demo",
+    "stargazers": 21
+  },
+  {
+    "repo_url": "https://github.com/curly-brace/godot_force_shield_shader",
+    "stargazers": 21
+  },
+  {
+    "repo_url": "https://github.com/brandonlamb/godot-quest-system",
+    "stargazers": 21
+  },
+  {
+    "repo_url": "https://github.com/bernardo-bruning/godot-vim",
+    "stargazers": 21
+  },
+  {
+    "repo_url": "https://github.com/alextrevisan/LPCAnimatedSprite2D",
+    "stargazers": 21
+  },
+  {
+    "repo_url": "https://github.com/acegiak/Godot4TerrainShader",
+    "stargazers": 21
+  },
+  {
+    "repo_url": "https://github.com/aaronfranke/godot-GUI-in-VR",
+    "stargazers": 21
+  },
+  {
+    "repo_url": "https://github.com/VP-GAMES/Godot4InventoryEditor",
+    "stargazers": 21
+  },
+  {
+    "repo_url": "https://github.com/SanderVanhove/node-referencer",
+    "stargazers": 21
+  },
+  {
+    "repo_url": "https://github.com/Maujoe/godot-custom-gradient-texture",
+    "stargazers": 21
+  },
+  {
+    "repo_url": "https://github.com/HaSa1002/godot-light-tools",
+    "stargazers": 21
+  },
+  {
+    "repo_url": "https://github.com/DawnGroveStudios/GodotLogger",
+    "stargazers": 21
+  },
+  {
+    "repo_url": "https://github.com/CloneDeath/MagicaVoxel-Importer-with-Extensions",
+    "stargazers": 21
+  },
+  {
+    "repo_url": "https://github.com/3akev/godot-arabic-text",
+    "stargazers": 21
+  },
+  {
+    "repo_url": "https://github.com/zhangjt93/godot-imposter",
+    "stargazers": 20
+  },
+  {
+    "repo_url": "https://github.com/yaelatletl/DynamicSky-Addon",
+    "stargazers": 20
+  },
+  {
+    "repo_url": "https://github.com/thiagobruno/godot_analogcontroller",
+    "stargazers": 20
+  },
+  {
+    "repo_url": "https://github.com/probrain-dev/godot_web_external_audio_motor",
+    "stargazers": 20
+  },
+  {
+    "repo_url": "https://github.com/nobuyukinyuu/launchy",
+    "stargazers": 20
+  },
+  {
+    "repo_url": "https://github.com/nklbdev/godot-4-parallax-node",
+    "stargazers": 20
+  },
+  {
+    "repo_url": "https://github.com/mrkdji/knife-tool",
+    "stargazers": 20
+  },
+  {
+    "repo_url": "https://github.com/luisboch/godot_field_of_view",
+    "stargazers": 20
+  },
+  {
+    "repo_url": "https://github.com/gdgamedev/dynamic_water_plugin",
+    "stargazers": 20
+  },
+  {
+    "repo_url": "https://github.com/derkork/godot-safe-resource-loader",
+    "stargazers": 20
+  },
+  {
+    "repo_url": "https://github.com/Wcubed/horizontal_flow_container",
+    "stargazers": 20
+  },
+  {
+    "repo_url": "https://github.com/VolodyaKEK/godot-immediate-gui",
+    "stargazers": 20
+  },
+  {
+    "repo_url": "https://github.com/ShatReal/different-save-load-methods-demo",
+    "stargazers": 20
+  },
+  {
+    "repo_url": "https://github.com/ShatReal/Game-Jam-Template-4",
+    "stargazers": 20
+  },
+  {
+    "repo_url": "https://github.com/MrEliptik/godot_camera_transition",
+    "stargazers": 20
+  },
+  {
+    "repo_url": "https://github.com/KoBeWi/Godot-Slider-Label",
+    "stargazers": 20
+  },
+  {
+    "repo_url": "https://github.com/KikimoraGames/godot_animationplayer_spriteframes_helper",
+    "stargazers": 20
+  },
+  {
+    "repo_url": "https://github.com/KOBUGE-Games/CircularContainer",
+    "stargazers": 20
+  },
+  {
+    "repo_url": "https://github.com/CactiChameleon9/Godot-AutoGridContainer",
+    "stargazers": 20
+  },
+  {
+    "repo_url": "https://github.com/Brandt-J/ShaderPrecompiler",
+    "stargazers": 20
+  },
+  {
+    "repo_url": "https://github.com/BernardCloutier/VisualFSM",
+    "stargazers": 20
+  },
+  {
+    "repo_url": "https://github.com/spheras/godot-sprite-shader-mixer",
+    "stargazers": 19
+  },
+  {
+    "repo_url": "https://github.com/organicpencil/godot-splitscreen",
+    "stargazers": 19
+  },
+  {
+    "repo_url": "https://github.com/nate-trojian/MetamaskAddon",
+    "stargazers": 19
+  },
+  {
+    "repo_url": "https://github.com/ivanskodje-godotengine/Vehicle-Controller-2D",
+    "stargazers": 19
+  },
+  {
+    "repo_url": "https://github.com/iamtoaster/twison-godot",
+    "stargazers": 19
+  },
+  {
+    "repo_url": "https://github.com/don-tnowe/godot-wyvernshield-triggers",
+    "stargazers": 19
+  },
+  {
+    "repo_url": "https://github.com/deep-entertainment/parrot",
+    "stargazers": 19
+  },
+  {
+    "repo_url": "https://github.com/creadicted/godot-branch",
+    "stargazers": 19
+  },
+  {
+    "repo_url": "https://github.com/awkwardpolygons/better-texture-array",
+    "stargazers": 19
+  },
+  {
+    "repo_url": "https://github.com/ashrafulislambd/fpscontroller",
+    "stargazers": 19
+  },
+  {
+    "repo_url": "https://github.com/UnluckyNinja/godot-addon-sheet2sprite",
+    "stargazers": 19
+  },
+  {
+    "repo_url": "https://github.com/ShatReal/integer-scaling",
+    "stargazers": 19
+  },
+  {
+    "repo_url": "https://github.com/ShatReal/Point-and-Click-Template-4",
+    "stargazers": 19
+  },
+  {
+    "repo_url": "https://github.com/R3X-G1L6AME5H/Godot-LOD-Manager",
+    "stargazers": 19
+  },
+  {
+    "repo_url": "https://github.com/Mattiny/yamms",
+    "stargazers": 19
+  },
+  {
+    "repo_url": "https://github.com/MASSHUU12/godot-scene-loader",
+    "stargazers": 19
+  },
+  {
+    "repo_url": "https://github.com/LucaJunge/godot_orbit_controls",
+    "stargazers": 19
+  },
+  {
+    "repo_url": "https://github.com/Jummit/Godot-Replicator-Node-Plugin",
+    "stargazers": 19
+  },
+  {
+    "repo_url": "https://github.com/GodotKernel/ResolutionManagerPlugin",
+    "stargazers": 19
+  },
+  {
+    "repo_url": "https://github.com/Drejzer/FloorArchitect",
+    "stargazers": 19
+  },
+  {
+    "repo_url": "https://github.com/Divirad/PinchPanCamera",
+    "stargazers": 19
+  },
+  {
+    "repo_url": "https://github.com/Daylily-Zeleen/HFSM2",
+    "stargazers": 19
+  },
+  {
+    "repo_url": "https://github.com/CoaguCo-Industries/GodotSteam-Server",
+    "stargazers": 19
+  },
+  {
+    "repo_url": "https://github.com/BasilYes/godot-yandex-games-sdk",
+    "stargazers": 19
+  },
+  {
+    "repo_url": "https://github.com/AndreaTerenz/WebSocket",
+    "stargazers": 19
+  },
+  {
+    "repo_url": "https://github.com/tcmug/godot_trailmesh",
+    "stargazers": 18
+  },
+  {
+    "repo_url": "https://github.com/sericaer/godot_table",
+    "stargazers": 18
+  },
+  {
+    "repo_url": "https://github.com/sdtv9507/RPG-Databases",
+    "stargazers": 18
+  },
+  {
+    "repo_url": "https://github.com/robertcorponoi/godot-redux",
+    "stargazers": 18
+  },
+  {
+    "repo_url": "https://github.com/mi-sts/godot_tiled_importer",
+    "stargazers": 18
+  },
+  {
+    "repo_url": "https://github.com/meloonics/Flocking",
+    "stargazers": 18
+  },
+  {
+    "repo_url": "https://github.com/imjp94/gd-shader-cache",
+    "stargazers": 18
+  },
+  {
+    "repo_url": "https://github.com/gilzoide/godot-cubic-bezier-controls",
+    "stargazers": 18
+  },
+  {
+    "repo_url": "https://github.com/fenix-hub/godot-engine.godot-stories",
+    "stargazers": 18
+  },
+  {
+    "repo_url": "https://github.com/esbudylin/HexChess",
+    "stargazers": 18
+  },
+  {
+    "repo_url": "https://github.com/dkollmann/easycpp",
+    "stargazers": 18
+  },
+  {
+    "repo_url": "https://github.com/damarindra/Godot-Simple-Dungeon-Generator",
+    "stargazers": 18
+  },
+  {
+    "repo_url": "https://github.com/cthonianmessiah/godot-conductor",
+    "stargazers": 18
+  },
+  {
+    "repo_url": "https://github.com/acegiak/g4-climb-n-glide-character-controller",
+    "stargazers": 18
+  },
+  {
+    "repo_url": "https://github.com/Windastella/godothub_client",
+    "stargazers": 18
+  },
+  {
+    "repo_url": "https://github.com/WhalesState/godot-todo-cards",
+    "stargazers": 18
+  },
+  {
+    "repo_url": "https://github.com/TwistedTwigleg/DSCN_Plugin",
+    "stargazers": 18
+  },
+  {
+    "repo_url": "https://github.com/StrayEddy/sketchfab-godot-plugin",
+    "stargazers": 18
+  },
+  {
+    "repo_url": "https://github.com/StrayEddy/GodotPlugin-MeshPainter",
+    "stargazers": 18
+  },
+  {
+    "repo_url": "https://github.com/SaracenOne/extended_kinematic_body",
+    "stargazers": 18
+  },
+  {
+    "repo_url": "https://github.com/RandomShaper/godot-plugin-messdeform",
+    "stargazers": 18
+  },
+  {
+    "repo_url": "https://github.com/PeterJSFChaplin/VectorNode",
+    "stargazers": 18
+  },
+  {
+    "repo_url": "https://github.com/MrJustreborn/godot_PCKManager",
+    "stargazers": 18
+  },
+  {
+    "repo_url": "https://github.com/MBoqui/event-driven-behavior-tree",
+    "stargazers": 18
+  },
+  {
+    "repo_url": "https://github.com/KoBeWi/Godot-Quick-Scenes",
+    "stargazers": 18
+  },
+  {
+    "repo_url": "https://github.com/Kamyabnz/Color-Eater-Demo",
+    "stargazers": 18
+  },
+  {
+    "repo_url": "https://github.com/Eranot/godot-resizable",
+    "stargazers": 18
+  },
+  {
+    "repo_url": "https://github.com/Daylily-Zeleen/GUS-Godot-Universal-Serializer-2.0",
+    "stargazers": 18
+  },
+  {
+    "repo_url": "https://github.com/CiberTurtle/godot-cheatsheet",
+    "stargazers": 18
+  },
+  {
+    "repo_url": "https://github.com/CassianoBelniak/katuiche-colorful-console",
+    "stargazers": 18
+  },
+  {
+    "repo_url": "https://github.com/AlexeyPe/Yandex-Games",
+    "stargazers": 18
+  },
+  {
+    "repo_url": "https://github.com/Abdera7mane/cordot",
+    "stargazers": 18
+  },
+  {
+    "repo_url": "https://github.com/naiiveprojects/nv.gd.file_system",
+    "stargazers": 17
+  },
+  {
+    "repo_url": "https://github.com/gagdiez/PACgd",
+    "stargazers": 17
+  },
+  {
+    "repo_url": "https://github.com/ferdiu/godot-easing-functions",
+    "stargazers": 17
+  },
+  {
+    "repo_url": "https://github.com/faculezcano/godot-water-shader",
+    "stargazers": 17
+  },
+  {
+    "repo_url": "https://github.com/eisclimber/DynamicDayNightCycles",
+    "stargazers": 17
+  },
+  {
+    "repo_url": "https://github.com/davisbrandon02/motion-blur-godot-4.0",
+    "stargazers": 17
+  },
+  {
+    "repo_url": "https://github.com/dannygaray60/interactive-music-g3",
+    "stargazers": 17
+  },
+  {
+    "repo_url": "https://github.com/daenvil/MarkdownLabel",
+    "stargazers": 17
+  },
+  {
+    "repo_url": "https://github.com/crystal-bit/input-overlay",
+    "stargazers": 17
+  },
+  {
+    "repo_url": "https://github.com/christinoleo/godot-google-font-explorer",
+    "stargazers": 17
+  },
+  {
+    "repo_url": "https://github.com/acgc99/Godot-Widgets",
+    "stargazers": 17
+  },
+  {
+    "repo_url": "https://github.com/Xrayez/godot-vector-resource",
+    "stargazers": 17
+  },
+  {
+    "repo_url": "https://github.com/VitaZheltyakov/Godot-Kinetic-scrolling",
+    "stargazers": 17
+  },
+  {
+    "repo_url": "https://github.com/VP-GAMES/InventoryEditor",
+    "stargazers": 17
+  },
+  {
+    "repo_url": "https://github.com/Steveplays28/godot-volumetrics-test",
+    "stargazers": 17
+  },
+  {
+    "repo_url": "https://github.com/Rybadour/NodeConnectorGodot",
+    "stargazers": 17
+  },
+  {
+    "repo_url": "https://github.com/MolikoDeveloper/Csharp-Console-Godot",
+    "stargazers": 17
+  },
+  {
+    "repo_url": "https://github.com/MightyPrinny/GodotSpriteText",
+    "stargazers": 17
+  },
+  {
+    "repo_url": "https://github.com/LaoDie1/godot-excel-reader",
+    "stargazers": 17
+  },
+  {
+    "repo_url": "https://github.com/JarLowrey/GodotLightning",
+    "stargazers": 17
+  },
+  {
+    "repo_url": "https://github.com/Gregorein/GodotVersion",
+    "stargazers": 17
+  },
+  {
+    "repo_url": "https://github.com/Dr-Dan/godot-funcy",
+    "stargazers": 17
+  },
+  {
+    "repo_url": "https://github.com/Cafezinhu/godot-vr-simulator",
+    "stargazers": 17
+  },
+  {
+    "repo_url": "https://github.com/AzadKshitij/PlayerPrefs",
+    "stargazers": 17
+  },
+  {
+    "repo_url": "https://github.com/thiagobruno/godot_dragndrop",
+    "stargazers": 16
+  },
+  {
+    "repo_url": "https://github.com/rametta/zodot",
+    "stargazers": 16
+  },
+  {
+    "repo_url": "https://github.com/poohcom1/godot-private-exports",
+    "stargazers": 16
+  },
+  {
+    "repo_url": "https://github.com/mcunha-br/virtual_joystick_godot4",
+    "stargazers": 16
+  },
+  {
+    "repo_url": "https://github.com/iatenine/GodotCardManager",
+    "stargazers": 16
+  },
+  {
+    "repo_url": "https://github.com/finn753/platformer-toolkit",
+    "stargazers": 16
+  },
+  {
+    "repo_url": "https://github.com/babypandabear3/smooth_move",
+    "stargazers": 16
+  },
+  {
+    "repo_url": "https://github.com/aaronfranke/godot-measuring-tape",
+    "stargazers": 16
+  },
+  {
+    "repo_url": "https://github.com/Zylann/godot_collision_scanner",
+    "stargazers": 16
+  },
+  {
+    "repo_url": "https://github.com/VinhPhmCng/gdscript-sections",
+    "stargazers": 16
+  },
+  {
+    "repo_url": "https://github.com/Spycemyster/GDMUT",
+    "stargazers": 16
+  },
+  {
+    "repo_url": "https://github.com/PeterEve/godot-kuwahara",
+    "stargazers": 16
+  },
+  {
+    "repo_url": "https://github.com/Oranjoose/GoGodot",
+    "stargazers": 16
+  },
+  {
+    "repo_url": "https://github.com/LeeTeng2001/Pac-Pin-Pong",
+    "stargazers": 16
+  },
+  {
+    "repo_url": "https://github.com/KoBeWi/Godot-Simple-TODO",
+    "stargazers": 16
+  },
+  {
+    "repo_url": "https://github.com/JCAguilera/better-drag-and-drop-sprite",
+    "stargazers": 16
+  },
+  {
+    "repo_url": "https://github.com/GodotExplorer/atlas_importer",
+    "stargazers": 16
+  },
+  {
+    "repo_url": "https://github.com/Germenzi/gdECSv4",
+    "stargazers": 16
+  },
+  {
+    "repo_url": "https://github.com/Firemanarg/godot-astar-2d-grid-node",
+    "stargazers": 16
+  },
+  {
+    "repo_url": "https://github.com/Federico-Ciuffardi/GodotTouchInputManager-Demo",
+    "stargazers": 16
+  },
+  {
+    "repo_url": "https://github.com/Calinou/kenney-interface-sounds",
+    "stargazers": 16
+  },
+  {
+    "repo_url": "https://github.com/BimDav/Godot4-Coroutines",
+    "stargazers": 16
+  },
+  {
+    "repo_url": "https://github.com/BOTLANNER/godot-gif",
+    "stargazers": 16
+  },
+  {
+    "repo_url": "https://github.com/AlexDarigan/RemoteCaller",
+    "stargazers": 16
+  },
+  {
+    "repo_url": "https://github.com/xsellier/godot-name-generator",
+    "stargazers": 15
+  },
+  {
+    "repo_url": "https://github.com/tiffany352/godot-starlight",
+    "stargazers": 15
+  },
+  {
+    "repo_url": "https://github.com/the-sink/godotsize",
+    "stargazers": 15
+  },
+  {
+    "repo_url": "https://github.com/rainlizard/ScriptNameOnTop",
+    "stargazers": 15
+  },
+  {
+    "repo_url": "https://github.com/pleyland/Websocket-Multiplayer-Demo-Godot-4.0",
+    "stargazers": 15
+  },
+  {
+    "repo_url": "https://github.com/mechPenSketch/grid_movements",
+    "stargazers": 15
+  },
+  {
+    "repo_url": "https://github.com/lowlevel-1989/object_state_machine",
+    "stargazers": 15
+  },
+  {
+    "repo_url": "https://github.com/kubecz3k/KivanoEditorEnhancemens",
+    "stargazers": 15
+  },
+  {
+    "repo_url": "https://github.com/ivanskodje-godotengine/godot-logging-util",
+    "stargazers": 15
+  },
+  {
+    "repo_url": "https://github.com/ioannis-koukourakis/string-based-light-animations-for-godotengine",
+    "stargazers": 15
+  },
+  {
+    "repo_url": "https://github.com/iatenine/SimpleSave",
+    "stargazers": 15
+  },
+  {
+    "repo_url": "https://github.com/christinoleo/godot-plugin-DragDrop3D",
+    "stargazers": 15
+  },
+  {
+    "repo_url": "https://github.com/Zylann/godot_project_statistics",
+    "stargazers": 15
+  },
+  {
+    "repo_url": "https://github.com/VicentGJ/Water_Temple_Godot-Demo",
+    "stargazers": 15
+  },
+  {
+    "repo_url": "https://github.com/TheoTheTorch/MOVEMENT-2",
+    "stargazers": 15
+  },
+  {
+    "repo_url": "https://github.com/Scipioceaser/Godot-Camera-Shake",
+    "stargazers": 15
+  },
+  {
+    "repo_url": "https://github.com/Rytelier/Godot-4-interior-mapping-shader-no-cubemap",
+    "stargazers": 15
+  },
+  {
+    "repo_url": "https://github.com/RayOfIdeas/Godot_GDbot_2D_Demo",
+    "stargazers": 15
+  },
+  {
+    "repo_url": "https://github.com/QueenOfSquiggles/Squiggles-Core-4X",
+    "stargazers": 15
+  },
+  {
+    "repo_url": "https://github.com/MakovWait/godot-find-everywhere",
+    "stargazers": 15
+  },
+  {
+    "repo_url": "https://github.com/LucasBr003/ez-transitions",
+    "stargazers": 15
+  },
+  {
+    "repo_url": "https://github.com/LanzaSchneider/godot-3d_pixel_perfect_outline",
+    "stargazers": 15
+  },
+  {
+    "repo_url": "https://github.com/LD2Studio/godot4-graph2d",
+    "stargazers": 15
+  },
+  {
+    "repo_url": "https://github.com/Kubulambula/Godot-CollisionPolygonShape",
+    "stargazers": 15
+  },
+  {
+    "repo_url": "https://github.com/Krankomat/godot-gameboy-palette-swap",
+    "stargazers": 15
+  },
+  {
+    "repo_url": "https://github.com/JohnnyRouddro/3d_rotate_direct_constant_smooth",
+    "stargazers": 15
+  },
+  {
+    "repo_url": "https://github.com/Jean28518/Godot-jTools",
+    "stargazers": 15
+  },
+  {
+    "repo_url": "https://github.com/Go3DGoGodot/Godot_Car_Damage_System",
+    "stargazers": 15
+  },
+  {
+    "repo_url": "https://github.com/GArysTrousers/todot",
+    "stargazers": 15
+  },
+  {
+    "repo_url": "https://github.com/Donitzo/godot-simple-portal-system",
+    "stargazers": 15
+  },
+  {
+    "repo_url": "https://github.com/DawnGroveStudios/GodotP2PNetwork",
+    "stargazers": 15
+  },
+  {
+    "repo_url": "https://github.com/Chaosus/GDSimpleSkybox",
+    "stargazers": 15
+  },
+  {
+    "repo_url": "https://github.com/2shady4u/godot-krita-importer",
+    "stargazers": 15
+  },
+  {
+    "repo_url": "https://github.com/zaevi/godot-alignment-tool",
+    "stargazers": 14
+  },
+  {
+    "repo_url": "https://github.com/xiezi5160/MultirunForGodot4",
+    "stargazers": 14
+  },
+  {
+    "repo_url": "https://github.com/need12648430/godot3-scene-notes",
+    "stargazers": 14
+  },
+  {
+    "repo_url": "https://github.com/landroo/GodotMaze",
+    "stargazers": 14
+  },
+  {
+    "repo_url": "https://github.com/godotrecipes/classic_shmup",
+    "stargazers": 14
+  },
+  {
+    "repo_url": "https://github.com/godot-journey-adventures/toastparty",
+    "stargazers": 14
+  },
+  {
+    "repo_url": "https://github.com/godot-escoria/escoria-game-template",
+    "stargazers": 14
+  },
+  {
+    "repo_url": "https://github.com/falquinho/tilemapplus",
+    "stargazers": 14
+  },
+  {
+    "repo_url": "https://github.com/dweremeichik/godot_autopoly_plugin",
+    "stargazers": 14
+  },
+  {
+    "repo_url": "https://github.com/don-tnowe/godot-extra-controls",
+    "stargazers": 14
+  },
+  {
+    "repo_url": "https://github.com/derkork/godot-resource-groups",
+    "stargazers": 14
+  },
+  {
+    "repo_url": "https://github.com/deep-entertainment/egoventure-example-game",
+    "stargazers": 14
+  },
+  {
+    "repo_url": "https://github.com/deadpixelsociety/godot-form-validator",
+    "stargazers": 14
+  },
+  {
+    "repo_url": "https://github.com/curly-brace/Godot-Simplex",
+    "stargazers": 14
+  },
+  {
+    "repo_url": "https://github.com/cobrapitz/GraphicsEditor",
+    "stargazers": 14
+  },
+  {
+    "repo_url": "https://github.com/bruce965/godot-gpu-cellular-automata",
+    "stargazers": 14
+  },
+  {
+    "repo_url": "https://github.com/brandonlamb/godot-hotbars",
+    "stargazers": 14
+  },
+  {
+    "repo_url": "https://github.com/adrenallen/EasyLeaderboard-Godot",
+    "stargazers": 14
+  },
+  {
+    "repo_url": "https://github.com/WeaverDev/DebugGUIGraph",
+    "stargazers": 14
+  },
+  {
+    "repo_url": "https://github.com/TheWalruzz/godot-promise",
+    "stargazers": 14
+  },
+  {
+    "repo_url": "https://github.com/ThePat02/force-directed-graph-godot",
+    "stargazers": 14
+  },
+  {
+    "repo_url": "https://github.com/TheFamousRat/MeshCurver",
+    "stargazers": 14
+  },
+  {
+    "repo_url": "https://github.com/Rytelier/Godot-AutoMat",
+    "stargazers": 14
+  },
+  {
+    "repo_url": "https://github.com/Multirious/gd-advanced-inspector-exporter",
+    "stargazers": 14
+  },
+  {
+    "repo_url": "https://github.com/Miziziziz/DoomClone",
+    "stargazers": 14
+  },
+  {
+    "repo_url": "https://github.com/LeonardMeagher2/github_to_itch",
+    "stargazers": 14
+  },
+  {
+    "repo_url": "https://github.com/Hugo4IT/CheatCoder",
+    "stargazers": 14
+  },
+  {
+    "repo_url": "https://github.com/Gyrth/SketchyRenderer",
+    "stargazers": 14
+  },
+  {
+    "repo_url": "https://github.com/GammaGames/godot-debug-overlay",
+    "stargazers": 14
+  },
+  {
+    "repo_url": "https://github.com/Cevantime/godot_water2d",
+    "stargazers": 14
+  },
+  {
+    "repo_url": "https://github.com/Buri/godot-openai",
+    "stargazers": 14
+  },
+  {
+    "repo_url": "https://github.com/BastiaanOlij/godot-noise-texture-asset",
+    "stargazers": 14
+  },
+  {
+    "repo_url": "https://github.com/BalaDeSilver/NEAT_GDScript",
+    "stargazers": 14
+  },
+  {
+    "repo_url": "https://github.com/Althar93/GDTracery",
+    "stargazers": 14
+  },
+  {
+    "repo_url": "https://github.com/0xspig/CrosshairShader",
+    "stargazers": 14
+  },
+  {
+    "repo_url": "https://github.com/zaevi/ImportCleaner",
+    "stargazers": 13
+  },
+  {
+    "repo_url": "https://github.com/tlitookilakin/message_box",
+    "stargazers": 13
+  },
+  {
+    "repo_url": "https://github.com/pigdevstudio/cutout_characters",
+    "stargazers": 13
+  },
+  {
+    "repo_url": "https://github.com/mrpedrobraga/godot-simple-resource-icons",
+    "stargazers": 13
+  },
+  {
+    "repo_url": "https://github.com/matt-kimball/godot-mrpas-assetlib",
+    "stargazers": 13
+  },
+  {
+    "repo_url": "https://github.com/matson48/sglscript-godot",
+    "stargazers": 13
+  },
+  {
+    "repo_url": "https://github.com/mathewcst/godot-export-categories",
+    "stargazers": 13
+  },
+  {
+    "repo_url": "https://github.com/iatenine/Godot-Level-Manager",
+    "stargazers": 13
+  },
+  {
+    "repo_url": "https://github.com/hmans/Godot-RigidBody-Auto-Scaler",
+    "stargazers": 13
+  },
+  {
+    "repo_url": "https://github.com/gmarais/AnimatedGridContainerPlugin",
+    "stargazers": 13
+  },
+  {
+    "repo_url": "https://github.com/dueddel/godot-screencast-keys-node",
+    "stargazers": 13
+  },
+  {
+    "repo_url": "https://github.com/don-tnowe/godot-advanced-random",
+    "stargazers": 13
+  },
+  {
+    "repo_url": "https://github.com/boukew99/gui_calculator",
+    "stargazers": 13
+  },
+  {
+    "repo_url": "https://github.com/WhoStoleMyCoffee/godot-optional",
+    "stargazers": 13
+  },
+  {
+    "repo_url": "https://github.com/VP-GAMES/Godot4InteractiveSceneChanger",
+    "stargazers": 13
+  },
+  {
+    "repo_url": "https://github.com/Tshmofen/verlet-rope-4",
+    "stargazers": 13
+  },
+  {
+    "repo_url": "https://github.com/ShatReal/3x3-min-gen",
+    "stargazers": 13
+  },
+  {
+    "repo_url": "https://github.com/Lohan120/GodotIsoCustomPathfinder",
+    "stargazers": 13
+  },
+  {
+    "repo_url": "https://github.com/Kamyabnz/Retro-Magic-Demo",
+    "stargazers": 13
+  },
+  {
+    "repo_url": "https://github.com/Joy-less/Embers",
+    "stargazers": 13
+  },
+  {
+    "repo_url": "https://github.com/JohnnyRouddro/Godot_3D_Targeting_System",
+    "stargazers": 13
+  },
+  {
+    "repo_url": "https://github.com/Hugo4IT/Iconify",
+    "stargazers": 13
+  },
+  {
+    "repo_url": "https://github.com/ForlornU/TopdownStarter",
+    "stargazers": 13
+  },
+  {
+    "repo_url": "https://github.com/DrJamgo/Godot_LPC_Spritesheet_Gen",
+    "stargazers": 13
+  },
+  {
+    "repo_url": "https://github.com/Dr-Dan/gd-behavior",
+    "stargazers": 13
+  },
+  {
+    "repo_url": "https://github.com/DatLycan/AMP",
+    "stargazers": 13
+  },
+  {
+    "repo_url": "https://github.com/DarkRewar/SurvivorsStarterKit",
+    "stargazers": 13
+  },
+  {
+    "repo_url": "https://github.com/DankIdol/MMITool",
+    "stargazers": 13
+  },
+  {
+    "repo_url": "https://github.com/Danim3D/godot-plugin-project-resolution",
+    "stargazers": 13
+  },
+  {
+    "repo_url": "https://github.com/Beliaar/godot-yaml-asset",
+    "stargazers": 13
+  },
+  {
+    "repo_url": "https://github.com/3ddelano/dataclasses-godot",
+    "stargazers": 13
+  },
+  {
+    "repo_url": "https://github.com/uberfig/godot-build-and-deploy-plugin",
+    "stargazers": 12
+  },
+  {
+    "repo_url": "https://github.com/touilleMan/godot-python-assetlib-repo",
+    "stargazers": 12
+  },
+  {
+    "repo_url": "https://github.com/rohanrhu/virtual-joystick",
+    "stargazers": 12
+  },
+  {
+    "repo_url": "https://github.com/qtip/tile-spawner",
+    "stargazers": 12
+  },
+  {
+    "repo_url": "https://github.com/nyanginator/godot-scaling-canvas-layer",
+    "stargazers": 12
+  },
+  {
+    "repo_url": "https://github.com/nobuyukinyuu/GD-SimpleKnob",
+    "stargazers": 12
+  },
+  {
+    "repo_url": "https://github.com/need12648430/godot-todo",
+    "stargazers": 12
+  },
+  {
+    "repo_url": "https://github.com/lulersoft/godot_mole_game",
+    "stargazers": 12
+  },
+  {
+    "repo_url": "https://github.com/jon-heard/Godot-MagicaVoxel-Importer-with-Extensions",
+    "stargazers": 12
+  },
+  {
+    "repo_url": "https://github.com/ic3bug/Godot-Simple-Multiplayer",
+    "stargazers": 12
+  },
+  {
+    "repo_url": "https://github.com/henriquelalves/GodotCharacterInputController",
+    "stargazers": 12
+  },
+  {
+    "repo_url": "https://github.com/godot-extended-libraries/godot-interpolated-camera3d-demo",
+    "stargazers": 12
+  },
+  {
+    "repo_url": "https://github.com/ferdyferdy9/WorldEditor",
+    "stargazers": 12
+  },
+  {
+    "repo_url": "https://github.com/elenakrittik/GodotXML",
+    "stargazers": 12
+  },
+  {
+    "repo_url": "https://github.com/deflinhec/GodotGoogleSheet",
+    "stargazers": 12
+  },
+  {
+    "repo_url": "https://github.com/dardanbujupaj/godot-n-body-simulation",
+    "stargazers": 12
+  },
+  {
+    "repo_url": "https://github.com/cobolfoo/godot3-spacegame",
+    "stargazers": 12
+  },
+  {
+    "repo_url": "https://github.com/christinoleo/FollowBone3D",
+    "stargazers": 12
+  },
+  {
+    "repo_url": "https://github.com/adrenallen/WaterMap",
+    "stargazers": 12
+  },
+  {
+    "repo_url": "https://github.com/YeOldeDM/godot-minesweeper",
+    "stargazers": 12
+  },
+  {
+    "repo_url": "https://github.com/VP-GAMES/Godot4DialogueEditor",
+    "stargazers": 12
+  },
+  {
+    "repo_url": "https://github.com/Thane5/godot-clipboard-panel",
+    "stargazers": 12
+  },
+  {
+    "repo_url": "https://github.com/Shidoengie/FPS-template-gd4",
+    "stargazers": 12
+  },
+  {
+    "repo_url": "https://github.com/Reisflocke/godot-3d-outline",
+    "stargazers": 12
+  },
+  {
+    "repo_url": "https://github.com/PKGaspi/godot-LayeredSprite",
+    "stargazers": 12
+  },
+  {
+    "repo_url": "https://github.com/PDeveloper/Planet2D",
+    "stargazers": 12
+  },
+  {
+    "repo_url": "https://github.com/NovemberDev/godot_curvature_shader",
+    "stargazers": 12
+  },
+  {
+    "repo_url": "https://github.com/LucasBr003/camera-2d-plus",
+    "stargazers": 12
+  },
+  {
+    "repo_url": "https://github.com/JohnCWakley/vox-importer",
+    "stargazers": 12
+  },
+  {
+    "repo_url": "https://github.com/GodotVR/godot-oculus-asset",
+    "stargazers": 12
+  },
+  {
+    "repo_url": "https://github.com/GlaDOSik/GodotWireframePlugin",
+    "stargazers": 12
+  },
+  {
+    "repo_url": "https://github.com/GDWired/GDPaho",
+    "stargazers": 12
+  },
+  {
+    "repo_url": "https://github.com/FilipLundby/DynamicCameraSystem",
+    "stargazers": 12
+  },
+  {
+    "repo_url": "https://github.com/Daylily-Zeleen/Photon-GDScript-Client-SDK-for-Godot-3.x",
+    "stargazers": 12
+  },
+  {
+    "repo_url": "https://github.com/Dark-Peace/godot-laserbeam-node",
+    "stargazers": 12
+  },
+  {
+    "repo_url": "https://github.com/Dark-Peace/bottled-up-tilemap",
+    "stargazers": 12
+  },
+  {
+    "repo_url": "https://github.com/CheapMeow/Godot-MapGeneratorSampleProject",
+    "stargazers": 12
+  },
+  {
+    "repo_url": "https://github.com/Abab-bk/FlowerIventory",
+    "stargazers": 12
+  },
+  {
+    "repo_url": "https://github.com/3ddelano/draw-anywhere-godot",
+    "stargazers": 12
+  },
+  {
+    "repo_url": "https://github.com/zaevi/godot-cursor-shape-previewer",
+    "stargazers": 11
+  },
+  {
+    "repo_url": "https://github.com/zaevi/Godot-Camera-Monitor",
+    "stargazers": 11
+  },
+  {
+    "repo_url": "https://github.com/vi4hu/godot_compass",
+    "stargazers": 11
+  },
+  {
+    "repo_url": "https://github.com/univeous/Icon-Animations",
+    "stargazers": 11
+  },
+  {
+    "repo_url": "https://github.com/ueshita/godot-floatable-body",
+    "stargazers": 11
+  },
+  {
+    "repo_url": "https://github.com/thiagobruno/godot_texturerecturl",
+    "stargazers": 11
+  },
+  {
+    "repo_url": "https://github.com/thiagobruno/godot_TBP_GrassPath2D",
+    "stargazers": 11
+  },
+  {
+    "repo_url": "https://github.com/tbxMb/GodotLiveLinkFace",
+    "stargazers": 11
+  },
+  {
+    "repo_url": "https://github.com/shinneider/godot_touchJoyPad",
+    "stargazers": 11
+  },
+  {
+    "repo_url": "https://github.com/rivet-gg/plugin-godot",
+    "stargazers": 11
+  },
+  {
+    "repo_url": "https://github.com/rares45/godot-toasts",
+    "stargazers": 11
+  },
+  {
+    "repo_url": "https://github.com/qarlosh/Godot-crt-geom-shader",
+    "stargazers": 11
+  },
+  {
+    "repo_url": "https://github.com/programaths/dragdrop",
+    "stargazers": 11
+  },
+  {
+    "repo_url": "https://github.com/nonunknown/screen-debugger",
+    "stargazers": 11
+  },
+  {
+    "repo_url": "https://github.com/nklbdev/godot-4-previewing-parallax-background",
+    "stargazers": 11
+  },
+  {
+    "repo_url": "https://github.com/moraguma/Jam-Essentials",
+    "stargazers": 11
+  },
+  {
+    "repo_url": "https://github.com/mechPenSketch/Database",
+    "stargazers": 11
+  },
+  {
+    "repo_url": "https://github.com/mcunha-br/Godot_VirtualJoystick",
+    "stargazers": 11
+  },
+  {
+    "repo_url": "https://github.com/jtnicholl/godot3-vr-physics-template",
+    "stargazers": 11
+  },
+  {
+    "repo_url": "https://github.com/jmb462/GodotQuickSettings",
+    "stargazers": 11
+  },
+  {
+    "repo_url": "https://github.com/ivan-resetnikov/grappling-hook-3d",
+    "stargazers": 11
+  },
+  {
+    "repo_url": "https://github.com/hnOsmium0001/godot-json-editor",
+    "stargazers": 11
+  },
+  {
+    "repo_url": "https://github.com/henriquelalves/GodotSimpleTextMenu",
+    "stargazers": 11
+  },
+  {
+    "repo_url": "https://github.com/gilzoide/godot-lua-pluginscript-distribution",
+    "stargazers": 11
+  },
+  {
+    "repo_url": "https://github.com/feendrache/Godot4-TiledImporter",
+    "stargazers": 11
+  },
+  {
+    "repo_url": "https://github.com/ethanl21/transit",
+    "stargazers": 11
+  },
+  {
+    "repo_url": "https://github.com/don-tnowe/godot-everything-library",
+    "stargazers": 11
+  },
+  {
+    "repo_url": "https://github.com/decipher2k/Clientside-Predictor-for-Godot",
+    "stargazers": 11
+  },
+  {
+    "repo_url": "https://github.com/blackblock-io/path-tool",
+    "stargazers": 11
+  },
+  {
+    "repo_url": "https://github.com/atzuk4451/FlexibleToonShaderGD-4.0",
+    "stargazers": 11
+  },
+  {
+    "repo_url": "https://github.com/adrienmalin/TETRIS3000",
+    "stargazers": 11
+  },
+  {
+    "repo_url": "https://github.com/Yagich/dicebag-godot",
+    "stargazers": 11
+  },
+  {
+    "repo_url": "https://github.com/Talltale-Studios/Nine-Patch-Button-for-Godot-3.x",
+    "stargazers": 11
+  },
+  {
+    "repo_url": "https://github.com/Peatral/AsepriteAnimSetter",
+    "stargazers": 11
+  },
+  {
+    "repo_url": "https://github.com/OfficinePixel/vr_mobile_camera",
+    "stargazers": 11
+  },
+  {
+    "repo_url": "https://github.com/MakovWait/godot-previous-tab",
+    "stargazers": 11
+  },
+  {
+    "repo_url": "https://github.com/Magodra/GlowBorderEffect",
+    "stargazers": 11
+  },
+  {
+    "repo_url": "https://github.com/LD2Studio/graph-2d",
+    "stargazers": 11
+  },
+  {
+    "repo_url": "https://github.com/KayKit-Game-Assets/KayKit-Character-Pack-Adventures-1.0",
+    "stargazers": 11
+  },
+  {
+    "repo_url": "https://github.com/IconocatStudio/godot2dgridmovement",
+    "stargazers": 11
+  },
+  {
+    "repo_url": "https://github.com/Iakobs/godot-google-play-game-services-android-plugin",
+    "stargazers": 11
+  },
+  {
+    "repo_url": "https://github.com/Fanny-Pack-Studios/ExtendableInspector",
+    "stargazers": 11
+  },
+  {
+    "repo_url": "https://github.com/DeybisMelendez/maze-generator-godot",
+    "stargazers": 11
+  },
+  {
+    "repo_url": "https://github.com/Danim3D/Godot-4-Plugin-Project-Resolution",
+    "stargazers": 11
+  },
+  {
+    "repo_url": "https://github.com/CptFurball/basic-first-person-prop-pickup",
+    "stargazers": 11
+  },
+  {
+    "repo_url": "https://github.com/Brian-McElroy/GodotCoroutineslikeUnity",
+    "stargazers": 11
+  },
+  {
+    "repo_url": "https://github.com/BlueOctopusDev/DampedOscillator",
+    "stargazers": 11
+  },
+  {
+    "repo_url": "https://github.com/Arnklit/ShellFurGodotDemo",
+    "stargazers": 11
+  },
+  {
+    "repo_url": "https://github.com/AlphinAlbukhari/Godot-Sword-Slash-with-Visual-Shader",
+    "stargazers": 11
+  },
+  {
+    "repo_url": "https://github.com/AlbertoLuviano/SHADER---PaletteSwap766",
+    "stargazers": 11
+  },
+  {
+    "repo_url": "https://github.com/ydipeepo/godot-nesink",
+    "stargazers": 10
+  },
+  {
+    "repo_url": "https://github.com/timothyqiu/godot-animation-resetter",
+    "stargazers": 10
+  },
+  {
+    "repo_url": "https://github.com/timoschwarzer/polygonizer-gd-addon",
+    "stargazers": 10
+  },
+  {
+    "repo_url": "https://github.com/shivmsit/FlappyBird",
+    "stargazers": 10
+  },
+  {
+    "repo_url": "https://github.com/sami8github/Godot-Analog-Stick",
+    "stargazers": 10
+  },
+  {
+    "repo_url": "https://github.com/rossunger/GodotExtraGUI",
+    "stargazers": 10
+  },
+  {
+    "repo_url": "https://github.com/rayxuln/RaiixStateMachinePlugin",
+    "stargazers": 10
+  },
+  {
+    "repo_url": "https://github.com/playerloop/playerloop-godot",
+    "stargazers": 10
+  },
+  {
+    "repo_url": "https://github.com/nklbdev/godot-aseprite-animation-importer",
+    "stargazers": 10
+  },
+  {
+    "repo_url": "https://github.com/newold3/PathEditor",
+    "stargazers": 10
+  },
+  {
+    "repo_url": "https://github.com/mrpedrobraga/godot_extra_property_hints",
+    "stargazers": 10
+  },
+  {
+    "repo_url": "https://github.com/mrpedrobraga/godot-popup-tools-addon",
+    "stargazers": 10
+  },
+  {
+    "repo_url": "https://github.com/markeel/godot-vizpath",
+    "stargazers": 10
+  },
+  {
+    "repo_url": "https://github.com/marcosbitetti/godot_balloon_text",
+    "stargazers": 10
+  },
+  {
+    "repo_url": "https://github.com/luizcarlos1405/SpriteTrail",
+    "stargazers": 10
+  },
+  {
+    "repo_url": "https://github.com/lihop/godot-xterm-dist",
+    "stargazers": 10
+  },
+  {
+    "repo_url": "https://github.com/lewiji/RebuildCsOnFocus",
+    "stargazers": 10
+  },
+  {
+    "repo_url": "https://github.com/kuruk-mm/gdscript-async-utils",
+    "stargazers": 10
+  },
+  {
+    "repo_url": "https://github.com/khairul169/2d-simplewater",
+    "stargazers": 10
+  },
+  {
+    "repo_url": "https://github.com/jvcoutinho/Maze-Generator",
+    "stargazers": 10
+  },
+  {
+    "repo_url": "https://github.com/jose-lico/GodotRenderDocLauncher",
+    "stargazers": 10
+  },
+  {
+    "repo_url": "https://github.com/imjp94/gd-plug-ui",
+    "stargazers": 10
+  },
+  {
+    "repo_url": "https://github.com/ic3bug/Explosive-Salad",
+    "stargazers": 10
+  },
+  {
+    "repo_url": "https://github.com/higgs-bosoff/godot-linalg",
+    "stargazers": 10
+  },
+  {
+    "repo_url": "https://github.com/fractilegames/godot-obj-export",
+    "stargazers": 10
+  },
+  {
+    "repo_url": "https://github.com/fcazalet/godot-version-management",
+    "stargazers": 10
+  },
+  {
+    "repo_url": "https://github.com/fbcosentino/GodotPulseGlow",
+    "stargazers": 10
+  },
+  {
+    "repo_url": "https://github.com/ceceppa/anima-godot-4",
+    "stargazers": 10
+  },
+  {
+    "repo_url": "https://github.com/burstina/SwipeEvent",
+    "stargazers": 10
+  },
+  {
+    "repo_url": "https://github.com/anoadragon453/godot-zeronet-plugin",
+    "stargazers": 10
+  },
+  {
+    "repo_url": "https://github.com/VolodyaKEK/GodotConsole",
+    "stargazers": 10
+  },
+  {
+    "repo_url": "https://github.com/SquiggelSquirrel/BitFlagEditor",
+    "stargazers": 10
+  },
+  {
+    "repo_url": "https://github.com/SanderVanhove/godot-fps-graph-overlay",
+    "stargazers": 10
+  },
+  {
+    "repo_url": "https://github.com/RevolNoom/godot_xr_handtracking",
+    "stargazers": 10
+  },
+  {
+    "repo_url": "https://github.com/NovemberDev/GodotAsyncSceneLoader",
+    "stargazers": 10
+  },
+  {
+    "repo_url": "https://github.com/Maulve/Onscreen-Output",
+    "stargazers": 10
+  },
+  {
+    "repo_url": "https://github.com/Maujoe/godot-simlpe-screenshot-script",
+    "stargazers": 10
+  },
+  {
+    "repo_url": "https://github.com/Manonox/godot-dev-blocks",
+    "stargazers": 10
+  },
+  {
+    "repo_url": "https://github.com/LucasBr003/ez-saving",
+    "stargazers": 10
+  },
+  {
+    "repo_url": "https://github.com/HopeMetal/2DTacticalRPGDemo",
+    "stargazers": 10
+  },
+  {
+    "repo_url": "https://github.com/Hiiamwilliam/CustomPathGizmo",
+    "stargazers": 10
+  },
+  {
+    "repo_url": "https://github.com/Godot-Opus/libopus-gdnative-asset",
+    "stargazers": 10
+  },
+  {
+    "repo_url": "https://github.com/GeroVeni/kenney_prototype_tools",
+    "stargazers": 10
+  },
+  {
+    "repo_url": "https://github.com/Donitzo/godot-catenary",
+    "stargazers": 10
+  },
+  {
+    "repo_url": "https://github.com/DeanNevan/Godot-2D-Super-Lightning",
+    "stargazers": 10
+  },
+  {
+    "repo_url": "https://github.com/ColormaticStudios/quality-godot-first-person",
+    "stargazers": 10
+  },
+  {
+    "repo_url": "https://github.com/Calinou/kenney-ui-audio",
+    "stargazers": 10
+  },
+  {
+    "repo_url": "https://github.com/Cablefish1/dicebag-godot-4",
+    "stargazers": 10
+  },
+  {
+    "repo_url": "https://github.com/Ark2000/fancy-particles",
+    "stargazers": 10
+  },
+  {
+    "repo_url": "https://github.com/AlansCodeLog/godot-gimbal-control-node",
+    "stargazers": 10
+  },
+  {
+    "repo_url": "https://github.com/AcroProjects/AcrosHitboxes",
+    "stargazers": 10
+  },
+  {
+    "repo_url": "https://github.com/ASecondGuy/DesktopPet",
+    "stargazers": 10
+  },
+  {
+    "repo_url": "https://github.com/ydipeepo/godot-motion",
+    "stargazers": 9
+  },
+  {
+    "repo_url": "https://github.com/xphere/godot-zone",
+    "stargazers": 9
+  },
+  {
+    "repo_url": "https://github.com/wnx1012266/Demo_AI_Training",
+    "stargazers": 9
+  },
+  {
+    "repo_url": "https://github.com/ualac/godot-outline3d",
+    "stargazers": 9
+  },
+  {
+    "repo_url": "https://github.com/synthetic-borealis/Godot-CSGStairs",
+    "stargazers": 9
+  },
+  {
+    "repo_url": "https://github.com/steffen-schumacher/godot-nested-saving-loading",
+    "stargazers": 9
+  },
+  {
+    "repo_url": "https://github.com/sftblw/beatplayer-godot",
+    "stargazers": 9
+  },
+  {
+    "repo_url": "https://github.com/samdze/godot-makefile-launcher-plugin",
+    "stargazers": 9
+  },
+  {
+    "repo_url": "https://github.com/rdcklinux/GodotNetworking",
+    "stargazers": 9
+  },
+  {
+    "repo_url": "https://github.com/rdcklinux/GodotHttpClient",
+    "stargazers": 9
+  },
+  {
+    "repo_url": "https://github.com/rainlizard/SingletonScriptsShortcut",
+    "stargazers": 9
+  },
+  {
+    "repo_url": "https://github.com/piratesephiroth/shoebox-pixijs-spritesheet-plugin",
+    "stargazers": 9
+  },
+  {
+    "repo_url": "https://github.com/pattlebass/Godot-Acrylic",
+    "stargazers": 9
+  },
+  {
+    "repo_url": "https://github.com/neropatti/easy_vector_display",
+    "stargazers": 9
+  },
+  {
+    "repo_url": "https://github.com/mrpedrobraga/godot-plugin-refresher-4.x",
+    "stargazers": 9
+  },
+  {
+    "repo_url": "https://github.com/mechPenSketch/FiniteStateMachine",
+    "stargazers": 9
+  },
+  {
+    "repo_url": "https://github.com/matrixant/Godot-FontAwesome5",
+    "stargazers": 9
+  },
+  {
+    "repo_url": "https://github.com/kreaninw/G4-Ultimate-Touch-Joypad",
+    "stargazers": 9
+  },
+  {
+    "repo_url": "https://github.com/ivoyager/procedural_saver_loader",
+    "stargazers": 9
+  },
+  {
+    "repo_url": "https://github.com/eh-jogos/eh_DocsExporter",
+    "stargazers": 9
+  },
+  {
+    "repo_url": "https://github.com/craftablescience/vmflib-godot",
+    "stargazers": 9
+  },
+  {
+    "repo_url": "https://github.com/citizenll/godot-csv-typed-importer",
+    "stargazers": 9
+  },
+  {
+    "repo_url": "https://github.com/boukew99/screen_capture",
+    "stargazers": 9
+  },
+  {
+    "repo_url": "https://github.com/antonWetzel/blender-to-godot",
+    "stargazers": 9
+  },
+  {
+    "repo_url": "https://github.com/antonWetzel/BlenderHelper",
+    "stargazers": 9
+  },
+  {
+    "repo_url": "https://github.com/Zylann/godot_editor_light_plugin",
+    "stargazers": 9
+  },
+  {
+    "repo_url": "https://github.com/Yukitty/godot-addon-crypto_uuid_v4",
+    "stargazers": 9
+  },
+  {
+    "repo_url": "https://github.com/VivianVerdant/dock_shader_editor",
+    "stargazers": 9
+  },
+  {
+    "repo_url": "https://github.com/VinhPhmCng/GodotStylePlugin",
+    "stargazers": 9
+  },
+  {
+    "repo_url": "https://github.com/Technohacker/godot_piskel_importer",
+    "stargazers": 9
+  },
+  {
+    "repo_url": "https://github.com/Schweini07/Dialogbox",
+    "stargazers": 9
+  },
+  {
+    "repo_url": "https://github.com/Sahedo/JSON-Shema-validator",
+    "stargazers": 9
+  },
+  {
+    "repo_url": "https://github.com/SIsilicon/Godot-Anaglyph-Camera",
+    "stargazers": 9
+  },
+  {
+    "repo_url": "https://github.com/Rytelier/Godot-DeepDebug",
+    "stargazers": 9
+  },
+  {
+    "repo_url": "https://github.com/RoseAndres/gDAW",
+    "stargazers": 9
+  },
+  {
+    "repo_url": "https://github.com/PonasKovas/godot-outline",
+    "stargazers": 9
+  },
+  {
+    "repo_url": "https://github.com/Pocku/godot-sparrowatlas-editor",
+    "stargazers": 9
+  },
+  {
+    "repo_url": "https://github.com/NiceDuckGames/GDVN",
+    "stargazers": 9
+  },
+  {
+    "repo_url": "https://github.com/Miziziziz/TopDownShooter",
+    "stargazers": 9
+  },
+  {
+    "repo_url": "https://github.com/Manonox/GDLuau",
+    "stargazers": 9
+  },
+  {
+    "repo_url": "https://github.com/Loopingstar/godot_tiny_platform_quest",
+    "stargazers": 9
+  },
+  {
+    "repo_url": "https://github.com/LanzaSchneider/godot-xBRZ",
+    "stargazers": 9
+  },
+  {
+    "repo_url": "https://github.com/Iron-Stag-Games/Godot-Extend",
+    "stargazers": 9
+  },
+  {
+    "repo_url": "https://github.com/IcterusGames/NodeWebSockets",
+    "stargazers": 9
+  },
+  {
+    "repo_url": "https://github.com/Iakobs/godot-google-play-game-services-plugin",
+    "stargazers": 9
+  },
+  {
+    "repo_url": "https://github.com/Flavelius/godot-navmesh-eraser",
+    "stargazers": 9
+  },
+  {
+    "repo_url": "https://github.com/FEDE0D/godot-subtitles",
+    "stargazers": 9
+  },
+  {
+    "repo_url": "https://github.com/Evanator05/Control3D",
+    "stargazers": 9
+  },
+  {
+    "repo_url": "https://github.com/Escandiuzzi/Inventory-Manager-Asset-Godot",
+    "stargazers": 9
+  },
+  {
+    "repo_url": "https://github.com/Dark-Peace/SuperSpector",
+    "stargazers": 9
+  },
+  {
+    "repo_url": "https://github.com/DaelonSuzuka/SelectionShortcuts",
+    "stargazers": 9
+  },
+  {
+    "repo_url": "https://github.com/ComancheAk/RigidBody-Planetary-Physics-Correct-Stand-Up",
+    "stargazers": 9
+  },
+  {
+    "repo_url": "https://github.com/AustinDoss/Godot-Awesome-Debug-Print",
+    "stargazers": 9
+  },
+  {
+    "repo_url": "https://github.com/Astridson/godot-segmented-bar",
+    "stargazers": 9
+  },
+  {
+    "repo_url": "https://github.com/19PHOBOSS98/Godot-MirrorInstance",
+    "stargazers": 9
+  },
+  {
+    "repo_url": "https://github.com/1419427247/BiomeGeneratorDemo",
+    "stargazers": 9
+  },
+  {
+    "repo_url": "https://github.com/zodywoolsey/Panel3D",
+    "stargazers": 8
+  },
+  {
+    "repo_url": "https://github.com/wareya/ScrollListContainer",
+    "stargazers": 8
+  },
+  {
+    "repo_url": "https://github.com/vi4hu/godot_health_bar_2d",
+    "stargazers": 8
+  },
+  {
+    "repo_url": "https://github.com/vaporvee/gd-net-thirdpersoncontroller",
+    "stargazers": 8
+  },
+  {
+    "repo_url": "https://github.com/thimenesup/BoneGizmo",
+    "stargazers": 8
+  },
+  {
+    "repo_url": "https://github.com/rcorre/godot_blender_importer",
+    "stargazers": 8
+  },
+  {
+    "repo_url": "https://github.com/rayxuln/Behavior-Tree-Syntax-Compiler",
+    "stargazers": 8
+  },
+  {
+    "repo_url": "https://github.com/rafgro/godot25dmap",
+    "stargazers": 8
+  },
+  {
+    "repo_url": "https://github.com/poohcom1/godot-run-configs",
+    "stargazers": 8
+  },
+  {
+    "repo_url": "https://github.com/nonunknown/smart-audio-stream",
+    "stargazers": 8
+  },
+  {
+    "repo_url": "https://github.com/night-glider/Godot-healthbar3D",
+    "stargazers": 8
+  },
+  {
+    "repo_url": "https://github.com/mrtripie/godot-string-keys",
+    "stargazers": 8
+  },
+  {
+    "repo_url": "https://github.com/merovi-labs/svgtexture2d",
+    "stargazers": 8
+  },
+  {
+    "repo_url": "https://github.com/makifdb/godot-match3-template",
+    "stargazers": 8
+  },
+  {
+    "repo_url": "https://github.com/lupoDharkael/godot-fps-label",
+    "stargazers": 8
+  },
+  {
+    "repo_url": "https://github.com/lishank0119/godot-rng-utils",
+    "stargazers": 8
+  },
+  {
+    "repo_url": "https://github.com/kameloov/Radial-progress-bar",
+    "stargazers": 8
+  },
+  {
+    "repo_url": "https://github.com/juanitogan/godot-firebase-lite",
+    "stargazers": 8
+  },
+  {
+    "repo_url": "https://github.com/jpdurigan/godot_moho_importer",
+    "stargazers": 8
+  },
+  {
+    "repo_url": "https://github.com/ic3bug/FPC",
+    "stargazers": 8
+  },
+  {
+    "repo_url": "https://github.com/goatchurchprime/godot-mqtt",
+    "stargazers": 8
+  },
+  {
+    "repo_url": "https://github.com/dannygaray60/milanganote",
+    "stargazers": 8
+  },
+  {
+    "repo_url": "https://github.com/clemens-tolboom/gd-openai",
+    "stargazers": 8
+  },
+  {
+    "repo_url": "https://github.com/blurymind/1dollar_gesture_recogniser",
+    "stargazers": 8
+  },
+  {
+    "repo_url": "https://github.com/bluematt/Godot-QuickTileset",
+    "stargazers": 8
+  },
+  {
+    "repo_url": "https://github.com/bend-n/remap",
+    "stargazers": 8
+  },
+  {
+    "repo_url": "https://github.com/babypandabear3/bpb_placement",
+    "stargazers": 8
+  },
+  {
+    "repo_url": "https://github.com/anunknowperson/godot-vr-tools",
+    "stargazers": 8
+  },
+  {
+    "repo_url": "https://github.com/angel-01/image-to-scene",
+    "stargazers": 8
+  },
+  {
+    "repo_url": "https://github.com/adadaadadade/godot-bili",
+    "stargazers": 8
+  },
+  {
+    "repo_url": "https://github.com/XettRN/godot-tiger-importer",
+    "stargazers": 8
+  },
+  {
+    "repo_url": "https://github.com/Vacui/TODO_4",
+    "stargazers": 8
+  },
+  {
+    "repo_url": "https://github.com/Strauji/Godot-AreaProber2D",
+    "stargazers": 8
+  },
+  {
+    "repo_url": "https://github.com/Sombresonge/Third-Person-Controller",
+    "stargazers": 8
+  },
+  {
+    "repo_url": "https://github.com/Skyquakers/godot-rope3d",
+    "stargazers": 8
+  },
+  {
+    "repo_url": "https://github.com/ShatReal/saving-and-loading-with-json",
+    "stargazers": 8
+  },
+  {
+    "repo_url": "https://github.com/ShatReal/drag-drop-inventory",
+    "stargazers": 8
+  },
+  {
+    "repo_url": "https://github.com/ShatReal/control-plus",
+    "stargazers": 8
+  },
+  {
+    "repo_url": "https://github.com/ShatReal/Dynamic-Item-Drop",
+    "stargazers": 8
+  },
+  {
+    "repo_url": "https://github.com/RainbowAsteroids/customizable-packed-scene",
+    "stargazers": 8
+  },
+  {
+    "repo_url": "https://github.com/Prime-Eight/cautious-guacamole",
+    "stargazers": 8
+  },
+  {
+    "repo_url": "https://github.com/Pennycook/godot-input-prompts",
+    "stargazers": 8
+  },
+  {
+    "repo_url": "https://github.com/PaganSeaWitch/Bonnie-Dialogue-Manager-Godot-Plugin",
+    "stargazers": 8
+  },
+  {
+    "repo_url": "https://github.com/Paellu/Enet-Lobby",
+    "stargazers": 8
+  },
+  {
+    "repo_url": "https://github.com/MakovWait/godot-expand-region",
+    "stargazers": 8
+  },
+  {
+    "repo_url": "https://github.com/Loopingstar/godot_notes",
+    "stargazers": 8
+  },
+  {
+    "repo_url": "https://github.com/LetterN/Godot-FontAwesome",
+    "stargazers": 8
+  },
+  {
+    "repo_url": "https://github.com/LemiSt24/line-renderer",
+    "stargazers": 8
+  },
+  {
+    "repo_url": "https://github.com/Kyle-Ye/GodotSwiftTemplate",
+    "stargazers": 8
+  },
+  {
+    "repo_url": "https://github.com/KoBeWi/Godot-Custom-Runner",
+    "stargazers": 8
+  },
+  {
+    "repo_url": "https://github.com/KayKit-Game-Assets/KayKit-Prototype-Bits-1.0",
+    "stargazers": 8
+  },
+  {
+    "repo_url": "https://github.com/JulienVanelian/godot-folder-node",
+    "stargazers": 8
+  },
+  {
+    "repo_url": "https://github.com/JarLowrey/TextureProgressOfSubunits",
+    "stargazers": 8
+  },
+  {
+    "repo_url": "https://github.com/Goldenlion5648/ShaderExamplesWithVideo",
+    "stargazers": 8
+  },
+  {
+    "repo_url": "https://github.com/Goldenlion5648/GodotOverlayWindow",
+    "stargazers": 8
+  },
+  {
+    "repo_url": "https://github.com/Elisto/Godot-Main-Menu-Example-",
+    "stargazers": 8
+  },
+  {
+    "repo_url": "https://github.com/DarkKilauea/godot-environment-volume",
+    "stargazers": 8
+  },
+  {
+    "repo_url": "https://github.com/Codecrafter14/external-file-loader-godot",
+    "stargazers": 8
+  },
+  {
+    "repo_url": "https://github.com/BtheDestroyer/GodotSubtitles",
+    "stargazers": 8
+  },
+  {
+    "repo_url": "https://github.com/BooperDooper7272/Godot-Clicker-Game",
+    "stargazers": 8
+  },
+  {
+    "repo_url": "https://github.com/AtkinTC/aseprite_importer",
+    "stargazers": 8
+  },
+  {
+    "repo_url": "https://github.com/vnznznz/codecks-user-reports-godot",
+    "stargazers": 7
+  },
+  {
+    "repo_url": "https://github.com/vichui/atlas_importer3",
+    "stargazers": 7
+  },
+  {
+    "repo_url": "https://github.com/unusualprojects/GodotSpeechRecognition",
+    "stargazers": 7
+  },
+  {
+    "repo_url": "https://github.com/styr0x/2.5D-Sprite-Rotator--Godot-4-",
+    "stargazers": 7
+  },
+  {
+    "repo_url": "https://github.com/spaghiajoeojo/godot-plugin-SyncNode",
+    "stargazers": 7
+  },
+  {
+    "repo_url": "https://github.com/snkkid99/SpriteSheetImporter_godot_plugin",
+    "stargazers": 7
+  },
+  {
+    "repo_url": "https://github.com/sitiom/Polygonizer-cs-addon",
+    "stargazers": 7
+  },
+  {
+    "repo_url": "https://github.com/ryannhg/gdformat-on-save",
+    "stargazers": 7
+  },
+  {
+    "repo_url": "https://github.com/rudrrayan/PathfindingPlatformingAI",
+    "stargazers": 7
+  },
+  {
+    "repo_url": "https://github.com/rgrams/ross_project_timer",
+    "stargazers": 7
+  },
+  {
+    "repo_url": "https://github.com/nklbdev/godot-tile-palette",
+    "stargazers": 7
+  },
+  {
+    "repo_url": "https://github.com/nklbdev/godot-previewing-parallax-background",
+    "stargazers": 7
+  },
+  {
+    "repo_url": "https://github.com/nathanfranke/nicense",
+    "stargazers": 7
+  },
+  {
+    "repo_url": "https://github.com/msub2/godot-webxr-template",
+    "stargazers": 7
+  },
+  {
+    "repo_url": "https://github.com/lunarcloud/godot-both-flat-and-vr",
+    "stargazers": 7
+  },
+  {
+    "repo_url": "https://github.com/likeich/Godot-Linux-Desktop-Shortcut-Creator",
+    "stargazers": 7
+  },
+  {
+    "repo_url": "https://github.com/khairul169/gd-nav_agent",
+    "stargazers": 7
+  },
+  {
+    "repo_url": "https://github.com/gilzoide/godot-input-key-event-grabber",
+    "stargazers": 7
+  },
+  {
+    "repo_url": "https://github.com/gabriel-del-nardo/herald-of-darkness",
+    "stargazers": 7
+  },
+  {
+    "repo_url": "https://github.com/dreadpon/godot_transform_transfer",
+    "stargazers": 7
+  },
+  {
+    "repo_url": "https://github.com/creikey/simple-normal-ocean",
+    "stargazers": 7
+  },
+  {
+    "repo_url": "https://github.com/c3-hoge-fuga-piyo/godot-safe-area-rect",
+    "stargazers": 7
+  },
+  {
+    "repo_url": "https://github.com/boukew99/scratch_animater",
+    "stargazers": 7
+  },
+  {
+    "repo_url": "https://github.com/blujai831/gdscript-input-field-plugin",
+    "stargazers": 7
+  },
+  {
+    "repo_url": "https://github.com/awindahl/Animated-3D-Robot",
+    "stargazers": 7
+  },
+  {
+    "repo_url": "https://github.com/aiafrasinei/godot_game_menu_by_code",
+    "stargazers": 7
+  },
+  {
+    "repo_url": "https://github.com/Victoralm/AGridMap_Pathfollow",
+    "stargazers": 7
+  },
+  {
+    "repo_url": "https://github.com/Thane5/godot-material-modifier",
+    "stargazers": 7
+  },
+  {
+    "repo_url": "https://github.com/ShatReal/intersect-orbit-demo",
+    "stargazers": 7
+  },
+  {
+    "repo_url": "https://github.com/ShatReal/editor-input-map",
+    "stargazers": 7
+  },
+  {
+    "repo_url": "https://github.com/ShaggyDemiurge/Godot-FSM",
+    "stargazers": 7
+  },
+  {
+    "repo_url": "https://github.com/SIsilicon/Godot-MatCap-Plugin",
+    "stargazers": 7
+  },
+  {
+    "repo_url": "https://github.com/SIsilicon/Extended-Shader-Plugin",
+    "stargazers": 7
+  },
+  {
+    "repo_url": "https://github.com/RogerRandomDev/Control3D",
+    "stargazers": 7
+  },
+  {
+    "repo_url": "https://github.com/Raadiolained/BitmapFontMaker",
+    "stargazers": 7
+  },
+  {
+    "repo_url": "https://github.com/QueenOfSquiggles/squiggles-fur",
+    "stargazers": 7
+  },
+  {
+    "repo_url": "https://github.com/MatiasVME/QuizNodes",
+    "stargazers": 7
+  },
+  {
+    "repo_url": "https://github.com/LudiDorici/scene2sprite",
+    "stargazers": 7
+  },
+  {
+    "repo_url": "https://github.com/Jummit/first-person-template",
+    "stargazers": 7
+  },
+  {
+    "repo_url": "https://github.com/JulienVanelian/godot-rand-utils",
+    "stargazers": 7
+  },
+  {
+    "repo_url": "https://github.com/JstnJrg/Godot_multidirectional_joystick",
+    "stargazers": 7
+  },
+  {
+    "repo_url": "https://github.com/JoluMorsanDev/Godot-Combat-Area-2D-Plugin",
+    "stargazers": 7
+  },
+  {
+    "repo_url": "https://github.com/Iranon/Godot-Shader-Nodes",
+    "stargazers": 7
+  },
+  {
+    "repo_url": "https://github.com/HotHead007/Car-Demo",
+    "stargazers": 7
+  },
+  {
+    "repo_url": "https://github.com/H4x0r-000/gkanban",
+    "stargazers": 7
+  },
+  {
+    "repo_url": "https://github.com/GreatOdds/CSGStairs",
+    "stargazers": 7
+  },
+  {
+    "repo_url": "https://github.com/GodotGarden/drag-and-drop-sprite",
+    "stargazers": 7
+  },
+  {
+    "repo_url": "https://github.com/GianptDev/Settings-Core",
+    "stargazers": 7
+  },
+  {
+    "repo_url": "https://github.com/GD-Sync/GD-Sync",
+    "stargazers": 7
+  },
+  {
+    "repo_url": "https://github.com/FuzzyRhombus/Godot-Version",
+    "stargazers": 7
+  },
+  {
+    "repo_url": "https://github.com/Fifut/godot-time-tracker",
+    "stargazers": 7
+  },
+  {
+    "repo_url": "https://github.com/Emin981/EminMultiMesh",
+    "stargazers": 7
+  },
+  {
+    "repo_url": "https://github.com/Disablak/quick_script_change",
+    "stargazers": 7
+  },
+  {
+    "repo_url": "https://github.com/DeanNevan/Godot4-Beta7-Test1-2048",
+    "stargazers": 7
+  },
+  {
+    "repo_url": "https://github.com/Chaosus/GDFractals",
+    "stargazers": 7
+  },
+  {
+    "repo_url": "https://github.com/CactiChameleon9/ZzSprite-Godot",
+    "stargazers": 7
+  },
+  {
+    "repo_url": "https://github.com/BoyneGames/streamdeck-godot-plugin",
+    "stargazers": 7
+  },
+  {
+    "repo_url": "https://github.com/Beanzilla/Logger",
+    "stargazers": 7
+  },
+  {
+    "repo_url": "https://github.com/AnomalyAces/AnomalyAcesTable",
+    "stargazers": 7
+  },
+  {
+    "repo_url": "https://github.com/AliYil/TranslationsFromJson",
+    "stargazers": 7
+  },
+  {
+    "repo_url": "https://github.com/AlexeyPe/Yandex-Metrica",
+    "stargazers": 7
+  },
+  {
+    "repo_url": "https://github.com/AdrienQuillet/godot-simple-test-harness",
+    "stargazers": 7
+  },
+  {
+    "repo_url": "https://github.com/ACB-prgm/ScriptWriter-Plugin",
+    "stargazers": 7
+  },
+  {
+    "repo_url": "https://github.com/ACB-prgm/Particles2D_Plus",
+    "stargazers": 7
+  },
+  {
+    "repo_url": "https://github.com/yaelatletl/Nobiax-s-Urban-Assets",
+    "stargazers": 6
+  },
+  {
+    "repo_url": "https://github.com/williambt/Godot-MultiLayer-GridMap",
+    "stargazers": 6
+  },
+  {
+    "repo_url": "https://github.com/tavurth/godot-animation-reverser",
+    "stargazers": 6
+  },
+  {
+    "repo_url": "https://github.com/squrious/godot-fastnoiselite-configurator-plugin",
+    "stargazers": 6
+  },
+  {
+    "repo_url": "https://github.com/robertcorponoi/godot-redux-rust",
+    "stargazers": 6
+  },
+  {
+    "repo_url": "https://github.com/rblopes/godot-twitch-irc-client",
+    "stargazers": 6
+  },
+  {
+    "repo_url": "https://github.com/rambda/godot_auto_night_mode",
+    "stargazers": 6
+  },
+  {
+    "repo_url": "https://github.com/nobuyukinyuu/zoomy",
+    "stargazers": 6
+  },
+  {
+    "repo_url": "https://github.com/nobuyukinyuu/Godot-HSV-ColorPicker",
+    "stargazers": 6
+  },
+  {
+    "repo_url": "https://github.com/night-glider/Dialogue-Label",
+    "stargazers": 6
+  },
+  {
+    "repo_url": "https://github.com/newjoker6/Godot-System-Tray",
+    "stargazers": 6
+  },
+  {
+    "repo_url": "https://github.com/newjoker6/Editor-Image-Plugin",
+    "stargazers": 6
+  },
+  {
+    "repo_url": "https://github.com/nekofleet/rich-text-label-ex",
+    "stargazers": 6
+  },
+  {
+    "repo_url": "https://github.com/mohsenph69/mterrain_release",
+    "stargazers": 6
+  },
+  {
+    "repo_url": "https://github.com/matrixant/bilive_observer",
+    "stargazers": 6
+  },
+  {
+    "repo_url": "https://github.com/mastermarkus/QuickPluginManager",
+    "stargazers": 6
+  },
+  {
+    "repo_url": "https://github.com/mashumafi/godot-json-minify",
+    "stargazers": 6
+  },
+  {
+    "repo_url": "https://github.com/lifelike/godot-animator-import",
+    "stargazers": 6
+  },
+  {
+    "repo_url": "https://github.com/jessejburton/GodotCameraController2D",
+    "stargazers": 6
+  },
+  {
+    "repo_url": "https://github.com/jackboyman01/Godot-Main-Menu",
+    "stargazers": 6
+  },
+  {
+    "repo_url": "https://github.com/ismailgamedev/FPS-Controller-Mono",
+    "stargazers": 6
+  },
+  {
+    "repo_url": "https://github.com/gswashburn/Snippets-EditorPlugin",
+    "stargazers": 6
+  },
+  {
+    "repo_url": "https://github.com/gongpha/godot-RectangleSpaceInventory",
+    "stargazers": 6
+  },
+  {
+    "repo_url": "https://github.com/ghostsoft/oldschool_lensflare",
+    "stargazers": 6
+  },
+  {
+    "repo_url": "https://github.com/fractilegames/godot-screenshot-queue",
+    "stargazers": 6
+  },
+  {
+    "repo_url": "https://github.com/fenix-hub/godot-engine.telegram-bot",
+    "stargazers": 6
+  },
+  {
+    "repo_url": "https://github.com/fenix-hub/godot-engine.otp",
+    "stargazers": 6
+  },
+  {
+    "repo_url": "https://github.com/fbcosentino/godot-audiostreampreview",
+    "stargazers": 6
+  },
+  {
+    "repo_url": "https://github.com/extremesphere/advanced_radial_menu",
+    "stargazers": 6
+  },
+  {
+    "repo_url": "https://github.com/don-tnowe/godot-wyvernshield",
+    "stargazers": 6
+  },
+  {
+    "repo_url": "https://github.com/dominiks/rpc-await",
+    "stargazers": 6
+  },
+  {
+    "repo_url": "https://github.com/dmitriy-shmilo/godot-vargen",
+    "stargazers": 6
+  },
+  {
+    "repo_url": "https://github.com/dgilmarj/godot-first-person-character",
+    "stargazers": 6
+  },
+  {
+    "repo_url": "https://github.com/deep-entertainment/egoventure-game-template",
+    "stargazers": 6
+  },
+  {
+    "repo_url": "https://github.com/coelhucas/godotenv",
+    "stargazers": 6
+  },
+  {
+    "repo_url": "https://github.com/chrisskeddy/chart-graph",
+    "stargazers": 6
+  },
+  {
+    "repo_url": "https://github.com/bwhaines/GodotConvoQuestDemo",
+    "stargazers": 6
+  },
+  {
+    "repo_url": "https://github.com/bonziraider/magnus-palette-swaper",
+    "stargazers": 6
+  },
+  {
+    "repo_url": "https://github.com/balintmaci/Godot-Extra-Math-Plugin",
+    "stargazers": 6
+  },
+  {
+    "repo_url": "https://github.com/accmltr/simple-testing-godot",
+    "stargazers": 6
+  },
+  {
+    "repo_url": "https://github.com/Zennyth/EnhancedResource",
+    "stargazers": 6
+  },
+  {
+    "repo_url": "https://github.com/Wyxaldir/GodotInEditorTranslationPlugin",
+    "stargazers": 6
+  },
+  {
+    "repo_url": "https://github.com/WaffleAWT/Godot-4.1-Platform-Shooter",
+    "stargazers": 6
+  },
+  {
+    "repo_url": "https://github.com/SpyrexDE/YoutubeButtonEffect",
+    "stargazers": 6
+  },
+  {
+    "repo_url": "https://github.com/SilverDemons-PK/3D-Platformer-Kit",
+    "stargazers": 6
+  },
+  {
+    "repo_url": "https://github.com/ShiftyAxel/TextureLayeredMesh",
+    "stargazers": 6
+  },
+  {
+    "repo_url": "https://github.com/ShatReal/2d-pixel-art-template",
+    "stargazers": 6
+  },
+  {
+    "repo_url": "https://github.com/SanderVanhove/random-audio-node-player",
+    "stargazers": 6
+  },
+  {
+    "repo_url": "https://github.com/SakulFlee/Godot-WebRTC-Match-Maker",
+    "stargazers": 6
+  },
+  {
+    "repo_url": "https://github.com/Rokle/Godot-Inventory-Demo",
+    "stargazers": 6
+  },
+  {
+    "repo_url": "https://github.com/PlaybyteInc/godot-mirror-plugin",
+    "stargazers": 6
+  },
+  {
+    "repo_url": "https://github.com/OsakiTsukiko/FastNoiseLite-Demo",
+    "stargazers": 6
+  },
+  {
+    "repo_url": "https://github.com/Malcolmnixon/Shapespark-Low-Poly-Exterior-Plants",
+    "stargazers": 6
+  },
+  {
+    "repo_url": "https://github.com/MASSHUU12/godot-control-3d",
+    "stargazers": 6
+  },
+  {
+    "repo_url": "https://github.com/Li-HM/godot-backpacks",
+    "stargazers": 6
+  },
+  {
+    "repo_url": "https://github.com/LeProfesseurStagiaire/crypt-of-the-Godot-Dancer",
+    "stargazers": 6
+  },
+  {
+    "repo_url": "https://github.com/KoBeWi/Godot-Frame-Converter",
+    "stargazers": 6
+  },
+  {
+    "repo_url": "https://github.com/JarLowrey/GodotActionBinding",
+    "stargazers": 6
+  },
+  {
+    "repo_url": "https://github.com/Jamesika/FUCoroutine",
+    "stargazers": 6
+  },
+  {
+    "repo_url": "https://github.com/IsaiahByDayah/godux",
+    "stargazers": 6
+  },
+  {
+    "repo_url": "https://github.com/Hubber116sx/godot_io_method",
+    "stargazers": 6
+  },
+  {
+    "repo_url": "https://github.com/GradyClark/SimpleLicense",
+    "stargazers": 6
+  },
+  {
+    "repo_url": "https://github.com/GodotVR/godot-openhmd-asset",
+    "stargazers": 6
+  },
+  {
+    "repo_url": "https://github.com/GalanCM/godot-test-camera-3d",
+    "stargazers": 6
+  },
+  {
+    "repo_url": "https://github.com/Gabbinetto/Trail2D-addon",
+    "stargazers": 6
+  },
+  {
+    "repo_url": "https://github.com/GDWired/GDMosquitto",
+    "stargazers": 6
+  },
+  {
+    "repo_url": "https://github.com/Firezac/ControllerInputViewer",
+    "stargazers": 6
+  },
+  {
+    "repo_url": "https://github.com/Eptwalabha/godot-dialink",
+    "stargazers": 6
+  },
+  {
+    "repo_url": "https://github.com/Divirad/ADialogueBox",
+    "stargazers": 6
+  },
+  {
+    "repo_url": "https://github.com/Delsin-Yu/GD-AtlasTexture-Creator",
+    "stargazers": 6
+  },
+  {
+    "repo_url": "https://github.com/Dark-Peace/godot-rotor-node",
+    "stargazers": 6
+  },
+  {
+    "repo_url": "https://github.com/Dark-Peace/Godot-Hider-Node",
+    "stargazers": 6
+  },
+  {
+    "repo_url": "https://github.com/Danim3D/Godot-4-QuickPluginManager",
+    "stargazers": 6
+  },
+  {
+    "repo_url": "https://github.com/BastiaanOlij/gdleapmotion-asset",
+    "stargazers": 6
+  },
+  {
+    "repo_url": "https://github.com/AlexValder/BloodyLogger",
+    "stargazers": 6
+  },
+  {
+    "repo_url": "https://github.com/Aendryr/Godot-Date-Time-Input",
+    "stargazers": 6
+  },
+  {
+    "repo_url": "https://github.com/AdilDevStuff/2D-Platformer-Starter-Kit",
+    "stargazers": 6
+  },
+  {
+    "repo_url": "https://github.com/Abab-bk/TimeManager",
+    "stargazers": 6
+  },
+  {
+    "repo_url": "https://github.com/Abab-bk/FlowerBuff",
+    "stargazers": 6
+  },
+  {
+    "repo_url": "https://github.com/zcaliptium/gddlg",
+    "stargazers": 5
+  },
+  {
+    "repo_url": "https://github.com/yunusey/gosu",
+    "stargazers": 5
+  },
+  {
+    "repo_url": "https://github.com/whiteshampoo/InputHelper",
+    "stargazers": 5
+  },
+  {
+    "repo_url": "https://github.com/thiagobruno/godot3.2_countdown",
+    "stargazers": 5
+  },
+  {
+    "repo_url": "https://github.com/t-karcher/NodeConnector",
+    "stargazers": 5
+  },
+  {
+    "repo_url": "https://github.com/summerplaygames/godot-hmac",
+    "stargazers": 5
+  },
+  {
+    "repo_url": "https://github.com/samw3/godot-copy-transform",
+    "stargazers": 5
+  },
+  {
+    "repo_url": "https://github.com/q8geek/Godot-4-Basic-3D-Trail",
+    "stargazers": 5
+  },
+  {
+    "repo_url": "https://github.com/pascal-ballet/BehaviorTreeForGroups",
+    "stargazers": 5
+  },
+  {
+    "repo_url": "https://github.com/paperjack93/GodotTransparencyDither",
+    "stargazers": 5
+  },
+  {
+    "repo_url": "https://github.com/paperjack93/GodotNothkeBlur",
+    "stargazers": 5
+  },
+  {
+    "repo_url": "https://github.com/opyate/godot-uberpath2d",
+    "stargazers": 5
+  },
+  {
+    "repo_url": "https://github.com/nobuyukinyuu/BitmapFontCutter",
+    "stargazers": 5
+  },
+  {
+    "repo_url": "https://github.com/newjoker6/Editor-Image-Plugin-2",
+    "stargazers": 5
+  },
+  {
+    "repo_url": "https://github.com/mounirtohami/godot-colpicker",
+    "stargazers": 5
+  },
+  {
+    "repo_url": "https://github.com/moritz-t-w/Godot-Form",
+    "stargazers": 5
+  },
+  {
+    "repo_url": "https://github.com/mohsenph69/godot-ambientcg",
+    "stargazers": 5
+  },
+  {
+    "repo_url": "https://github.com/meloonics/TagProcessingLabel-for-godot3.2.2",
+    "stargazers": 5
+  },
+  {
+    "repo_url": "https://github.com/mechPenSketch/Jrpg_Fragment-Overworld-Dialogic",
+    "stargazers": 5
+  },
+  {
+    "repo_url": "https://github.com/martijnbolt/insert-coins",
+    "stargazers": 5
+  },
+  {
+    "repo_url": "https://github.com/marcosbitetti/godot_skybox_converter_plugin",
+    "stargazers": 5
+  },
+  {
+    "repo_url": "https://github.com/kreaninw/G4-Super-3D-Targeting-System",
+    "stargazers": 5
+  },
+  {
+    "repo_url": "https://github.com/kameloov/WebSprite",
+    "stargazers": 5
+  },
+  {
+    "repo_url": "https://github.com/joaoh82/fsm-godot",
+    "stargazers": 5
+  },
+  {
+    "repo_url": "https://github.com/jhonnystene/godot-VoxelGenerator2D",
+    "stargazers": 5
+  },
+  {
+    "repo_url": "https://github.com/heppocogne/godot-svgsprite",
+    "stargazers": 5
+  },
+  {
+    "repo_url": "https://github.com/godot-extended-libraries/godot-antialiased-line2d-demo",
+    "stargazers": 5
+  },
+  {
+    "repo_url": "https://github.com/godot-addons/godot-pushdown-automaton",
+    "stargazers": 5
+  },
+  {
+    "repo_url": "https://github.com/godot-addons/godot-field-of-view",
+    "stargazers": 5
+  },
+  {
+    "repo_url": "https://github.com/gamechuck/json-minifier-for-godot",
+    "stargazers": 5
+  },
+  {
+    "repo_url": "https://github.com/funabab/godot-project-analytics",
+    "stargazers": 5
+  },
+  {
+    "repo_url": "https://github.com/florianvazelle/dolly-gd",
+    "stargazers": 5
+  },
+  {
+    "repo_url": "https://github.com/finn753/voicechat_client",
+    "stargazers": 5
+  },
+  {
+    "repo_url": "https://github.com/fernacas-dev/android-godot-plugin-template",
+    "stargazers": 5
+  },
+  {
+    "repo_url": "https://github.com/drarbego/gopotify",
+    "stargazers": 5
+  },
+  {
+    "repo_url": "https://github.com/doradoro/Godot-Lazy-Import",
+    "stargazers": 5
+  },
+  {
+    "repo_url": "https://github.com/deep-entertainment/escoria-ink-bridge",
+    "stargazers": 5
+  },
+  {
+    "repo_url": "https://github.com/davidkbd/Godot_SpritesheetFromFiles",
+    "stargazers": 5
+  },
+  {
+    "repo_url": "https://github.com/dannygaray60/uuid-generator-godot",
+    "stargazers": 5
+  },
+  {
+    "repo_url": "https://github.com/crazyStewie/godot_simple_first_person_controller",
+    "stargazers": 5
+  },
+  {
+    "repo_url": "https://github.com/blurymind/godot-lineEditPlus",
+    "stargazers": 5
+  },
+  {
+    "repo_url": "https://github.com/batomow/PushDownAutomata",
+    "stargazers": 5
+  },
+  {
+    "repo_url": "https://github.com/balintmaci/Godot-XR-Interaction-Helpers",
+    "stargazers": 5
+  },
+  {
+    "repo_url": "https://github.com/axieinfinity/godot-axie-starter-3d",
+    "stargazers": 5
+  },
+  {
+    "repo_url": "https://github.com/audiosdev/AudiosPlugin-Godot-iOS-Audio-Plugin",
+    "stargazers": 5
+  },
+  {
+    "repo_url": "https://github.com/alexpana/godot_uv_inspector",
+    "stargazers": 5
+  },
+  {
+    "repo_url": "https://github.com/aiafrasinei/godot_widgets_by_code",
+    "stargazers": 5
+  },
+  {
+    "repo_url": "https://github.com/aMOPel/godot-xchange-scene",
+    "stargazers": 5
+  },
+  {
+    "repo_url": "https://github.com/Xenial-Lynx/gdscript-multiplayer-platformer",
+    "stargazers": 5
+  },
+  {
+    "repo_url": "https://github.com/Valkarin1029/YHModAssistant",
+    "stargazers": 5
+  },
+  {
+    "repo_url": "https://github.com/VP-GAMES/ShaderConverter",
+    "stargazers": 5
+  },
+  {
+    "repo_url": "https://github.com/VP-GAMES/AudioControl",
+    "stargazers": 5
+  },
+  {
+    "repo_url": "https://github.com/TechnoLukas/Godot4-Basic3dStarter",
+    "stargazers": 5
+  },
+  {
+    "repo_url": "https://github.com/Tearfalas/node-finder",
+    "stargazers": 5
+  },
+  {
+    "repo_url": "https://github.com/ShatReal/infinite-save-system",
+    "stargazers": 5
+  },
+  {
+    "repo_url": "https://github.com/ShatReal/Autotile-Generator-4",
+    "stargazers": 5
+  },
+  {
+    "repo_url": "https://github.com/ShatReal/2d-grappling-hook",
+    "stargazers": 5
+  },
+  {
+    "repo_url": "https://github.com/SamuelLanders/Godot_4x_RandomNamesGenerator",
+    "stargazers": 5
+  },
+  {
+    "repo_url": "https://github.com/RunnerLord/SaveNode",
+    "stargazers": 5
+  },
+  {
+    "repo_url": "https://github.com/PumpkinPaul/godot-managed-memory-monitor",
+    "stargazers": 5
+  },
+  {
+    "repo_url": "https://github.com/Nukiloco/quik",
+    "stargazers": 5
+  },
+  {
+    "repo_url": "https://github.com/Nightscratch/Godot4-LAN-Servers-Discovery",
+    "stargazers": 5
+  },
+  {
+    "repo_url": "https://github.com/Nif-kun/godot-atlas-player",
+    "stargazers": 5
+  },
+  {
+    "repo_url": "https://github.com/MuAdd/Top-Down-Twin-Stick-Shooter",
+    "stargazers": 5
+  },
+  {
+    "repo_url": "https://github.com/MightyPrinny/godot-scene-palette",
+    "stargazers": 5
+  },
+  {
+    "repo_url": "https://github.com/Melvin8D/MelvinsGodotToonShader",
+    "stargazers": 5
+  },
+  {
+    "repo_url": "https://github.com/Martin1991zab/Godot-TelloDroneNode",
+    "stargazers": 5
+  },
+  {
+    "repo_url": "https://github.com/MagdielM/GDLog",
+    "stargazers": 5
+  },
+  {
+    "repo_url": "https://github.com/LeProfesseurStagiaire/FW_Godot",
+    "stargazers": 5
+  },
+  {
+    "repo_url": "https://github.com/LD2Studio/ControlCamera3D",
+    "stargazers": 5
+  },
+  {
+    "repo_url": "https://github.com/Krosh/Godot-Scene-Browser",
+    "stargazers": 5
+  },
+  {
+    "repo_url": "https://github.com/KayKit-Game-Assets/KayKit-Halloween-Bits-1.0",
+    "stargazers": 5
+  },
+  {
+    "repo_url": "https://github.com/KarlTheCool/FollowParent",
+    "stargazers": 5
+  },
+  {
+    "repo_url": "https://github.com/K3nIchi/sprite_quick_offset",
+    "stargazers": 5
+  },
+  {
+    "repo_url": "https://github.com/Johnnoe2618/large-linear-algebra",
+    "stargazers": 5
+  },
+  {
+    "repo_url": "https://github.com/Janders1800/PathCamera3D",
+    "stargazers": 5
+  },
+  {
+    "repo_url": "https://github.com/HugoEnzo/HexGrid_Godot_4.0",
+    "stargazers": 5
+  },
+  {
+    "repo_url": "https://github.com/Goutte/godot-spritesheet-generator",
+    "stargazers": 5
+  },
+  {
+    "repo_url": "https://github.com/Goldenlion5648/GodotMazeGenerationVisualizer",
+    "stargazers": 5
+  },
+  {
+    "repo_url": "https://github.com/Goldenlion5648/GodotHexGridBasics",
+    "stargazers": 5
+  },
+  {
+    "repo_url": "https://github.com/Goldenlion5648/GearsSimulationInGodot",
+    "stargazers": 5
+  },
+  {
+    "repo_url": "https://github.com/Goldenlion5648/AIShowcaseForGames",
+    "stargazers": 5
+  },
+  {
+    "repo_url": "https://github.com/Garrom/BitMap-font-creator---GoDot",
+    "stargazers": 5
+  },
+  {
+    "repo_url": "https://github.com/Fanny-Pack-Studios/Ruake",
+    "stargazers": 5
+  },
+  {
+    "repo_url": "https://github.com/Error-In-Code/bittext",
+    "stargazers": 5
+  },
+  {
+    "repo_url": "https://github.com/Eranot/godot-rush-request",
+    "stargazers": 5
+  },
+  {
+    "repo_url": "https://github.com/EnderWiggin/Godot-Joystick-Control",
+    "stargazers": 5
+  },
+  {
+    "repo_url": "https://github.com/Dimithrandir/godot_2d_hex_map_nav_demo",
+    "stargazers": 5
+  },
+  {
+    "repo_url": "https://github.com/Digital-Sin/BitmapTextureFont",
+    "stargazers": 5
+  },
+  {
+    "repo_url": "https://github.com/DevinPentecost/godot-seeded-random-sequence",
+    "stargazers": 5
+  },
+  {
+    "repo_url": "https://github.com/Daylily-Zeleen/GUS-Godot-Universal-Serializer",
+    "stargazers": 5
+  },
+  {
+    "repo_url": "https://github.com/ColormaticStudios/quality-godot-first-person-2",
+    "stargazers": 5
+  },
+  {
+    "repo_url": "https://github.com/CodePlayK/Godot4-Cutscener",
+    "stargazers": 5
+  },
+  {
+    "repo_url": "https://github.com/ChromiumOS-Guy/ThreadPoolPlusPlus",
+    "stargazers": 5
+  },
+  {
+    "repo_url": "https://github.com/CaptainProton42/GodotHoloPlayDemo",
+    "stargazers": 5
+  },
+  {
+    "repo_url": "https://github.com/Bytezz/godot-safearea",
+    "stargazers": 5
+  },
+  {
+    "repo_url": "https://github.com/BtheDestroyer/GodotArgParse",
+    "stargazers": 5
+  },
+  {
+    "repo_url": "https://github.com/Beliaar/godot-component-system-asset",
+    "stargazers": 5
+  },
+  {
+    "repo_url": "https://github.com/ASecondGuy/EasyFiles",
+    "stargazers": 5
+  },
+  {
+    "repo_url": "https://github.com/ASecondGuy/Checklist",
+    "stargazers": 5
+  },
+  {
+    "repo_url": "https://github.com/37Rb/godot-overhead-car-2d",
+    "stargazers": 5
+  },
+  {
+    "repo_url": "https://github.com/x1212/godot_animated_camera",
+    "stargazers": 4
+  },
+  {
+    "repo_url": "https://github.com/vkbsb/godot-poki-sdk",
+    "stargazers": 4
+  },
+  {
+    "repo_url": "https://github.com/verillious/godot-number-to-words",
+    "stargazers": 4
+  },
+  {
+    "repo_url": "https://github.com/unSkind/godot-plugin-import-animation-tree-player",
+    "stargazers": 4
+  },
+  {
+    "repo_url": "https://github.com/umkralegal/orphan-import-file-cleaner",
+    "stargazers": 4
+  },
+  {
+    "repo_url": "https://github.com/toto-bird/Godot-Bordered-Simplex-Noise",
+    "stargazers": 4
+  },
+  {
+    "repo_url": "https://github.com/tavurth/godot-watabou-city",
+    "stargazers": 4
+  },
+  {
+    "repo_url": "https://github.com/tailor-game-studio/space_adventure",
+    "stargazers": 4
+  },
+  {
+    "repo_url": "https://github.com/sirsnowy7/GodotSimpleFPSController",
+    "stargazers": 4
+  },
+  {
+    "repo_url": "https://github.com/sinnate/Godot_4.0_MainMenu",
+    "stargazers": 4
+  },
+  {
+    "repo_url": "https://github.com/sampengilly/godot-scene-comments",
+    "stargazers": 4
+  },
+  {
+    "repo_url": "https://github.com/robotnik-dev/character_camera_3d",
+    "stargazers": 4
+  },
+  {
+    "repo_url": "https://github.com/portella0/TilemapGodot",
+    "stargazers": 4
+  },
+  {
+    "repo_url": "https://github.com/pgoral/Godot-Gaussian-Random",
+    "stargazers": 4
+  },
+  {
+    "repo_url": "https://github.com/nonunknown/Godot-SheetDB",
+    "stargazers": 4
+  },
+  {
+    "repo_url": "https://github.com/nklbdev/godot-4-tile-set-polygon-snapper",
+    "stargazers": 4
+  },
+  {
+    "repo_url": "https://github.com/night-glider/fun_coding",
+    "stargazers": 4
+  },
+  {
+    "repo_url": "https://github.com/necauqua/godot-qol-camera",
+    "stargazers": 4
+  },
+  {
+    "repo_url": "https://github.com/murikistudio/game-jolt-api",
+    "stargazers": 4
+  },
+  {
+    "repo_url": "https://github.com/missionpinball/godot-bcp-server",
+    "stargazers": 4
+  },
+  {
+    "repo_url": "https://github.com/mechPenSketch/Jrpg_Fragment-TurnBased_Combat",
+    "stargazers": 4
+  },
+  {
+    "repo_url": "https://github.com/matheus-s-arruda/joystick_Plugin_Godot_Engine",
+    "stargazers": 4
+  },
+  {
+    "repo_url": "https://github.com/markopolojorgensen/godot_2d_camera_limiter",
+    "stargazers": 4
+  },
+  {
+    "repo_url": "https://github.com/lungdart/bitmap_font_importer",
+    "stargazers": 4
+  },
+  {
+    "repo_url": "https://github.com/lowlevel-1989/borderless_display",
+    "stargazers": 4
+  },
+  {
+    "repo_url": "https://github.com/kuhnchris/gd-hexagondisplay2d",
+    "stargazers": 4
+  },
+  {
+    "repo_url": "https://github.com/jonnymind/Godot-NetworkBootstrap",
+    "stargazers": 4
+  },
+  {
+    "repo_url": "https://github.com/ismailgamedev/SceneChanger",
+    "stargazers": 4
+  },
+  {
+    "repo_url": "https://github.com/idbrii/godot-editorscript-launcher",
+    "stargazers": 4
+  },
+  {
+    "repo_url": "https://github.com/henriquelalves/GodotNodePathTracker",
+    "stargazers": 4
+  },
+  {
+    "repo_url": "https://github.com/gregbug/tnt_input_engine",
+    "stargazers": 4
+  },
+  {
+    "repo_url": "https://github.com/godot-escoria/escoria-ui-9verbs",
+    "stargazers": 4
+  },
+  {
+    "repo_url": "https://github.com/fkeyzuwu/DynamicEventManager",
+    "stargazers": 4
+  },
+  {
+    "repo_url": "https://github.com/fbcosentino/godot-objexporter",
+    "stargazers": 4
+  },
+  {
+    "repo_url": "https://github.com/farhadi-erfan/intro-gd",
+    "stargazers": 4
+  },
+  {
+    "repo_url": "https://github.com/don-tnowe/godot-docs-checklist-addon",
+    "stargazers": 4
+  },
+  {
+    "repo_url": "https://github.com/deep-entertainment/godot-streamtoy-template",
+    "stargazers": 4
+  },
+  {
+    "repo_url": "https://github.com/decembrist-revolt/godot-decembrist-plugin",
+    "stargazers": 4
+  },
+  {
+    "repo_url": "https://github.com/davidkbd/Godot_StorageManager",
+    "stargazers": 4
+  },
+  {
+    "repo_url": "https://github.com/creikey/quest-controller-testing",
+    "stargazers": 4
+  },
+  {
+    "repo_url": "https://github.com/clemens-tolboom/gd-openai-coding",
+    "stargazers": 4
+  },
+  {
+    "repo_url": "https://github.com/chemscobra/GPFS-plugin",
+    "stargazers": 4
+  },
+  {
+    "repo_url": "https://github.com/carabalonepaulo/task_dispatcher",
+    "stargazers": 4
+  },
+  {
+    "repo_url": "https://github.com/carabalonepaulo/async_socket",
+    "stargazers": 4
+  },
+  {
+    "repo_url": "https://github.com/bruce965/godot-raymarching",
+    "stargazers": 4
+  },
+  {
+    "repo_url": "https://github.com/boukew99/scratch_canvas",
+    "stargazers": 4
+  },
+  {
+    "repo_url": "https://github.com/anthonyc06/GodotPlayground",
+    "stargazers": 4
+  },
+  {
+    "repo_url": "https://github.com/angrykoala/godot-donut-collision-polygon-2d",
+    "stargazers": 4
+  },
+  {
+    "repo_url": "https://github.com/albinaask/Log",
+    "stargazers": 4
+  },
+  {
+    "repo_url": "https://github.com/aaronfranke/GodotFloatBarrier",
+    "stargazers": 4
+  },
+  {
+    "repo_url": "https://github.com/aNaOH/modio-godot",
+    "stargazers": 4
+  },
+  {
+    "repo_url": "https://github.com/YeOldeDM/godot-time-tracker",
+    "stargazers": 4
+  },
+  {
+    "repo_url": "https://github.com/Windastella/GodotEnv",
+    "stargazers": 4
+  },
+  {
+    "repo_url": "https://github.com/WaffleAWT/Godot-4.1-Third-Person-Controller",
+    "stargazers": 4
+  },
+  {
+    "repo_url": "https://github.com/UtMan88/Godot3DFlightControls",
+    "stargazers": 4
+  },
+  {
+    "repo_url": "https://github.com/Tymec/EasyCompute",
+    "stargazers": 4
+  },
+  {
+    "repo_url": "https://github.com/Tianmaru/godot-sound-propagation-demo",
+    "stargazers": 4
+  },
+  {
+    "repo_url": "https://github.com/ThomasGysemans/BashInGodot",
+    "stargazers": 4
+  },
+  {
+    "repo_url": "https://github.com/TechnoPorg/KeyPromptTexture",
+    "stargazers": 4
+  },
+  {
+    "repo_url": "https://github.com/TamerSoup625/godot-vatlas",
+    "stargazers": 4
+  },
+  {
+    "repo_url": "https://github.com/Rofle44-git/shaker-plugin-gd4",
+    "stargazers": 4
+  },
+  {
+    "repo_url": "https://github.com/RaresAil/godot-uuidv5",
+    "stargazers": 4
+  },
+  {
+    "repo_url": "https://github.com/RancidMilkGames/GodotPaletteTools",
+    "stargazers": 4
+  },
+  {
+    "repo_url": "https://github.com/PunchablePlushie/godot_persian_reshaper",
+    "stargazers": 4
+  },
+  {
+    "repo_url": "https://github.com/PKGaspi/godot-ScrollingBackgrounds",
+    "stargazers": 4
+  },
+  {
+    "repo_url": "https://github.com/NathanWarden/godot_refraction_shader",
+    "stargazers": 4
+  },
+  {
+    "repo_url": "https://github.com/NarayanaWalters/PTS",
+    "stargazers": 4
+  },
+  {
+    "repo_url": "https://github.com/MightyPrinny/godot-node2d-context-menu",
+    "stargazers": 4
+  },
+  {
+    "repo_url": "https://github.com/MidnightBloxxer/parallax-node",
+    "stargazers": 4
+  },
+  {
+    "repo_url": "https://github.com/Mastermori/gdscript-interfaces",
+    "stargazers": 4
+  },
+  {
+    "repo_url": "https://github.com/Malcolmnixon/Malcolm-Snap-Castle",
+    "stargazers": 4
+  },
+  {
+    "repo_url": "https://github.com/Mainman002/MFPanel",
+    "stargazers": 4
+  },
+  {
+    "repo_url": "https://github.com/Loppansson/kenney-pixel-platformer",
+    "stargazers": 4
+  },
+  {
+    "repo_url": "https://github.com/KayKit-Game-Assets/KayKit-Dungeon-Remastered-1.0",
+    "stargazers": 4
+  },
+  {
+    "repo_url": "https://github.com/Jummit/godot-plugin-maker",
+    "stargazers": 4
+  },
+  {
+    "repo_url": "https://github.com/Jonw9027/Godot-Inventory-system-click-and-draggable-with-equipment-summarization.",
+    "stargazers": 4
+  },
+  {
+    "repo_url": "https://github.com/JohnDevlopment/bitmap-font-creator",
+    "stargazers": 4
+  },
+  {
+    "repo_url": "https://github.com/JeromeOrtali/TileSetCutter",
+    "stargazers": 4
+  },
+  {
+    "repo_url": "https://github.com/JamesSprow/GodotGPT",
+    "stargazers": 4
+  },
+  {
+    "repo_url": "https://github.com/ImageParSeconde/Animated-Low-Poly-Pistol",
+    "stargazers": 4
+  },
+  {
+    "repo_url": "https://github.com/Goutte/godot-addon-unicode-normalizer",
+    "stargazers": 4
+  },
+  {
+    "repo_url": "https://github.com/Goldenlion5648/WireConnectionGodotDemo",
+    "stargazers": 4
+  },
+  {
+    "repo_url": "https://github.com/Go3DGoGodot/Hole.io-made-in-Godot",
+    "stargazers": 4
+  },
+  {
+    "repo_url": "https://github.com/Gallilus/icospheremesh-gdextension",
+    "stargazers": 4
+  },
+  {
+    "repo_url": "https://github.com/FilipLundby/Gohue",
+    "stargazers": 4
+  },
+  {
+    "repo_url": "https://github.com/EXSPIRAVIT1104OFFICIAL/open-kanban",
+    "stargazers": 4
+  },
+  {
+    "repo_url": "https://github.com/Drumstickz64/GodotFactory",
+    "stargazers": 4
+  },
+  {
+    "repo_url": "https://github.com/DmitriySalnikov/godot_hide_renderer_switch",
+    "stargazers": 4
+  },
+  {
+    "repo_url": "https://github.com/DionHo/GodotTouchCamera",
+    "stargazers": 4
+  },
+  {
+    "repo_url": "https://github.com/DeanNevan/Godot-AntiSpecularNoise",
+    "stargazers": 4
+  },
+  {
+    "repo_url": "https://github.com/ChromiumOS-Guy/SpriteOccluder2D",
+    "stargazers": 4
+  },
+  {
+    "repo_url": "https://github.com/Can202/godot_save",
+    "stargazers": 4
+  },
+  {
+    "repo_url": "https://github.com/Bytezz/godot-polyhaven-import",
+    "stargazers": 4
+  },
+  {
+    "repo_url": "https://github.com/BubblineBee/godot-rpg-text-box",
+    "stargazers": 4
+  },
+  {
+    "repo_url": "https://github.com/BtheDestroyer/Godot_QuickAudio",
+    "stargazers": 4
+  },
+  {
+    "repo_url": "https://github.com/Arcweave/arcweave-godot-plugin",
+    "stargazers": 4
+  },
+  {
+    "repo_url": "https://github.com/Andicraft/stairs-character-csharp",
+    "stargazers": 4
+  },
+  {
+    "repo_url": "https://github.com/AlexeyPe/FirebaseAnalytics",
+    "stargazers": 4
+  },
+  {
+    "repo_url": "https://github.com/ASecondGuy/BugReporter",
+    "stargazers": 4
+  },
+  {
+    "repo_url": "https://github.com/AFE-GmdG/ExtraNodesGD",
+    "stargazers": 4
+  },
+  {
+    "repo_url": "https://github.com/zaevi/TextureToPng",
+    "stargazers": 3
+  },
+  {
+    "repo_url": "https://github.com/z80/exec_pool",
+    "stargazers": 3
+  },
+  {
+    "repo_url": "https://github.com/xaviermonin/GSharpRope",
+    "stargazers": 3
+  },
+  {
+    "repo_url": "https://github.com/wongselent/GoMask2D",
+    "stargazers": 3
+  },
+  {
+    "repo_url": "https://github.com/wareya/godot-tile-setup-helper",
+    "stargazers": 3
+  },
+  {
+    "repo_url": "https://github.com/timothyqiu/godot-ckbi",
+    "stargazers": 3
+  },
+  {
+    "repo_url": "https://github.com/t-karcher/Rolling-Cube",
+    "stargazers": 3
+  },
+  {
+    "repo_url": "https://github.com/stupidratstudio/thoth",
+    "stargazers": 3
+  },
+  {
+    "repo_url": "https://github.com/rsubtil/godot-blurhash",
+    "stargazers": 3
+  },
+  {
+    "repo_url": "https://github.com/riccardolops/GodotVolumetricRendering",
+    "stargazers": 3
+  },
+  {
+    "repo_url": "https://github.com/nonunknown/godot-csharp-3d-platform-fsm-demo",
+    "stargazers": 3
+  },
+  {
+    "repo_url": "https://github.com/nobuyukinyuu/godot-randomsound",
+    "stargazers": 3
+  },
+  {
+    "repo_url": "https://github.com/nklbdev/godot-parallax-node",
+    "stargazers": 3
+  },
+  {
+    "repo_url": "https://github.com/mxt08-real/player",
+    "stargazers": 3
+  },
+  {
+    "repo_url": "https://github.com/mxt08-real/follow",
+    "stargazers": 3
+  },
+  {
+    "repo_url": "https://github.com/ltecheroffical/Basic-Components",
+    "stargazers": 3
+  },
+  {
+    "repo_url": "https://github.com/lobziq/godot-skeletal-animation-player",
+    "stargazers": 3
+  },
+  {
+    "repo_url": "https://github.com/literalcitrus/godot-scn-to-tscn",
+    "stargazers": 3
+  },
+  {
+    "repo_url": "https://github.com/literalcitrus/godot-pomodoro",
+    "stargazers": 3
+  },
+  {
+    "repo_url": "https://github.com/lihop/godot-pixelmatch",
+    "stargazers": 3
+  },
+  {
+    "repo_url": "https://github.com/kreaninw/3D-Targeting-Syetem-Ultimate",
+    "stargazers": 3
+  },
+  {
+    "repo_url": "https://github.com/kataru-lang/kataru-godot",
+    "stargazers": 3
+  },
+  {
+    "repo_url": "https://github.com/kane-thornwyrd/kane-fsm",
+    "stargazers": 3
+  },
+  {
+    "repo_url": "https://github.com/kalugin-stepan/godot_mqtt_client_cs",
+    "stargazers": 3
+  },
+  {
+    "repo_url": "https://github.com/jls-has/CPUPointCloud3D",
+    "stargazers": 3
+  },
+  {
+    "repo_url": "https://github.com/jhonnystene/godot-Player2D",
+    "stargazers": 3
+  },
+  {
+    "repo_url": "https://github.com/jakes1403/godot-tiled-importer-improvements",
+    "stargazers": 3
+  },
+  {
+    "repo_url": "https://github.com/iRheKs/TypingGameEngine",
+    "stargazers": 3
+  },
+  {
+    "repo_url": "https://github.com/gdplugs/RandomAudioPlayer",
+    "stargazers": 3
+  },
+  {
+    "repo_url": "https://github.com/foureyedredheadedstepchild/godot-voxel_line",
+    "stargazers": 3
+  },
+  {
+    "repo_url": "https://github.com/finn753/voicechat_server",
+    "stargazers": 3
+  },
+  {
+    "repo_url": "https://github.com/fazel87/PersianTextEdit",
+    "stargazers": 3
+  },
+  {
+    "repo_url": "https://github.com/emirthab/dynamic-camera",
+    "stargazers": 3
+  },
+  {
+    "repo_url": "https://github.com/doradoro/Godot_Lazy_Plugin_Boilerplate",
+    "stargazers": 3
+  },
+  {
+    "repo_url": "https://github.com/dilaura-exp/Ezpz-Inspector",
+    "stargazers": 3
+  },
+  {
+    "repo_url": "https://github.com/davidkbd/Godot_TwitchChatManager",
+    "stargazers": 3
+  },
+  {
+    "repo_url": "https://github.com/dannygaray60/animationplayer-framedata-ms-godot",
+    "stargazers": 3
+  },
+  {
+    "repo_url": "https://github.com/clemens-tolboom/godot_3_spawn_points",
+    "stargazers": 3
+  },
+  {
+    "repo_url": "https://github.com/bypell/weeping-angel-godot",
+    "stargazers": 3
+  },
+  {
+    "repo_url": "https://github.com/burstina/FastText-for-Godot-Engine",
+    "stargazers": 3
+  },
+  {
+    "repo_url": "https://github.com/brooswit/godot-ld-client-sdk",
+    "stargazers": 3
+  },
+  {
+    "repo_url": "https://github.com/brandonlamb/godot-screen-manager",
+    "stargazers": 3
+  },
+  {
+    "repo_url": "https://github.com/binamonk/Godot-SnakeCS",
+    "stargazers": 3
+  },
+  {
+    "repo_url": "https://github.com/barnoftheyard/.mtl-loader",
+    "stargazers": 3
+  },
+  {
+    "repo_url": "https://github.com/asoee/godot-turtle",
+    "stargazers": 3
+  },
+  {
+    "repo_url": "https://github.com/arsany007/Model_DiagramGen",
+    "stargazers": 3
+  },
+  {
+    "repo_url": "https://github.com/aravikusu/AraVox",
+    "stargazers": 3
+  },
+  {
+    "repo_url": "https://github.com/antonWetzel/AsepriteHelper",
+    "stargazers": 3
+  },
+  {
+    "repo_url": "https://github.com/anthonyc06/godotlitics",
+    "stargazers": 3
+  },
+  {
+    "repo_url": "https://github.com/andyp123/godot_UnrealCollisionImporter",
+    "stargazers": 3
+  },
+  {
+    "repo_url": "https://github.com/alpercitmen/Godot-Engine-First-Person-2.x",
+    "stargazers": 3
+  },
+  {
+    "repo_url": "https://github.com/aiafrasinei/godot_2d_draw_by_code",
+    "stargazers": 3
+  },
+  {
+    "repo_url": "https://github.com/adamscoble/godot-math-extensions",
+    "stargazers": 3
+  },
+  {
+    "repo_url": "https://github.com/acegiak/Godot4-Action-List",
+    "stargazers": 3
+  },
+  {
+    "repo_url": "https://github.com/Yukitty/godot-runtime-ogg-vorbis",
+    "stargazers": 3
+  },
+  {
+    "repo_url": "https://github.com/TheCowOhBoy/TileCellManager-for-Godot",
+    "stargazers": 3
+  },
+  {
+    "repo_url": "https://github.com/Sinowa-Programming/Godot-Sweepline-Volornoi",
+    "stargazers": 3
+  },
+  {
+    "repo_url": "https://github.com/ShatReal/Search-Bar-Demo",
+    "stargazers": 3
+  },
+  {
+    "repo_url": "https://github.com/ShatReal/Godotte-Rig-2D",
+    "stargazers": 3
+  },
+  {
+    "repo_url": "https://github.com/Scrawach/rdp",
+    "stargazers": 3
+  },
+  {
+    "repo_url": "https://github.com/SanderVanhove/spookdot",
+    "stargazers": 3
+  },
+  {
+    "repo_url": "https://github.com/SamuelLanders/BetterRandNumGen",
+    "stargazers": 3
+  },
+  {
+    "repo_url": "https://github.com/SPOICAT/in-engine-jumper",
+    "stargazers": 3
+  },
+  {
+    "repo_url": "https://github.com/SIsilicon/Volume-Renderer",
+    "stargazers": 3
+  },
+  {
+    "repo_url": "https://github.com/Ryhon0/BitmapFontCutterPlus",
+    "stargazers": 3
+  },
+  {
+    "repo_url": "https://github.com/RipeX/simple-project-timer",
+    "stargazers": 3
+  },
+  {
+    "repo_url": "https://github.com/ProFiLeR4100/ExtendableInspectorForCS",
+    "stargazers": 3
+  },
+  {
+    "repo_url": "https://github.com/PGComai/Godot-GPU-Computer",
+    "stargazers": 3
+  },
+  {
+    "repo_url": "https://github.com/Nickmiste/simple-asset-studio",
+    "stargazers": 3
+  },
+  {
+    "repo_url": "https://github.com/NewDEV-github/Discord-RPC-Godot-Python",
+    "stargazers": 3
+  },
+  {
+    "repo_url": "https://github.com/Miziziziz/Platformer",
+    "stargazers": 3
+  },
+  {
+    "repo_url": "https://github.com/Melon-The-Dev/Fire-Bullets-Godot-Plugin",
+    "stargazers": 3
+  },
+  {
+    "repo_url": "https://github.com/Maximinodotpy/Godot-Helpers",
+    "stargazers": 3
+  },
+  {
+    "repo_url": "https://github.com/LucasArusiewicz/Easy-Interface",
+    "stargazers": 3
+  },
+  {
+    "repo_url": "https://github.com/Loppansson/quit_on_input",
+    "stargazers": 3
+  },
+  {
+    "repo_url": "https://github.com/Loppansson/kenney-ui-audio-for-godot",
+    "stargazers": 3
+  },
+  {
+    "repo_url": "https://github.com/Loppansson/fullscreen-on-input",
+    "stargazers": 3
+  },
+  {
+    "repo_url": "https://github.com/LeProfesseurStagiaire/speed-feeling-2D-Godot",
+    "stargazers": 3
+  },
+  {
+    "repo_url": "https://github.com/LeProfesseurStagiaire/Wario-Ware-Godot",
+    "stargazers": 3
+  },
+  {
+    "repo_url": "https://github.com/Koncord/BinGame",
+    "stargazers": 3
+  },
+  {
+    "repo_url": "https://github.com/KayKit-Game-Assets/KayKit-Restaurant-Bits-1.0",
+    "stargazers": 3
+  },
+  {
+    "repo_url": "https://github.com/KayKit-Game-Assets/KayKit-City-Builder-Bits-1.0",
+    "stargazers": 3
+  },
+  {
+    "repo_url": "https://github.com/Kaoruha/Label3D",
+    "stargazers": 3
+  },
+  {
+    "repo_url": "https://github.com/JstnJrg/Godot-virtual-joystick",
+    "stargazers": 3
+  },
+  {
+    "repo_url": "https://github.com/Jjony-dev/swipe-screen-area-plugin",
+    "stargazers": 3
+  },
+  {
+    "repo_url": "https://github.com/HypeRate/Godot-v4-Addon",
+    "stargazers": 3
+  },
+  {
+    "repo_url": "https://github.com/Hectarea1996/VisualSignals3D",
+    "stargazers": 3
+  },
+  {
+    "repo_url": "https://github.com/GoldenThumbs/GodotLensFlare",
+    "stargazers": 3
+  },
+  {
+    "repo_url": "https://github.com/Fia3D/Godot-CurvePDFtoCDF",
+    "stargazers": 3
+  },
+  {
+    "repo_url": "https://github.com/Duroxxigar/mono-debugger",
+    "stargazers": 3
+  },
+  {
+    "repo_url": "https://github.com/Drumstickz64/godot-platformer-body-2d",
+    "stargazers": 3
+  },
+  {
+    "repo_url": "https://github.com/DeybisMelendez/godot-kofi-button",
+    "stargazers": 3
+  },
+  {
+    "repo_url": "https://github.com/Deozaan/godot-donut-collision-polygon-2d",
+    "stargazers": 3
+  },
+  {
+    "repo_url": "https://github.com/Decapitated/Godot-Poisson-Disk-Sampler",
+    "stargazers": 3
+  },
+  {
+    "repo_url": "https://github.com/DeanNevan/Godot-2D-Super-Chart",
+    "stargazers": 3
+  },
+  {
+    "repo_url": "https://github.com/DaisukeKasaharaJP/DwTexture",
+    "stargazers": 3
+  },
+  {
+    "repo_url": "https://github.com/DaelonSuzuka/OmniLaunch",
+    "stargazers": 3
+  },
+  {
+    "repo_url": "https://github.com/CyberGh0st-droid/Godot-4.0-Text-Editor-Docker",
+    "stargazers": 3
+  },
+  {
+    "repo_url": "https://github.com/ColdDev0/godot-isocube-node",
+    "stargazers": 3
+  },
+  {
+    "repo_url": "https://github.com/CliveDev0413/key-prompts-system-godot",
+    "stargazers": 3
+  },
+  {
+    "repo_url": "https://github.com/Ccencceth/godot-project-time-tracker",
+    "stargazers": 3
+  },
+  {
+    "repo_url": "https://github.com/Ardot66/SaveAccess",
+    "stargazers": 3
+  },
+  {
+    "repo_url": "https://github.com/Andicraft/stairs-character",
+    "stargazers": 3
+  },
+  {
+    "repo_url": "https://github.com/Anaxie-Studio/godot-better-animated-texture",
+    "stargazers": 3
+  },
+  {
+    "repo_url": "https://github.com/AdamKormos/TemporaryContentMarker",
+    "stargazers": 3
+  },
+  {
+    "repo_url": "https://github.com/wawaboopboop/toki-pona-richtextlabel-Godot",
+    "stargazers": 2
+  },
+  {
+    "repo_url": "https://github.com/ultrazar/Godot-NoiseTextureGPU",
+    "stargazers": 2
+  },
+  {
+    "repo_url": "https://github.com/tyevco/godot-components",
+    "stargazers": 2
+  },
+  {
+    "repo_url": "https://github.com/toafloast/godot-AnimatedControl",
+    "stargazers": 2
+  },
+  {
+    "repo_url": "https://github.com/ticial/AutotileGenerator",
+    "stargazers": 2
+  },
+  {
+    "repo_url": "https://github.com/teamclouday/SPIRV-Importer",
+    "stargazers": 2
+  },
+  {
+    "repo_url": "https://github.com/tanjunior/godot-openworld-archero",
+    "stargazers": 2
+  },
+  {
+    "repo_url": "https://github.com/tanjunior/Remote-Port-on-Toolbar",
+    "stargazers": 2
+  },
+  {
+    "repo_url": "https://github.com/steventrouble/godot-8dir",
+    "stargazers": 2
+  },
+  {
+    "repo_url": "https://github.com/soykhaler/FirstPersonTemplate_Godot",
+    "stargazers": 2
+  },
+  {
+    "repo_url": "https://github.com/samclee/EZ-Sfx-and-Music",
+    "stargazers": 2
+  },
+  {
+    "repo_url": "https://github.com/salihfc/persistent-bookmarks",
+    "stargazers": 2
+  },
+  {
+    "repo_url": "https://github.com/ryash072007/Godot-OBS-Recorder",
+    "stargazers": 2
+  },
+  {
+    "repo_url": "https://github.com/rockgem/bad-words-filter",
+    "stargazers": 2
+  },
+  {
+    "repo_url": "https://github.com/robbyhunt/godot-transform-variance",
+    "stargazers": 2
+  },
+  {
+    "repo_url": "https://github.com/richardhyy/simple-free-look-camera-4",
+    "stargazers": 2
+  },
+  {
+    "repo_url": "https://github.com/rehhouari/WeightedChoice",
+    "stargazers": 2
+  },
+  {
+    "repo_url": "https://github.com/rasikrodri/Godot-Plugin---Hash-Animation-Master-Model-Importer-As-Scene",
+    "stargazers": 2
+  },
+  {
+    "repo_url": "https://github.com/q8geek/Godot-4-Basic-Dynamic-Pool",
+    "stargazers": 2
+  },
+  {
+    "repo_url": "https://github.com/potikhanovsergey/godot-3.5-arrow2d-plugin",
+    "stargazers": 2
+  },
+  {
+    "repo_url": "https://github.com/peter-kish/primitives2d",
+    "stargazers": 2
+  },
+  {
+    "repo_url": "https://github.com/paperjack93/GodotBitmapfontEasy",
+    "stargazers": 2
+  },
+  {
+    "repo_url": "https://github.com/nullMolotov/godot-values-with-modifiers",
+    "stargazers": 2
+  },
+  {
+    "repo_url": "https://github.com/noidexe/SpriteCutter",
+    "stargazers": 2
+  },
+  {
+    "repo_url": "https://github.com/nofacer/godot-fsm",
+    "stargazers": 2
+  },
+  {
+    "repo_url": "https://github.com/night-glider/PONG",
+    "stargazers": 2
+  },
+  {
+    "repo_url": "https://github.com/nekofleet/unused-md5-file-cleaner",
+    "stargazers": 2
+  },
+  {
+    "repo_url": "https://github.com/nekofleet/local-time",
+    "stargazers": 2
+  },
+  {
+    "repo_url": "https://github.com/mohammedzero43/Selection-Tools-Godot",
+    "stargazers": 2
+  },
+  {
+    "repo_url": "https://github.com/meloonics/Logistic-Map",
+    "stargazers": 2
+  },
+  {
+    "repo_url": "https://github.com/markeel/godot-path2dslider",
+    "stargazers": 2
+  },
+  {
+    "repo_url": "https://github.com/lunarcloud/chief-mint-godot",
+    "stargazers": 2
+  },
+  {
+    "repo_url": "https://github.com/lumi2021/joystick-for-godot",
+    "stargazers": 2
+  },
+  {
+    "repo_url": "https://github.com/luisboch/godot-simple-grass",
+    "stargazers": 2
+  },
+  {
+    "repo_url": "https://github.com/ltecheroffical/Image-Encoder",
+    "stargazers": 2
+  },
+  {
+    "repo_url": "https://github.com/krayon/godot-addon-open-external-editor",
+    "stargazers": 2
+  },
+  {
+    "repo_url": "https://github.com/komeilshahmoradi/Snake",
+    "stargazers": 2
+  },
+  {
+    "repo_url": "https://github.com/kobuskleynhans/godot-ui-helpers",
+    "stargazers": 2
+  },
+  {
+    "repo_url": "https://github.com/katcho10/AlienNation",
+    "stargazers": 2
+  },
+  {
+    "repo_url": "https://github.com/kaiidams/NeMoOnnxGodot",
+    "stargazers": 2
+  },
+  {
+    "repo_url": "https://github.com/joshnajera/godot4-joystick",
+    "stargazers": 2
+  },
+  {
+    "repo_url": "https://github.com/jonnymind/Godot-ScenePortal2D",
+    "stargazers": 2
+  },
+  {
+    "repo_url": "https://github.com/higgs-bosoff/gd-complex",
+    "stargazers": 2
+  },
+  {
+    "repo_url": "https://github.com/heppocogne/gdscript-function-encryption",
+    "stargazers": 2
+  },
+  {
+    "repo_url": "https://github.com/heppocogne/TilemapDataExporter",
+    "stargazers": 2
+  },
+  {
+    "repo_url": "https://github.com/hamsterbyte/Developer-Console-for-AssetLib",
+    "stargazers": 2
+  },
+  {
+    "repo_url": "https://github.com/gsioteam/drag_polygon2d",
+    "stargazers": 2
+  },
+  {
+    "repo_url": "https://github.com/gsioteam/ActionCommand",
+    "stargazers": 2
+  },
+  {
+    "repo_url": "https://github.com/gro-david/godot-custom-play-buttons",
+    "stargazers": 2
+  },
+  {
+    "repo_url": "https://github.com/grabthefish/StlImporter",
+    "stargazers": 2
+  },
+  {
+    "repo_url": "https://github.com/godotassets/plugin",
+    "stargazers": 2
+  },
+  {
+    "repo_url": "https://github.com/godot-escoria/escoria-ui-simplemouse",
+    "stargazers": 2
+  },
+  {
+    "repo_url": "https://github.com/godot-escoria/escoria-dialog-simple",
+    "stargazers": 2
+  },
+  {
+    "repo_url": "https://github.com/gilzoide/lua-gdextension-distribution",
+    "stargazers": 2
+  },
+  {
+    "repo_url": "https://github.com/funtime-foxy1/CameraPositioner",
+    "stargazers": 2
+  },
+  {
+    "repo_url": "https://github.com/fsa2020/CocosLikeGodotActions",
+    "stargazers": 2
+  },
+  {
+    "repo_url": "https://github.com/fkeyzuwu/fkeyzKnob",
+    "stargazers": 2
+  },
+  {
+    "repo_url": "https://github.com/fcingolani/fc-colorpicker-palette-godot",
+    "stargazers": 2
+  },
+  {
+    "repo_url": "https://github.com/eruhlinteractive/godot_multi_scene_editor",
+    "stargazers": 2
+  },
+  {
+    "repo_url": "https://github.com/defce74/FastNoiseLite-Demo-Godot-4",
+    "stargazers": 2
+  },
+  {
+    "repo_url": "https://github.com/deep-entertainment/sheetstoframes",
+    "stargazers": 2
+  },
+  {
+    "repo_url": "https://github.com/daveTheOldCoder/godot-radial-progress-indicator",
+    "stargazers": 2
+  },
+  {
+    "repo_url": "https://github.com/daveTheOldCoder/Godot3To4FileConversion",
+    "stargazers": 2
+  },
+  {
+    "repo_url": "https://github.com/dardanbujupaj/godot-node-warnings",
+    "stargazers": 2
+  },
+  {
+    "repo_url": "https://github.com/cognatron/Latoso",
+    "stargazers": 2
+  },
+  {
+    "repo_url": "https://github.com/bytezz/godot-fader",
+    "stargazers": 2
+  },
+  {
+    "repo_url": "https://github.com/bram-dingelstad/godot-gifmaker",
+    "stargazers": 2
+  },
+  {
+    "repo_url": "https://github.com/boukew99/text_chess",
+    "stargazers": 2
+  },
+  {
+    "repo_url": "https://github.com/boukew99/audio_station",
+    "stargazers": 2
+  },
+  {
+    "repo_url": "https://github.com/blackears/terrain_layered_shader",
+    "stargazers": 2
+  },
+  {
+    "repo_url": "https://github.com/axilirate/event-bus",
+    "stargazers": 2
+  },
+  {
+    "repo_url": "https://github.com/atirut-w/godot-game-jolt-api",
+    "stargazers": 2
+  },
+  {
+    "repo_url": "https://github.com/anthonyc06/GodotColorizer",
+    "stargazers": 2
+  },
+  {
+    "repo_url": "https://github.com/andrew-wilkes/godot-color-picker-text-button",
+    "stargazers": 2
+  },
+  {
+    "repo_url": "https://github.com/andrew-wilkes/godot-animation-slider",
+    "stargazers": 2
+  },
+  {
+    "repo_url": "https://github.com/alexbosquin/godot-collision-mask-layer",
+    "stargazers": 2
+  },
+  {
+    "repo_url": "https://github.com/acgc99/Godot-FilteredEdits",
+    "stargazers": 2
+  },
+  {
+    "repo_url": "https://github.com/Ymanawat/procedural_platform_level_generator",
+    "stargazers": 2
+  },
+  {
+    "repo_url": "https://github.com/Ymanawat/Chroma-Key-Shader-Godot-4",
+    "stargazers": 2
+  },
+  {
+    "repo_url": "https://github.com/Xwaffle1/clerk-godot-engine",
+    "stargazers": 2
+  },
+  {
+    "repo_url": "https://github.com/VojtaStruhar/godot-freecam-plugin",
+    "stargazers": 2
+  },
+  {
+    "repo_url": "https://github.com/Voaz/SImpleMenuSystem",
+    "stargazers": 2
+  },
+  {
+    "repo_url": "https://github.com/VitMush/godot-addon-TileMapBrush",
+    "stargazers": 2
+  },
+  {
+    "repo_url": "https://github.com/Visnicio/SimpleFSM",
+    "stargazers": 2
+  },
+  {
+    "repo_url": "https://github.com/Virus-Axel/godot-solana-client",
+    "stargazers": 2
+  },
+  {
+    "repo_url": "https://github.com/VP-GAMES/InteractiveSceneChanger",
+    "stargazers": 2
+  },
+  {
+    "repo_url": "https://github.com/ToymanInteractive/toyman_terrain_plugin",
+    "stargazers": 2
+  },
+  {
+    "repo_url": "https://github.com/To-Fujita/Godot_v3.2-Sokoban_Cube",
+    "stargazers": 2
+  },
+  {
+    "repo_url": "https://github.com/To-Fujita/Godot_v3.2-Cube_Characters",
+    "stargazers": 2
+  },
+  {
+    "repo_url": "https://github.com/Tio-Henry/Additional-APIs",
+    "stargazers": 2
+  },
+  {
+    "repo_url": "https://github.com/Timofffee/FlappyGodot",
+    "stargazers": 2
+  },
+  {
+    "repo_url": "https://github.com/TheDoorworlds/AutoAnimCharacterGenerator",
+    "stargazers": 2
+  },
+  {
+    "repo_url": "https://github.com/The-Randalorian/Dialegume",
+    "stargazers": 2
+  },
+  {
+    "repo_url": "https://github.com/Thane5/godot-auto-material-setup",
+    "stargazers": 2
+  },
+  {
+    "repo_url": "https://github.com/TWew/CADLikeOrbit_Camera",
+    "stargazers": 2
+  },
+  {
+    "repo_url": "https://github.com/SmartFoxServer/SFS_MatchMaking_GD4",
+    "stargazers": 2
+  },
+  {
+    "repo_url": "https://github.com/SeremTitus/Rubiks-Cube-Dojo",
+    "stargazers": 2
+  },
+  {
+    "repo_url": "https://github.com/Scrawach/godot-file-access-web",
+    "stargazers": 2
+  },
+  {
+    "repo_url": "https://github.com/Remysaurus/GodotReflectingLaser3D",
+    "stargazers": 2
+  },
+  {
+    "repo_url": "https://github.com/ReKylee/Useful-Shader-Nodes-for-Godot-4",
+    "stargazers": 2
+  },
+  {
+    "repo_url": "https://github.com/Qwertygiy/godot-material-concrete",
+    "stargazers": 2
+  },
+  {
+    "repo_url": "https://github.com/PedroSTVeras/AssetChangeScenes",
+    "stargazers": 2
+  },
+  {
+    "repo_url": "https://github.com/NiftyHat/NiftyProc",
+    "stargazers": 2
+  },
+  {
+    "repo_url": "https://github.com/Nekolumbia/TileMap-BleedGenerator",
+    "stargazers": 2
+  },
+  {
+    "repo_url": "https://github.com/NHodgesVFX/SelectByType",
+    "stargazers": 2
+  },
+  {
+    "repo_url": "https://github.com/MugenTwo/2d-navigation-a-star-demo-cs",
+    "stargazers": 2
+  },
+  {
+    "repo_url": "https://github.com/MizunagiKB/gd_nnabla_c_runtime-asset",
+    "stargazers": 2
+  },
+  {
+    "repo_url": "https://github.com/MightyPrinny/godot-custom-play-scene-button",
+    "stargazers": 2
+  },
+  {
+    "repo_url": "https://github.com/MasterPolska123/VBS-Custom-Windows-Popups-Godot-Plugin",
+    "stargazers": 2
+  },
+  {
+    "repo_url": "https://github.com/MasterPolska123/Audio-Loader",
+    "stargazers": 2
+  },
+  {
+    "repo_url": "https://github.com/MarianoGnu/OnScreenInput",
+    "stargazers": 2
+  },
+  {
+    "repo_url": "https://github.com/Malcolmnixon/Quaternius-Modular-Scifi-Pack",
+    "stargazers": 2
+  },
+  {
+    "repo_url": "https://github.com/MahadDareshani/Audio-Visualizer-Plugin-Godot",
+    "stargazers": 2
+  },
+  {
+    "repo_url": "https://github.com/Loppansson/quaternius-simple-nature-pack",
+    "stargazers": 2
+  },
+  {
+    "repo_url": "https://github.com/Loppansson/kenney-voiceover-fighter-for-godot",
+    "stargazers": 2
+  },
+  {
+    "repo_url": "https://github.com/Loppansson/kenney-sci-fi-sounds-for-godot",
+    "stargazers": 2
+  },
+  {
+    "repo_url": "https://github.com/Loppansson/kenney-impact-sounds-for-godot",
+    "stargazers": 2
+  },
+  {
+    "repo_url": "https://github.com/Like475/fpc-godot",
+    "stargazers": 2
+  },
+  {
+    "repo_url": "https://github.com/LeonFretter/godot-utility-ai-cs",
+    "stargazers": 2
+  },
+  {
+    "repo_url": "https://github.com/LeProfesseurStagiaire/new_DnD_phone",
+    "stargazers": 2
+  },
+  {
+    "repo_url": "https://github.com/LeProfesseurStagiaire/FW_Godot_controller_use",
+    "stargazers": 2
+  },
+  {
+    "repo_url": "https://github.com/Kubes-Content/GodotIntegerLineEdit",
+    "stargazers": 2
+  },
+  {
+    "repo_url": "https://github.com/JeffVenancius/G.etch-a-Sketch",
+    "stargazers": 2
+  },
+  {
+    "repo_url": "https://github.com/ImageParSeconde/Animated-LowPoly-Skeleton",
+    "stargazers": 2
+  },
+  {
+    "repo_url": "https://github.com/Ikersfletch/Godot-Gatekeeper",
+    "stargazers": 2
+  },
+  {
+    "repo_url": "https://github.com/Ignei88/MusicPlayer",
+    "stargazers": 2
+  },
+  {
+    "repo_url": "https://github.com/Harvzor/godot-gravity-bodies",
+    "stargazers": 2
+  },
+  {
+    "repo_url": "https://github.com/GuaraProductions/Stopwatch",
+    "stargazers": 2
+  },
+  {
+    "repo_url": "https://github.com/Goldenlion5648/SpookyGodotShaders",
+    "stargazers": 2
+  },
+  {
+    "repo_url": "https://github.com/Goldenlion5648/GodotSlicingGeometryExample",
+    "stargazers": 2
+  },
+  {
+    "repo_url": "https://github.com/Goldenlion5648/GlowAndBlurShadersTutorial",
+    "stargazers": 2
+  },
+  {
+    "repo_url": "https://github.com/GenreShinobi/Godotoro",
+    "stargazers": 2
+  },
+  {
+    "repo_url": "https://github.com/GeCreator/TableDB",
+    "stargazers": 2
+  },
+  {
+    "repo_url": "https://github.com/Games-for-Research/GDForms",
+    "stargazers": 2
+  },
+  {
+    "repo_url": "https://github.com/Gallilus/IcosphereMesh",
+    "stargazers": 2
+  },
+  {
+    "repo_url": "https://github.com/Flavelius/Godot-CSharpScript-Picker",
+    "stargazers": 2
+  },
+  {
+    "repo_url": "https://github.com/DevinPentecost/godot-adb-helper",
+    "stargazers": 2
+  },
+  {
+    "repo_url": "https://github.com/Demoli/GodotUndoRedo",
+    "stargazers": 2
+  },
+  {
+    "repo_url": "https://github.com/DaelonSuzuka/Godot-EditorControlSocket",
+    "stargazers": 2
+  },
+  {
+    "repo_url": "https://github.com/DaelonSuzuka/Godot-DebugPortIncrementer",
+    "stargazers": 2
+  },
+  {
+    "repo_url": "https://github.com/CsloudX/XDateTime",
+    "stargazers": 2
+  },
+  {
+    "repo_url": "https://github.com/CereEnder/godot-rotation-character-selector",
+    "stargazers": 2
+  },
+  {
+    "repo_url": "https://github.com/CapAntonWalker/Simple-Tileset",
+    "stargazers": 2
+  },
+  {
+    "repo_url": "https://github.com/Bugwan91/vector2_array_resource_editor",
+    "stargazers": 2
+  },
+  {
+    "repo_url": "https://github.com/Bloodyaugust/godot-ui-component-library",
+    "stargazers": 2
+  },
+  {
+    "repo_url": "https://github.com/Blaron/TimeCounter",
+    "stargazers": 2
+  },
+  {
+    "repo_url": "https://github.com/BigDC/MenusPlugin",
+    "stargazers": 2
+  },
+  {
+    "repo_url": "https://github.com/BBric/nested_code_box",
+    "stargazers": 2
+  },
+  {
+    "repo_url": "https://github.com/Anaxie-Studio/godot-csv-to-dictionary",
+    "stargazers": 2
+  },
+  {
+    "repo_url": "https://github.com/Anaxie-Studio/CSVDataImporter",
+    "stargazers": 2
+  },
+  {
+    "repo_url": "https://github.com/Abab-bk/FowerTapTapSDK",
+    "stargazers": 2
+  },
+  {
+    "repo_url": "https://github.com/ACB-prgm/GitDataPlugin",
+    "stargazers": 2
+  },
+  {
+    "repo_url": "https://github.com/50tu/Godot-Midi-Visualizer",
+    "stargazers": 2
+  },
+  {
+    "repo_url": "https://github.com/williamd1k0/gcode",
+    "stargazers": 1
+  },
+  {
+    "repo_url": "https://github.com/vecno-io/metafab-godot",
+    "stargazers": 1
+  },
+  {
+    "repo_url": "https://github.com/thiagobruno/godot_savelocal",
+    "stargazers": 1
+  },
+  {
+    "repo_url": "https://github.com/thepromaper/radio-buttons",
+    "stargazers": 1
+  },
+  {
+    "repo_url": "https://github.com/thememers/Godot_Bottom_Panel",
+    "stargazers": 1
+  },
+  {
+    "repo_url": "https://github.com/takelime/Godot-YouTube-API",
+    "stargazers": 1
+  },
+  {
+    "repo_url": "https://github.com/seoushi/godot-editor-restore-size",
+    "stargazers": 1
+  },
+  {
+    "repo_url": "https://github.com/samclee/Fade-Transition",
+    "stargazers": 1
+  },
+  {
+    "repo_url": "https://github.com/robinduckett/godot-blk-importer",
+    "stargazers": 1
+  },
+  {
+    "repo_url": "https://github.com/radontherapy/pong",
+    "stargazers": 1
+  },
+  {
+    "repo_url": "https://github.com/pokeparadox/Godot4_X_BinaryRadian",
+    "stargazers": 1
+  },
+  {
+    "repo_url": "https://github.com/nanodeath/godot-light-sensor",
+    "stargazers": 1
+  },
+  {
+    "repo_url": "https://github.com/mxt08-real/String-utilities",
+    "stargazers": 1
+  },
+  {
+    "repo_url": "https://github.com/mxt08-real/Base64-Manager",
+    "stargazers": 1
+  },
+  {
+    "repo_url": "https://github.com/morkhet/portable-inputmap",
+    "stargazers": 1
+  },
+  {
+    "repo_url": "https://github.com/mohsenph69/auto-vertex-painter",
+    "stargazers": 1
+  },
+  {
+    "repo_url": "https://github.com/mechPenSketch/Pausing",
+    "stargazers": 1
+  },
+  {
+    "repo_url": "https://github.com/mathiasplans/shape-grammar-plugin",
+    "stargazers": 1
+  },
+  {
+    "repo_url": "https://github.com/mashumafi/godot-local-backup",
+    "stargazers": 1
+  },
+  {
+    "repo_url": "https://github.com/lunarcloud/godot-rumble-example-project",
+    "stargazers": 1
+  },
+  {
+    "repo_url": "https://github.com/lucasvanmol/algodot-build",
+    "stargazers": 1
+  },
+  {
+    "repo_url": "https://github.com/kraasch/godot4_addon_basic-menu",
+    "stargazers": 1
+  },
+  {
+    "repo_url": "https://github.com/kimbunner/godot_save",
+    "stargazers": 1
+  },
+  {
+    "repo_url": "https://github.com/kaluluosi/Ginq",
+    "stargazers": 1
+  },
+  {
+    "repo_url": "https://github.com/jpdurigan/jpInspector3.x",
+    "stargazers": 1
+  },
+  {
+    "repo_url": "https://github.com/joshuajenner/fastnoiselite-tool",
+    "stargazers": 1
+  },
+  {
+    "repo_url": "https://github.com/jamesin4d/codesimp",
+    "stargazers": 1
+  },
+  {
+    "repo_url": "https://github.com/ismslv/godot_save_system",
+    "stargazers": 1
+  },
+  {
+    "repo_url": "https://github.com/ismailgamedev/Scene-Changer-Godot-4.x",
+    "stargazers": 1
+  },
+  {
+    "repo_url": "https://github.com/heppocogne/EditorIconExporter",
+    "stargazers": 1
+  },
+  {
+    "repo_url": "https://github.com/gilzoide/Godot-KeyShortcutCreator",
+    "stargazers": 1
+  },
+  {
+    "repo_url": "https://github.com/genete/collision_path_2d",
+    "stargazers": 1
+  },
+  {
+    "repo_url": "https://github.com/gabrielgp0811/pause-manager-v3",
+    "stargazers": 1
+  },
+  {
+    "repo_url": "https://github.com/gabrielgp0811/pause-manager",
+    "stargazers": 1
+  },
+  {
+    "repo_url": "https://github.com/emirthab/dance-game-godot",
+    "stargazers": 1
+  },
+  {
+    "repo_url": "https://github.com/drusin/godot-array-utils",
+    "stargazers": 1
+  },
+  {
+    "repo_url": "https://github.com/droc101/godot-image-text",
+    "stargazers": 1
+  },
+  {
+    "repo_url": "https://github.com/dragmz/gdlife",
+    "stargazers": 1
+  },
+  {
+    "repo_url": "https://github.com/deep-entertainment/godot-streamtoy-client",
+    "stargazers": 1
+  },
+  {
+    "repo_url": "https://github.com/dbiton/VOID",
+    "stargazers": 1
+  },
+  {
+    "repo_url": "https://github.com/davidkbd/Godot_SimpleColorTemplateEditor",
+    "stargazers": 1
+  },
+  {
+    "repo_url": "https://github.com/dagrooms52/GodotFileSearchPlugin",
+    "stargazers": 1
+  },
+  {
+    "repo_url": "https://github.com/chrono460/godot-octasphere",
+    "stargazers": 1
+  },
+  {
+    "repo_url": "https://github.com/cat-person/godot_turret_madness",
+    "stargazers": 1
+  },
+  {
+    "repo_url": "https://github.com/carrascomj/gdmeter",
+    "stargazers": 1
+  },
+  {
+    "repo_url": "https://github.com/boukew99/mondriaan_maker",
+    "stargazers": 1
+  },
+  {
+    "repo_url": "https://github.com/boukew99/mic_recorder",
+    "stargazers": 1
+  },
+  {
+    "repo_url": "https://github.com/awardell/AutomaticLayerEnums",
+    "stargazers": 1
+  },
+  {
+    "repo_url": "https://github.com/ava-cassiopeia/gdscript-signals",
+    "stargazers": 1
+  },
+  {
+    "repo_url": "https://github.com/arlo-phoenix/godot-dbus-nodes",
+    "stargazers": 1
+  },
+  {
+    "repo_url": "https://github.com/anthonyc06/GodotQuickPrimitives",
+    "stargazers": 1
+  },
+  {
+    "repo_url": "https://github.com/andrew-wilkes/godot4-animation-slider",
+    "stargazers": 1
+  },
+  {
+    "repo_url": "https://github.com/airreader/tilemap-merger",
+    "stargazers": 1
+  },
+  {
+    "repo_url": "https://github.com/acgc99/Godot-DateChecker",
+    "stargazers": 1
+  },
+  {
+    "repo_url": "https://github.com/aaronfranke/godot-gltf-khr-xmp-copyright",
+    "stargazers": 1
+  },
+  {
+    "repo_url": "https://github.com/Zacksly/Godot-Half-Tone-Comic-Shader",
+    "stargazers": 1
+  },
+  {
+    "repo_url": "https://github.com/Xiul109/SiSHoDit",
+    "stargazers": 1
+  },
+  {
+    "repo_url": "https://github.com/Wierdox/godot_pinned_debugger_tabs",
+    "stargazers": 1
+  },
+  {
+    "repo_url": "https://github.com/Whalesstate/KnightVSBishops",
+    "stargazers": 1
+  },
+  {
+    "repo_url": "https://github.com/Virus-Axel/godot-bs58",
+    "stargazers": 1
+  },
+  {
+    "repo_url": "https://github.com/VP-GAMES/FullscreenControl",
+    "stargazers": 1
+  },
+  {
+    "repo_url": "https://github.com/Ueine/Godot_Behaviour_Spawner",
+    "stargazers": 1
+  },
+  {
+    "repo_url": "https://github.com/The0ld/cs_onready_plugin",
+    "stargazers": 1
+  },
+  {
+    "repo_url": "https://github.com/Teln0/GodotTerminalEmulator",
+    "stargazers": 1
+  },
+  {
+    "repo_url": "https://github.com/SmartFoxServer/SFS_TicTacToe_GD4",
+    "stargazers": 1
+  },
+  {
+    "repo_url": "https://github.com/SmartFoxServer/SFS_LobbyBasics_GD4",
+    "stargazers": 1
+  },
+  {
+    "repo_url": "https://github.com/SlushyGames/HoverShake2D",
+    "stargazers": 1
+  },
+  {
+    "repo_url": "https://github.com/SilicDev/GodotCrowdControl",
+    "stargazers": 1
+  },
+  {
+    "repo_url": "https://github.com/ShatReal/game-jam-template",
+    "stargazers": 1
+  },
+  {
+    "repo_url": "https://github.com/ShatReal/Infinite-Save-System-4",
+    "stargazers": 1
+  },
+  {
+    "repo_url": "https://github.com/Senopiece/SaveTheBall",
+    "stargazers": 1
+  },
+  {
+    "repo_url": "https://github.com/RecBox-Games/godot-gamenite-controlpads",
+    "stargazers": 1
+  },
+  {
+    "repo_url": "https://github.com/Qwertygiy/godot-material-mud-cracked",
+    "stargazers": 1
+  },
+  {
+    "repo_url": "https://github.com/Qwertygiy/godot-material-dpa",
+    "stargazers": 1
+  },
+  {
+    "repo_url": "https://github.com/Qwertygiy/godot-material-concrete-ld",
+    "stargazers": 1
+  },
+  {
+    "repo_url": "https://github.com/Qwertygiy/godot-material-brick-orange",
+    "stargazers": 1
+  },
+  {
+    "repo_url": "https://github.com/Patchcoat/GodotAdvancedSearch",
+    "stargazers": 1
+  },
+  {
+    "repo_url": "https://github.com/Pardok/TileMapsChef",
+    "stargazers": 1
+  },
+  {
+    "repo_url": "https://github.com/OliveOil1/godot-debug-utility",
+    "stargazers": 1
+  },
+  {
+    "repo_url": "https://github.com/Ogoku/ScreenSwitcher",
+    "stargazers": 1
+  },
+  {
+    "repo_url": "https://github.com/Nukiloco/frame_timer",
+    "stargazers": 1
+  },
+  {
+    "repo_url": "https://github.com/NoctemCat/BottomPanelShortcuts",
+    "stargazers": 1
+  },
+  {
+    "repo_url": "https://github.com/NKNZgamedev/ScaleImporter",
+    "stargazers": 1
+  },
+  {
+    "repo_url": "https://github.com/MugenTwo/pong-cs",
+    "stargazers": 1
+  },
+  {
+    "repo_url": "https://github.com/MugenTwo/3d-kinematic-character-demo-cs",
+    "stargazers": 1
+  },
+  {
+    "repo_url": "https://github.com/MugenTwo/2d-platformer-demo-cs",
+    "stargazers": 1
+  },
+  {
+    "repo_url": "https://github.com/MugenTwo/2d-navigation-demo-cs",
+    "stargazers": 1
+  },
+  {
+    "repo_url": "https://github.com/MugenTwo/2d-kinematic-character-demo-cs",
+    "stargazers": 1
+  },
+  {
+    "repo_url": "https://github.com/Moynilr/GodotPinCodeLike",
+    "stargazers": 1
+  },
+  {
+    "repo_url": "https://github.com/MightyPrinny/godot-custom-3d-path",
+    "stargazers": 1
+  },
+  {
+    "repo_url": "https://github.com/MiDe-S/Credits-Godot",
+    "stargazers": 1
+  },
+  {
+    "repo_url": "https://github.com/Martin1991zab/Godot-TelloDroneDemo",
+    "stargazers": 1
+  },
+  {
+    "repo_url": "https://github.com/MarkVelez/Organizer-Plugin",
+    "stargazers": 1
+  },
+  {
+    "repo_url": "https://github.com/Malcolmnixon/Quaternius-Ultimate-Spaceships-Pack",
+    "stargazers": 1
+  },
+  {
+    "repo_url": "https://github.com/MahadDareshani/Shapes-Shader-Util",
+    "stargazers": 1
+  },
+  {
+    "repo_url": "https://github.com/Loppansson/kenney-voiceover-for-godot",
+    "stargazers": 1
+  },
+  {
+    "repo_url": "https://github.com/Loppansson/kenney-rpg-audio-for-godot",
+    "stargazers": 1
+  },
+  {
+    "repo_url": "https://github.com/Loppansson/kenney-music-jingles-for-godot",
+    "stargazers": 1
+  },
+  {
+    "repo_url": "https://github.com/Loppansson/kenney-digital-audio-for-godot",
+    "stargazers": 1
+  },
+  {
+    "repo_url": "https://github.com/Loppansson/kenney-casino-audio-for-godot",
+    "stargazers": 1
+  },
+  {
+    "repo_url": "https://github.com/Lilith-In-Starlight/godot-wav-file-reader",
+    "stargazers": 1
+  },
+  {
+    "repo_url": "https://github.com/KayKit-Game-Assets/KayKit-Space-Base-Bits-1.0",
+    "stargazers": 1
+  },
+  {
+    "repo_url": "https://github.com/KayKit-Game-Assets/KayKit-Furniture-Bits-1.0",
+    "stargazers": 1
+  },
+  {
+    "repo_url": "https://github.com/JstnJrg/FIlesystemFilter",
+    "stargazers": 1
+  },
+  {
+    "repo_url": "https://github.com/JstnJrg/Bazier-curve.Godot_template",
+    "stargazers": 1
+  },
+  {
+    "repo_url": "https://github.com/JonSnowbd/Schmove",
+    "stargazers": 1
+  },
+  {
+    "repo_url": "https://github.com/JoluMorsanDev/Godot-4-combat-area-2d-plugin",
+    "stargazers": 1
+  },
+  {
+    "repo_url": "https://github.com/JeffVenancius/SamplePlayer",
+    "stargazers": 1
+  },
+  {
+    "repo_url": "https://github.com/JeffVenancius/Godot-Body-Builder",
+    "stargazers": 1
+  },
+  {
+    "repo_url": "https://github.com/IntangibleMatter/rTexPackerGd",
+    "stargazers": 1
+  },
+  {
+    "repo_url": "https://github.com/Goldenlion5648/StringToAsciiDisplay",
+    "stargazers": 1
+  },
+  {
+    "repo_url": "https://github.com/Goldenlion5648/GodotTriangleGridExample",
+    "stargazers": 1
+  },
+  {
+    "repo_url": "https://github.com/Goldenlion5648/GodotLeafSuckingExample",
+    "stargazers": 1
+  },
+  {
+    "repo_url": "https://github.com/Goldenlion5648/GDScriptTipsForGodot",
+    "stargazers": 1
+  },
+  {
+    "repo_url": "https://github.com/Gatada/DebugInterfaceComponents",
+    "stargazers": 1
+  },
+  {
+    "repo_url": "https://github.com/Gallilus/VisualScriptCustomNodes",
+    "stargazers": 1
+  },
+  {
+    "repo_url": "https://github.com/Frontrider/Godot-Tiled-Tools",
+    "stargazers": 1
+  },
+  {
+    "repo_url": "https://github.com/Frontrider/Godot-Drag-Control",
+    "stargazers": 1
+  },
+  {
+    "repo_url": "https://github.com/EladKarni/InputMapperPresetLoader",
+    "stargazers": 1
+  },
+  {
+    "repo_url": "https://github.com/Echopraxium/PigmintControls",
+    "stargazers": 1
+  },
+  {
+    "repo_url": "https://github.com/Drumstickz64/godot_jump_buffer",
+    "stargazers": 1
+  },
+  {
+    "repo_url": "https://github.com/Draconis-25/AG-Credits",
+    "stargazers": 1
+  },
+  {
+    "repo_url": "https://github.com/Domogo/pong",
+    "stargazers": 1
+  },
+  {
+    "repo_url": "https://github.com/DeeJayLSP/godot-save-config-demo",
+    "stargazers": 1
+  },
+  {
+    "repo_url": "https://github.com/DavidCambre/VisualScript-Editor-Extention",
+    "stargazers": 1
+  },
+  {
+    "repo_url": "https://github.com/CoolGabrijel/GodotCautionTape",
+    "stargazers": 1
+  },
+  {
+    "repo_url": "https://github.com/CodinggWorm/Punching-Bag",
+    "stargazers": 1
+  },
+  {
+    "repo_url": "https://github.com/Bytezz/godot-RelativeMargin",
+    "stargazers": 1
+  },
+  {
+    "repo_url": "https://github.com/BumbleMeowPublic/custom-image-equalizer",
+    "stargazers": 1
+  },
+  {
+    "repo_url": "https://github.com/BenceBiricz/VR-movement-tracking",
+    "stargazers": 1
+  },
+  {
+    "repo_url": "https://github.com/BangL/HCoroutines",
+    "stargazers": 1
+  },
+  {
+    "repo_url": "https://github.com/Arthuralk/MatCap",
+    "stargazers": 1
+  },
+  {
+    "repo_url": "https://github.com/Al-Shahrior/Bangla-Unicode-to-ANSI",
+    "stargazers": 1
+  },
+  {
+    "repo_url": "https://github.com/Abab-bk/GodotDFA",
+    "stargazers": 1
+  },
+  {
+    "repo_url": "https://github.com/AFE-GmdG/ExtraNodesCS",
+    "stargazers": 1
+  },
+  {
+    "repo_url": "https://github.com/ACB-prgm/XMLReader",
+    "stargazers": 1
+  },
+  {
+    "repo_url": "https://github.com/zaevi/godot-toggle-code-generation",
+    "stargazers": 0
+  },
+  {
+    "repo_url": "https://github.com/wewnumam/godot-engine-simple-calculator",
+    "stargazers": 0
+  },
+  {
+    "repo_url": "https://github.com/velopman/godot-stream-comment",
+    "stargazers": 0
+  },
+  {
+    "repo_url": "https://github.com/toafloast/SettingsChangeTracker",
+    "stargazers": 0
+  },
+  {
+    "repo_url": "https://github.com/spectreseven1138/Godot-Mono-Build-Toggler",
+    "stargazers": 0
+  },
+  {
+    "repo_url": "https://github.com/schmertenk/HighscoreManager",
+    "stargazers": 0
+  },
+  {
+    "repo_url": "https://github.com/sairam4123/pastebin-api-wrapper",
+    "stargazers": 0
+  },
+  {
+    "repo_url": "https://github.com/roodletoof/gdTweener",
+    "stargazers": 0
+  },
+  {
+    "repo_url": "https://github.com/pokeparadox/GodotAlternativeTimer",
+    "stargazers": 0
+  },
+  {
+    "repo_url": "https://github.com/pascal-ballet/ComputeShaderStudio",
+    "stargazers": 0
+  },
+  {
+    "repo_url": "https://github.com/omid3098/expander-addon",
+    "stargazers": 0
+  },
+  {
+    "repo_url": "https://github.com/nndda/godot-theatre",
+    "stargazers": 0
+  },
+  {
+    "repo_url": "https://github.com/mxt08-real/Notes",
+    "stargazers": 0
+  },
+  {
+    "repo_url": "https://github.com/mechPenSketch/hide_workspace",
+    "stargazers": 0
+  },
+  {
+    "repo_url": "https://github.com/mechPenSketch/4-dir_Anim",
+    "stargazers": 0
+  },
+  {
+    "repo_url": "https://github.com/kfj001/g-orctober",
+    "stargazers": 0
+  },
+  {
+    "repo_url": "https://github.com/gsioteam/RollerNumber",
+    "stargazers": 0
+  },
+  {
+    "repo_url": "https://github.com/gdplugs/VersionCheck",
+    "stargazers": 0
+  },
+  {
+    "repo_url": "https://github.com/extremesphere/tw",
+    "stargazers": 0
+  },
+  {
+    "repo_url": "https://github.com/chrono460/godot-orbital-mechanics",
+    "stargazers": 0
+  },
+  {
+    "repo_url": "https://github.com/atkostudios/gd-weaver-assets",
+    "stargazers": 0
+  },
+  {
+    "repo_url": "https://github.com/anthonyc06/GodotQuickToolbar",
+    "stargazers": 0
+  },
+  {
+    "repo_url": "https://github.com/akjava/TopDownRigidBody2DMove",
+    "stargazers": 0
+  },
+  {
+    "repo_url": "https://github.com/WiseNoodle/expand-collapse-node-godot-addon",
+    "stargazers": 0
+  },
+  {
+    "repo_url": "https://github.com/WhiteDog-Apps/AutoExpandPropertyInspector_Godot_Plugin",
+    "stargazers": 0
+  },
+  {
+    "repo_url": "https://github.com/SmartFoxServer/SFS_Connector_GD4",
+    "stargazers": 0
+  },
+  {
+    "repo_url": "https://github.com/SmartFoxServer/SFS_Buddies_GD4",
+    "stargazers": 0
+  },
+  {
+    "repo_url": "https://github.com/Scrawach/gdstomp",
+    "stargazers": 0
+  },
+  {
+    "repo_url": "https://github.com/RevolNoom/godot_morton_code",
+    "stargazers": 0
+  },
+  {
+    "repo_url": "https://github.com/QJPG/gd-xt",
+    "stargazers": 0
+  },
+  {
+    "repo_url": "https://github.com/Perodactyl/RegularPolygon2D",
+    "stargazers": 0
+  },
+  {
+    "repo_url": "https://github.com/Nukiloco/editor_background",
+    "stargazers": 0
+  },
+  {
+    "repo_url": "https://github.com/MuffinInACup/ARMBE",
+    "stargazers": 0
+  },
+  {
+    "repo_url": "https://github.com/MeagherGames/aseprite-importer-addon",
+    "stargazers": 0
+  },
+  {
+    "repo_url": "https://github.com/ManuelArtz/Volume-Sliders-Singleton-example-",
+    "stargazers": 0
+  },
+  {
+    "repo_url": "https://github.com/Luzzotica/GodotFioSdk",
+    "stargazers": 0
+  },
+  {
+    "repo_url": "https://github.com/Loppansson/ez-music-cuer",
+    "stargazers": 0
+  },
+  {
+    "repo_url": "https://github.com/Linko-3D/Pause-and-Save",
+    "stargazers": 0
+  },
+  {
+    "repo_url": "https://github.com/KijouShihona/2DActionComputeResource",
+    "stargazers": 0
+  },
+  {
+    "repo_url": "https://github.com/Joseph-DiGiovanni/godot_auto_night_mode",
+    "stargazers": 0
+  },
+  {
+    "repo_url": "https://github.com/ImageParSeconde/Animated-Zombie",
+    "stargazers": 0
+  },
+  {
+    "repo_url": "https://github.com/ImageParSeconde/Animated-FPS-BOW",
+    "stargazers": 0
+  },
+  {
+    "repo_url": "https://github.com/ImageParSeconde/-Animated-LowPoly-Slime",
+    "stargazers": 0
+  },
+  {
+    "repo_url": "https://github.com/Igorrreha/godot-reactive",
+    "stargazers": 0
+  },
+  {
+    "repo_url": "https://github.com/Ignei88/NameCharacter",
+    "stargazers": 0
+  },
+  {
+    "repo_url": "https://github.com/Goldenlion5648/VideoToGameExample",
+    "stargazers": 0
+  },
+  {
+    "repo_url": "https://github.com/Goldenlion5648/TangramsPuzzle",
+    "stargazers": 0
+  },
+  {
+    "repo_url": "https://github.com/Goldenlion5648/GodotTileMatchingGameExample",
+    "stargazers": 0
+  },
+  {
+    "repo_url": "https://github.com/Goldenlion5648/GodotAnimations",
+    "stargazers": 0
+  },
+  {
+    "repo_url": "https://github.com/FonderElite/Asteroid-Mania",
+    "stargazers": 0
+  },
+  {
+    "repo_url": "https://github.com/DrOffensive/PlayerPrefsUtility",
+    "stargazers": 0
+  },
+  {
+    "repo_url": "https://github.com/Delalex/GodoGram",
+    "stargazers": 0
+  },
+  {
+    "repo_url": "https://github.com/DavidCambre/VisualScriptNew",
+    "stargazers": 0
+  },
+  {
+    "repo_url": "https://github.com/Bytezz/godot-get-os-name",
+    "stargazers": 0
+  },
+  {
+    "repo_url": "https://github.com/BrotatoMods/ML_Dev_Tool_Content_Loader_minimal_Tempalte",
+    "stargazers": 0
+  },
+  {
+    "repo_url": "https://github.com/Blockyheadman/BTransition",
+    "stargazers": 0
+  },
+  {
+    "repo_url": "https://github.com/Ark2000/Trans-Type-Demo",
+    "stargazers": 0
+  },
+  {
+    "repo_url": "https://github.com/AlexHoratio/GodotIRC",
+    "stargazers": 0
+  },
+  {
+    "repo_url": "https://github.com/ASecondGuy/InputFilter",
+    "stargazers": 0
+  }
+]
