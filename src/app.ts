@@ -1,7 +1,7 @@
 import {Octokit} from "octokit";
 import {writeFile} from "fs";
 import {MultiBar, Presets} from "cli-progress";
-import {number, boolean, command, flag, option, run, string} from "cmd-ts";
+import {boolean, command, flag, number, option, run, string} from "cmd-ts";
 import {PaginatedGodotAssets, parse_github, ParsedGithub} from "./godot_assets";
 
 
