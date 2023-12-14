@@ -5,9 +5,6 @@ sorting the results by github stars. Presently, only github projects are parseab
 
 ## Generate usage instructions
 
-The API call to get the stars for a given project is rate limited. With no auth, you only get 60 calls per hour.
-So you really need to use the `-k` flag for this script to work.
-
 ```bash
 $ npm run app -- -h
 ```
@@ -30,6 +27,9 @@ OPTIONS:
 ```
 
 ## Sample usage
+
+The API call to get the stars for a given project is rate limited. With no auth, you only get 60 calls per hour.
+So you really need to use the `-k` flag for this script to work.
 
 ```bash
 $ npm run app -- -o results.json -k <my_github_key>
