@@ -1,9 +1,7 @@
 # ls-godot-assets
 
 A quick and easy command line tool for scraping the godot addon database,
-sorting the results by github stars.
-
-Presently, only github projects are parseable by the tool.
+sorting the results by github stars. Presently, only github projects are parseable by the tool.
 
 ## Generate usage instructions
 
@@ -39,4 +37,4 @@ $ jq -r '.[] | "* \(.stargazers) \(.repo_url)"' results.json > results.md
 ```
 
 ## Sample output
-Example output (generated in December 2023) is saved in out/sorted.json
+Example output (generated in December 2023) is saved in `out/`.
