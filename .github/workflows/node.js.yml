@@ -25,4 +25,6 @@ jobs:
     - run: npm i
     - run: npx eslint src
     - run: npx tsc
+    # Show the output of --help in CI, just to help human debuggers.
+    - run: npm run app -- --help || true
     - run: head -c 100 dist/app.js
